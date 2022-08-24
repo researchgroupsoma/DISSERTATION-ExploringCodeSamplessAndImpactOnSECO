@@ -1,0 +1,1 @@
+In this chapter, we aim to explore the actors that interact with code samples. How experienced their clients are? And their maintainer? Are they popular or experienced?

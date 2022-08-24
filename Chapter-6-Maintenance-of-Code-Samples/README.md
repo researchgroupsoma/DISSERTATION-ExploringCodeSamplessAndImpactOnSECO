@@ -1,0 +1,1 @@
+In this chapter, we aim to explore the code sample maintenance and their evolution of time. Assessing the most common maintenance activities, source code evolution and the impact of this evolution on their clients.
