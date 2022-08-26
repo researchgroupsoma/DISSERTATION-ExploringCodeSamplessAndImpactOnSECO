@@ -1,0 +1,615 @@
+Framework,Id,Score,ViewCount,Title,Tags,AnswerCount,Category
+Android,28734594,6,8693,Camera2 video recording,<android><android-camera>,1,MODIFY
+Android,29848140,1,1138,android-XYZTouristAttractions google's example: error while trying to compile,<android>,1,RUNNING
+Android,31188849,3,3785,Android Studio not recognising Gradle projects,<android><android-studio><gradle>,5,IMPORT
+Android,30444150,1,705,Use of cardstream in google place picker sample code,<google-places-api>,1,IMPORT
+Android,32021193,27,25619,How to capture barcode values using the new Barcode API in Google Play Services?,<android><google-play-services><google-vision>,1,MODIFY
+Android,32051973,12,16099,Google Vision API Samples: Get the CameraSource to Focus,<android><camera><google-play-services><google-vision><android-vision>,3,MODIFY
+Android,32258675,5,2913,New vision API - Picture size,<android><camera><google-play-services><google-vision><android-vision>,1,MODIFY
+Android,34638651,10,3202,How to get an Android Camera2 with 1:1 ratio like Instagram?,<android><android-camera2>,3,MODIFY
+Android,37206416,3,952,No tool chain is available to IMPORT for platform 'armeabi-v7a',<android><android-studio><android-ndk>,2,RUNNING
+Android,39044494,8,7231,Get full screen preview with Android camera2,<android><camera><camera2><android-camera2>,2,MODIFY
+Android,39022845,6,8702,Android Camera2 API switch back - front cameras,<android><camera><camera2><android-camera2>,2,MODIFY
+Android,40849143,1,212,Cannot clone project from github,<git><android-studio><github>,1,IMPORT
+Android,41032145,1,1240,JSON with Android Universal Media Player Application (MediaPlayer Error 1),<android><json>,2,MODIFY
+Android,26479618,1,1950,"Android L ""Device provisioning is not enabled""?",<android><android-5.0-lollipop>,1,RUNNING
+Android,26310908,1,1108,Android L Manage Profile,<android><android-5.0-lollipop>,1,RUNNING
+Android,28004653,2,6708,Problems with OnClick to remove item from within Adapter,<android><adapter><android-recyclerview>,2,MODIFY
+Android,28003186,16,31689,Capture picture without preview using camera2 API,<android><camera>,3,MODIFY
+Android,28116521,1,932,Geofences do not work as expected,<google-play-services><geofencing>,1,RUNNING
+Android,28355353,4,2995,Android geofencing when app is killed,<android><service><android-service><geofencing><android-geofence>,3,REFERENCE
+Android,27139281,7,3866,Installing app to managed profile,<android><android-5.0-lollipop><android-managed-profile>,1,MODIFY
+Android,28685027,2,4714,Can Media Projection api take a screenshot from my home screen on lollipop?,<android><screenshot><android-5.0-lollipop>,1,REFERENCE
+Android,28966466,1,651,"Google Fit stopped working, ""Fitness.HistoryApi.insertData"" returns success but doesn't shows up in Google Fit application",<android><google-fit>,2,RUNNING
+Android,28954421,15,32893,Android cannot resolve method requestLocationUpdates FusedLocationProviderAPI,<android><fusedlocationproviderapi>,6,RUNNING
+Android,29190072,6,4110,Android ActivityRecognition java.lang.NullPointerException: Appropriate Api was not requested,<android><activity-recognition>,1,MODIFY
+Android,29724923,5,3486,Limiting result in country with Google Place autocomplete?,<android><google-places-api>,2,MODIFY
+Android,29744045,1,1712,Google Places API Android resultCallback not firing,<android><google-play-services><google-places-api>,2,MODIFY
+Android,29861580,12,4281,LocationServices.SettingsApi Reset SETTINGS_CHANGE_UNAVAILABLE flag,<android><google-play-services>,1,MODIFY
+Android,30047918,2,861,Android Testing Support Library not found with Espresso and different IMPORTVariants,<android><android-testing><android-espresso>,1,REFERENCE
+Android,30106336,2,1236,How to capture a screenshot programmatically with Lollipop,<android><android-mediaprojection>,1,REFERENCE
+Android,30195940,13,9302,Android Camera2 getPreviewFrame,<android><android-camera><android-5.0-lollipop>,1,MODIFY
+Android,30582324,1,665,Google example universal music player IMPORT error,<java><android><android-studio><wear-os>,1,IMPORT
+Android,30838231,1,565,OnDataPointListener does not get callback if GoogleApiClient is disconnected,<android><google-fit>,2,MODIFY
+Android,30163964,3,1164,Device owner issue using adb method with LG devices only,<android><adb><android-5.0-lollipop><device-owner>,1,MODIFY
+Android,30952459,2,3526,Android: How to change OpenGLES texture data / bitmap from gallery / camera,<java><android><opengl-es><effects>,1,MODIFY
+Android,31064433,1,535,How to keep forked version of github sycned,<github><android-studio><version-control><fork>,1,IMPORT
+Android,31120662,1,4428,Android Studio isn't recognizing the checkSelfPermission,<android><permissions><android-6.0-marshmallow>,2,RUNNING
+Android,31323889,1,107,Android RecyclerView requires 2 clicks to set strings,<android><android-recyclerview><recycler-adapter>,1,MODIFY
+Android,31371440,5,2657,Android Studio: New gradle IMPORT NDK sample app error,<android><android-ndk>,2,IMPORT
+Android,31345049,2,1698,Xamarin Android Google Places Api AutoComplete broken,<xamarin><xamarin.android><google-places-api>,2,MODIFY
+Android,31290783,7,548,Custom sync not working with Google Account (com.google) on some Samsung devices,<android><sync><samsung-mobile><android-syncadapter>,1,MODIFY
+Android,31506508,1,299,UNEXPECTED TOP-LEVEL EXCEPTION when IMPORTing NDK Samples,<android><android-ndk>,1,IMPORT
+Android,31579686,2,532,Android M fingerprint Scanner Support example getting Nullpointer exception,<android><nullpointerexception><keystore><secret-key>,1,RUNNING
+Android,31751885,1,2239,NDK samples with Android Studio 1.3 preview: can't find headers,<android><android-ndk>,1,RUNNING
+Android,31797821,1,718,Unable to focus on nearby objects,<android><android-camera>,2,MODIFY
+Android,31786559,1,258,Breakpoints in native code can not be triggered in Android Studio 13,<android-studio><gradle><android-ndk>,1,RUNNING
+Android,31884355,3,4220,Espresso won't find View when included with androidTestCompile,<android><android-gradle><android-espresso>,1,MODIFY
+Android,31984622,3,7190,How to save a YUV_420_888 image?,<android><android-camera>,2,MODIFY
+Android,31756883,2,687,Android universal music player add album cover in the MediaItemViewHolder,<java><android><android-imageview><android-bitmap>,1,MODIFY
+Android,32108318,5,1934,Android Camera2 Basics API,<android><android-camera>,1,MODIFY
+Android,32153945,1,614,I failed to use gradle command line to IMPORT the android example code,<android-studio><command-line><gradle>,2,IMPORT
+Android,32142463,10,4336,How to stub select images intent using Espresso intents?,<java><android><android-intent><android-testing><android-espresso>,2,MODIFY
+Android,32295158,4,2634,lintOptions for experimental Gradle IMPORT tool in Android Studio 1.3,<android><android-studio><android-gradle><IMPORT.gradle><gradle-experimental>,2,MODIFY
+Android,32310523,3,4462,Issue when migrating to Gradle Experimental 2.5 : no such method AndroidConfig,<android><android-studio><gradle><android-ndk><gradle-experimental>,1,MODIFY
+Android,32603382,3,1556,NoClassDefFoundError when running Gradle connectedCheck on AVD emulator,<android><android-emulator><android-testing><android-espresso><avd>,3,RUNNING
+Android,31987928,1,262,Android layout xml rotation orientation,<java><android><xml><cordova><layout>,1,MODIFY
+Android,33149700,5,2077,Activity Recognition Running permissions in android 6.0,<android><android-permissions><android-6.0-marshmallow><activity-recognition>,2,REFERENCE
+Android,33220233,17,12352,Cannot resolve symbol FragmentCompat,<android>,2,IMPORT
+Android,33039188,18,7040,checkSelfPermission returning PERMISSION_GRANTED for revoked permission with targetSdkVersion <= 22,<android><android-6.0-marshmallow>,2,RUNNING
+Android,33379534,27,8839,"Call requires API level 23' error, but getForeground() exists on FrameLayout from API 1",<java><android><android-studio><android-framelayout><android-api-levels>,1,MODIFY
+Android,33391042,1,940,How to cancel FragmentTransaction commit,<android><fragment><fragmenttransaction>,1,MODIFY
+Android,33371331,5,6020,How to get detected barcode/QR automatically,<android><android-vision>,2,REFERENCE
+Android,33617074,1,1196,Flavor dimensions and variant filters for experimental plugin?,<android><android-ndk><android-gradle><android-productflavors><gradle-experimental>,1,REFERENCE
+Android,33654287,2,1241,Recording 4K with MediaRecorder,<android><android-camera><android-mediarecorder>,2,MODIFY
+Android,33851794,12,1394,Why is registering IabBroadcastReceiver in Activity a bad idea?,<android>,3,REFERENCE
+Android,33907279,2,1067,"Smart Lock for Passwords not working on certain phones, error message ""No eligible accounts on this device""",<android><google-play-services><google-smartlockpasswords>,1,RUNNING
+Android,33763874,8,1677,Nearby connection API for Android - not working for some devices,<android><google-nearby>,2,RUNNING
+Android,34017544,1,3741,Android Google Fit example is not working,<android><google-fit><google-fit-sdk>,1,RUNNING
+Android,34169251,1,749,Why is a hardcoded UUID used in the Android Sample BluetoothChat application?,<android><bluetooth><uuid>,1,REFERENCE
+Android,34170159,1,731,Using a callback vs using Handler in Android?,<java><android><callback><listener><handler>,2,REFERENCE
+Android,34476043,14,1132,Why is `hasEnrolledFingerprints` giving error that it requires a permission only in my Fragment but not in the Activity in Google's Example?,<android><android-fragments><android-6.0-marshmallow><android-fingerprint-api>,1,MODIFY
+Android,34545676,3,1065,Updating MediaBrowserService to MediaBrowserServiceCompat removes 'browse' function,<android><android-mediaplayer><android-support-library><appcompat><android-wear-notification>,1,MODIFY
+Android,34627394,1,1750,SIPdroid Android Studio ndk integration error,<android><android-studio><gradle><android-ndk><sipdroid>,1,MODIFY
+Android,34387574,1,2116,Android Studio Instant Run not working,<android-studio><instant-run>,2,IMPORT
+Android,35105545,19,15782,How to mock a SharedPreferences using Mockito,<android><sharedpreferences><mockito>,1,REFERENCE
+Android,35211950,1,2187,How to test Intent based on Espresso in Android?,<android><android-intent><android-espresso>,1,MODIFY
+Android,32990275,4,3851,how to register Fingerprint for Authentication on Nexus emulator,<emulation><nexus-5>,2,REFERENCE
+Android,35354363,10,1899,Set brightness/contrast in video capture using Android Camera2,<android><video><video-capture><android-camera2>,1,MODIFY
+Android,35287835,2,6762,Detect and capture barcode automatically when it is read by camera,<android>,3,MODIFY
+Android,35489632,11,6424,Limit Detection Area in Vision API,<android><google-vision><android-vision>,1,REFERENCE
+Android,35048208,4,3256,High speed Capture request Android Marshmallow,<android><android-camera>,1,MODIFY
+Android,35604954,1,424,"Capture photo and apply effects (scale, rotate, grey, draw with finger)",<android><android-camera2>,1,MODIFY
+Android,34298780,5,2062,Hello-jni sample doesn't work in Android Studio 2.0 Preview,<android><android-studio><android-ndk><java-native-interface>,2,IMPORT
+Android,35634085,6,3225,AttributeError: 'module' object has no attribute 'SignedJwtAssertionCredentials',<android><python><attributeerror><oauth2client><google-play-developer-api>,1,RUNNING
+Android,35664198,1,1337,No runnable methods on Android JUnit4 Instrumentation Tests,<java><android><testing><junit4><android-instrumentation>,1,MODIFY
+Android,35711493,2,2233,How to Import Sample ApiDemos into Android Studio 1.5.1,<android><android-studio><github>,3,REFERENCE
+Android,35709241,7,6500,Android ImageReader get NV21 format?,<android><image><imaging><android-mediaprojection>,1,MODIFY
+Android,35757052,2,3762,Gradle error when using Google's latest API,<java><android><android-studio><android-gradle><google-vision>,1,IMPORT
+Android,35793657,3,755,Android Camera2 picture is black and video records only 1sec,<android><video><android-camera><android-image><android-camera2>,4,RUNNING
+Android,35636078,1,664,Android Credentials API - No eligible accounts,<android><google-api-client>,2,RUNNING
+Android,33472447,3,2584,Fingerprint: too many attempts issue,<android><fingerprint><android-6.0-marshmallow>,1,RUNNING
+Android,35968315,8,6675,android camera2 handle zoom,<android><zoom><capture><android-camera2>,4,MODIFY
+Android,36034766,8,2523,How to use extra *.so libraries on Android Studio and NDK,<android><android-studio><java-native-interface><shared-libraries><gradle-experimental>,1,REFERENCE
+Android,34832098,1,1123,Nexus 5X records video rotated upside down using MediaRecorder and camera2,<android><video-capture><android-mediarecorder><android-camera2>,2,MODIFY
+Android,36204550,1,3726,cannot resolve method newinstance(),<android><android-fragments><fragment><android-fragmentactivity><android-camera2>,2,IMPORT
+Android,36180407,5,4592,Why the address of my BluetoothDevice changes every time I relaunch the app?,<android><bluetooth-lowenergy>,1,RUNNING
+Android,36368371,2,1294,Examples for Java Client Library for Google Fit REST API (not Android API!),<java><google-fit>,3,REFERENCE
+Android,36472561,5,721,Android NDK unable to debug native code with two gradle plugins,<android><debugging><android-ndk><java-native-interface><native>,1,REFERENCE
+Android,36004651,10,802,How can Android project compile when imported class is missing in SDK?,<android><android-studio><android-sdk-tools><android-IMPORT><android-studio-import>,1,IMPORT
+Android,36530342,1,807,"android studio ndk develop, editor can't find ndk headers",<c++><android-studio><gradle><android-ndk><header>,1,RUNNING
+Android,35133519,4,355,MockContentResolver is not found in an Android Test project with separate module,<android><android-testing>,3,RUNNING
+Android,35620400,5,4069,Changing Flash setting of Android Camera 2 at runtime,<java><android><mobile><android-camera2>,3,MODIFY
+Android,37124544,2,208,Gradle JUnit android run all but @FlakyTest,<android><gradle><junit><android-espresso>,1,REFERENCE
+Android,37144657,3,2561,Switch flash in Camera2 API,<android><android-camera><android-camera2><camera-flash>,1,MODIFY
+Android,37300874,4,2265,Why isn't the new Play-Services FaceDetector available on some devices?,<android><google-play-services><face-detection>,2,REFERENCE
+Android,37441252,5,636,Camera 2 : Unable to record video in full screen?,<android><camera-api>,2,MODIFY
+Android,37816319,2,54,Android ReceiveReceive Text via Bluetooth,<android><logging><arduino><android-bluetooth>,1,MODIFY
+Android,38403559,1,257,Google Play Dev Console automation of creating a new app,<android><fastlane>,1,REFERENCE
+Android,38601271,6,656,Android Auto app never calls onGetRoot,<android><android-auto>,2,REFERENCE
+Android,38274943,2,7468,Android NDK linker Error:error: undefined reference to std::basic_string,<c++11><android-ndk><android-gradle><IMPORT.gradle><ndk-IMPORT>,1,IMPORT
+Android,39034348,2,563,"Xamarin.Android PackageInstaller Session.commit ""Files still open"" Exception on apk silent install",<c#><android><xamarin><xamarin.android><android-install-apk>,1,MODIFY
+Android,38832797,1,1839,Using Prebuilt library in Android Studio,<android><gradle><android-ndk><java-native-interface><boringssl>,1,REFERENCE
+Android,39327480,2,3873,How to get user's current location in Android,<android><location><google-play-services>,2,REFERENCE
+Android,39281557,2,1355,Get Frame when detecting text using a pipeline in Android Mobile Vision,<android><android-vision>,1,MODIFY
+Android,39464909,1,1065,Get File Uri from Document Id in Storage Access Framework,<android><android-5.0-lollipop><android-6.0-marshmallow><android-file><storage-access-framework>,1,MODIFY
+Android,39954501,1,281,What is minimal dependency import for location.places?,<android><google-play-services>,1,IMPORT
+Android,40419605,1,903,"How to get access to ""/"" (root) directory using Storage Access framework",<android><android-7.0-nougat><android-7.1-nougat>,1,MODIFY
+Android,40832882,10,4121,Does Machine Vision API work offline?,<android-vision>,2,REFERENCE
+Android,41096332,1,822,Issues traversing through directory hierarchy with Android Storage Access Framework / DocumentProvider using MTP,<android><android-external-storage><mtp><storage-access-framework><document-provider>,3,REFERENCE
+Android,41251543,4,2424,MVP and RxJava - Handling Orientation Changes on Android,<android><rx-java><screen-orientation><rx-android>,2,MODIFY
+Android,41363429,1,481,Android MVP architecture - communication between IMPORT and view,<android><design-patterns><mvp>,1,MODIFY
+Android,40766673,3,7855,Android - Failed to find CMake,<android><c++><android-ndk>,3,IMPORT
+Android,41393423,1,896,Android Studio 2.2.3 cannot find <vector>,<android><android-ndk><cmake><ndk-IMPORT>,2,IMPORT
+Android,41500348,2,629,Why getPurchaseHistory method is not present in IInAppBillingService.aidl even if it is documented?,<android><google-play><google-play-services>,2,REFERENCE
+Android,41646040,4,659,MVP + RxJava - Put the Schedulers in the Presenter or in the Interactor?,<android><architecture><rx-java><kotlin><mvp>,2,REFERENCE
+Android,41652621,2,753,Trouble IMPORTing shared lib with CMake using Android NDK,<android><android-studio><android-ndk><cmake>,1,MODIFY
+Android,41732005,1,818,Full screen preview camera2Basic Example Project,<android><android-layout><android-camera2>,1,MODIFY
+Android,41705194,5,1352,How to instantiate GoogleIdTokenVerifier properly / what does .setAudience() do?,<java><android><google-signin><google-authentication>,1,REFERENCE
+Android,41790052,2,780,Camera2 API Make Preview Fill Entire View,<java><android><android-layout><android-fragments><android-camera2>,2,MODIFY
+Android,36055167,1,2741,Camera2 API picture taken wont show at gallery apps,<android><android-studio><android-camera2>,3,MODIFY
+Android,41892544,5,3196,"Android, CMake and Static Linking",<android-ndk><cmake>,1,MODIFY
+Android,41982214,1,587,Android Camera2 : can't take picture with front camera,<android><android-camera>,1,MODIFY
+Android,42009948,1,1064,How do I show permissions rationale for multiple permissions request?,<android><android-alertdialog><android-permissions><android-dialog>,1,REFERENCE
+Android,39407587,1,2258,Android native debug compiled with externalNativeIMPORT.ndkIMPORT,<android><c++><debugging><android-ndk>,2,RUNNING
+Android,42068877,1,821,Is Android Fingerprint provide fingerprint name or Any unique identity of fingerprint?,<android><android-6.0-marshmallow><android-fingerprint-api>,2,MODIFY
+Android,37462464,1,235,how to get Key_name for fingerprint scanner?,<android>,1,MODIFY
+Android,42119670,1,259,Sound glitch on Android OpenSLES buffered queue,<android-ndk><opensl>,1,MODIFY
+Android,42054221,27,1174,Memory allocation problems with android application,<java><android><android-camera2>,4,MODIFY
+Android,42112519,8,3263,How to Disable multiple barcode detection android Vision API,<android><barcode-scanner><android-vision>,2,MODIFY
+Android,42258489,1,755,SafetyNet: package name always return null,<android><google-play-services><safetynet>,1,MODIFY
+Android,42366276,2,2979,Android: How to record video using android.hardware.camera2 and MediaRecorder,<android><camera><android-camera><android-camera2>,2,REFERENCE
+Android,42358194,2,1028,How to debug Android Studio Project (using NDK and JNI) line by line to see the workflow?,<android-studio><debugging><android-ndk><java-native-interface>,2,REFERENCE
+Android,42403890,3,1782,What is the use case of new Voided Purchases API,<android>,2,MODIFY
+Android,42420540,4,546,Mobile Vision API BarcodeDetector only detects in centre of the screen,<android><barcode><android-vision><vision-api>,1,MODIFY
+Android,42820003,12,9104,Can i register MVP Presenter inside Fragment,<android><android-fragments><android-activity><mvp><android-mvp>,1,REFERENCE
+Android,42583759,17,7806,DataBinding not working after Upgrade Android Studio 2.3,<android><android-studio><data-binding><android-databinding><android-studio-2.3>,7,RUNNING
+Android,39454127,1,1502,"Why is package ""com.android.bluetooth"" querying our MediaBrowserService on Samsung devices?",<android><wear-os><samsung-mobile><android-auto>,2,REFERENCE
+Android,42901334,4,6003,Manual Focus using android camera2 API,<android><api><focus><android-camera2><lg>,2,MODIFY
+Android,43052236,1,212,Show camera2 preview in wallpaperservice,<java><android><android-studio><camera><camera2>,1,MODIFY
+Android,43134675,1,527,Dagger 2 LocalDataSource cannot be provided without @Provides annotated method,<java><android><dependency-injection><dagger-2><dagger>,1,MODIFY
+Android,43098757,3,977,Android how to get location update in batch,<android><geolocation><location><google-play-services><fusedlocationproviderapi>,1,REFERENCE
+Android,43362896,1,423,Bluetooth LE GATT issue,<android><bluetooth><android-things>,1,MODIFY
+Android,43371389,1,439,Android In-app billing getPurchaseHistory() doesn't work,<android><google-play-services><in-app-billing>,1,RUNNING
+Android,41627671,2,701,Camera2 api preview is not same with capture,<android><android-camera2>,1,MODIFY
+Android,43258773,35,2613,Is Content Provider an implementation of IMPORT Pattern?,<android><design-patterns><android-mvp>,8,REFERENCE
+Android,43632752,5,1548,Crop face from the CameraSource,<android><android-camera><android-vision>,2,MODIFY
+Android,43765499,2,645,Google Vision API: Handle native crash,<android><google-play-services><google-vision><android-vision>,1,RUNNING
+Android,43774620,5,2995,MVVM on Android with DataBinding or RxJava?,<android><mvvm><data-binding><rx-java><android-databinding>,1,REFERENCE
+Android,38034005,3,445,Android NFC device owner provisioning: send custom properties. Is it possible?,<java><android><provisioning><nfs>,2,REFERENCE
+Android,44208122,4,5103,android Camera2 API + TextureView overlay for drawing on camera preview,<android><overlay><preview><camera2>,1,MODIFY
+Android,44447767,1,111,Redundancy in Android Model-View-Presenter between Model and View Adapter,<android>,2,REFERENCE
+Android,44487347,1,36,Start an if statement according to the message RECEIVED-Bluetooth,<android><bluetooth><android-bluetooth>,1,REFERENCE
+Android,44560981,3,320,Purpose of stubAllExternalIntents() in Espresso intents testing,<android><testing><android-intent><android-espresso><android-testing>,2,REFERENCE
+Android,44753069,1,1518,Cannot import android.arch.persistence.room.testing.MigrationTestHelper,<android><database-migration><android-room><android-architecture-components>,2,IMPORT
+Android,44749473,2,1126,Draw rectangle over camera2 preview android,<android><nullpointerexception><android-camera>,1,MODIFY
+Android,44863661,2,979,Android Camera2 pictures appear rotated in gallery,<android><android-camera2>,2,MODIFY
+Android,44910631,7,1426,TrivialDrive vs TrivialDrive V2?,<android><github><in-app-purchase><play-billing-library>,3,REFERENCE
+Android,44948245,2,3809,FusedLocationProviderClient not sending location updates,<android><service><location><google-play-services>,1,MODIFY
+Android,45051996,1,779,Android Fingerprint Authentication with Signature,<android><authentication><keystore><signature><fingerprint>,1,MODIFY
+Android,45139577,1,642,How to set the package/applicationId for android instant app?,<android><android-instant-apps>,1,REFERENCE
+Android,45201324,1,2129,Dagger and databinding,<android><mvvm><dagger-2><android-databinding><dagger.android>,3,MODIFY
+Android,45208116,7,1088,Geocoder returns an address with zero length,<android><android-location>,2,REFERENCE
+Android,45217815,5,1359,Returning LiveData from IMPORT,<android><android-lifecycle><android-architecture-components><android-livedata>,1,REFERENCE
+Android,45358247,5,664,Android camera2 api galaxy s7,<java><android><video><android-camera2>,1,RUNNING
+Android,45407964,14,2331,Take picture with drawable/paint on face using vision api,<android><google-vision><vision-api>,3,MODIFY
+Android,45586828,1,1842,Cannot resolve symbol assertThat,<android><android-testing>,1,IMPORT
+Android,45630453,1,215,Managed Configurations: defining an array of strings,<android><android-for-work>,2,MODIFY
+Android,45531230,19,1797,Android Architecture Components network threads,<java><android><multithreading><architecture>,1,REFERENCE
+Android,45783523,6,2067,MVVM Dagger2 A Binding With Matching Key Exists in Component,<android><mvvm><dagger-2><android-architecture-components><android-mvvm>,1,MODIFY
+Android,37483049,6,4907,How to implement PdfRenderer Zoom and Scroll support?,<java><android><pdfrenderer>,3,MODIFY
+Android,46111860,23,18544,Oreo - Foreground service does not show foreground notification,<android><android-notifications><android-8.0-oreo><foreground-service>,2,REFERENCE
+Android,45982524,6,363,Camera2Basic app front camera takes pic upside down,<android><camera><android-camera2>,3,MODIFY
+Android,41615189,4,1827,Call recording with OpenSL,<android><android-ndk><audio-recording><voice-recording>,2,MODIFY
+Android,46278357,17,1782,"Understanding Android Architecture Components example GithubBrowserSample: ViewModelModule, ViewModel parameters",<android><dagger-2><android-architecture-components><dagger.android><android-viewmodel>,1,REFERENCE
+Android,46367880,4,11434,How to pull a specific branch from Github,<git><github><branch>,1,IMPORT
+Android,46435424,3,1813,Kotlin dagger 2 Android ViewModel injection error,<android><kotlin><viewmodel><dagger-2><kotlin-interop>,1,MODIFY
+Android,45099484,6,761,How can I get hold of (or bypass) the Android DPC Support Library?,<android><mdm><android-for-work>,2,REFERENCE
+Android,47002893,1,56,Empty Android folder when cloning Google samples,<android><android-studio>,1,IMPORT
+Android,47078005,13,2800,"Why is Espresso's registerIdlingResources deprecated, and what replaces it?",<java><android><android-espresso>,2,REFERENCE
+Android,47148619,1,157,How do you structure a local data source using RxJava and Realm?,<android><realm><mvp><rx-java2>,2,REFERENCE
+Android,47323883,11,1537,Why Room entities don't work with immutable properties in Android,<android><sqlite><kotlin><immutability><android-room>,2,REFERENCE
+Android,37747466,4,570,Writing data to BluetoothSocket on the UI thread,<android><android-bluetooth>,3,REFERENCE
+Android,45203918,2,659,Is JNI_OnLoad normally used for Android NDK?,<android><android-ndk><java-native-interface>,1,REFERENCE
+Android,47451783,1,293,Could not take photo with front camera 2,<android><android-camera><android-camera2><front-camera>,1,MODIFY
+Android,47868684,2,903,"In clean MVP, who should handle combining interactors?",<android><mvp><use-case><clean-architecture>,2,REFERENCE
+Android,47866673,1,1912,Android Architecture Components: How is LiveData in the IMPORT observed by a ViewModel,<android><mvvm><viewmodel><android-architecture-components><android-livedata>,1,REFERENCE
+Android,47727211,20,9731,Using LiveData with Data Binding,<android><kotlin><android-databinding><android-architecture-components><android-mvvm>,3,REFERENCE
+Android,48094952,5,2615,Where does android.hardware.camera2.full come from?,<android><android-camera><android-camera2>,3,REFERENCE
+Android,48039177,2,599,Android app architecture with BLE,<android><architecture><bluetooth-lowenergy>,1,REFERENCE
+Android,48127910,1,219,test rxjava callback function,<android><unit-testing><mockito><rx-java2>,2,REFERENCE
+Android,48172376,1,48,Can we use PDFRenderer in a service?,<android><pdf>,1,MODIFY
+Android,48172364,3,3458,How to query a complex nested objects in Room?,<android><android-room>,2,REFERENCE
+Android,47051069,3,317,downloadable fonts - can't download some google fonts,<android><fonts><google-font-api><google-fonts>,1,MODIFY
+Android,46984467,1,164,Deprecated Inventory object from google play billing library 1.0?,<android><android-billing><play-billing-library>,1,REFERENCE
+Android,48406497,10,1935,Camera2 understanding the sensor and device orientations,<android><rotation><android-camera2>,1,MODIFY
+Android,48645234,1,452,Provisioning Device Owner and CosuApp,<android><android-for-work><cosu>,1,MODIFY
+Android,48781673,3,1174,Proper way of using Fragments and MVP pattern,<android><android-fragments><mvp><android-mvp>,2,REFERENCE
+Android,48774255,2,353,How to extend the Google android architecture dagger sample?,<java><android><dagger-2><dagger-android>,1,MODIFY
+Android,48914977,4,469,Android Architecture Components GithubBrowserSample unit test understanding,<android><unit-testing><kotlin><mockito><android-architecture-components>,2,REFERENCE
+Android,49029004,1,158,Why [onDataPoint] of google fit not call?,<android><google-fit>,1,MODIFY
+Android,49212540,1,222,Android NDK OpenGLES not rendering triangles,<c++><opengl-es><android-ndk>,1,MODIFY
+Android,49213525,1,238,Android Dagger 2 keep fragment alive as long as activity,<android><dagger-2><dagger-android>,1,MODIFY
+Android,49232559,4,1722,ConstrainLayout ConstraintSet - not working properly with Start/End constrains,<android><android-constraintlayout>,2,MODIFY
+Android,49417910,1,41,Location Updates on Boot - turn on and off in activity,<android><location>,1,MODIFY
+Android,49488903,32,7467,LocationRequest constructor is marked as internal,<java><android><location>,2,MODIFY
+Android,49590960,3,2004,Insert (or delete) single List item from LiveData,<android><android-architecture-components><android-livedata>,1,REFERENCE
+Android,49588393,1,93,Promoting 'beta' apk to 'production' programmatically,<android><google-play-developer-api>,1,REFERENCE
+Android,49688616,3,870,How does designing custom android DPC app relate to Android management API?,<android><kiosk-mode><cosu><android-enterprise><android-management-api>,1,REFERENCE
+Android,49762991,1,327,"Where should I put the image download logic on Android, according to the MVP pattern?",<android><mvp><android-mvp>,2,REFERENCE
+Android,46689217,3,243,Dagger 2 bindings delegation with subcomponents,<android><mvvm><dependency-injection><dagger-2>,1,REFERENCE
+Android,49833533,5,3301,How to correctly mock ViewModel on androidTest,<android><kotlin><mockito><android-espresso><android-architecture-components>,5,REFERENCE
+Android,50053555,1,260,Android TabLayout Fragment with MVP,<android-fragments><mvp><android-tablelayout>,1,MODIFY
+Android,50362528,3,594,"IllegalStateException: Expected configuration ':module:debugFeatureCompileClasspath' to contain exactly one file, however, it contains 2 files",<android><kotlin><android-instant-apps><android-wear-2.0>,1,REFERENCE
+Android,50423546,1,168,"How to offer actions of my app to other apps, via Smart-Linkify (AKA ""smart text selection"")?",<android><android-8.0-oreo><smart-linkify><smart-text-selection>,1,REFERENCE
+Android,50869969,3,172,"Android Architecture Blueprints ""todo‑mvp‑dagger"", where is @Provides for TasksIMPORT?",<java><android><kotlin><dagger-2><dagger.android>,1,REFERENCE
+Android,50709880,1,286,"ERROR: In <declare-styleable> NavArgument, unable to find attribute type",<java><android><android-gradle>,1,REFERENCE
+Android,51216376,1,489,Room Retrofit Dagger2 MVP: Error: cannot find symbol variable DaggerAppComponent,<android><dependency-injection><retrofit><dagger-2><android-room>,1,MODIFY
+Android,29472129,3,1621,IntentService doesn't get called in combination with PendingIntent,<android><android-pendingintent><android-geofence><android-intentservice>,1,MODIFY
+Android,51523053,2,71,How to know which finger is scanned for bio-metric?,<android><biometrics><android-fingerprint-api>,1,REFERENCE
+Android,51757164,3,2313,How to create LiveData which emits a single event and notifies only last subscribed observer?,<android><android-architecture-components><android-jetpack><android-livedata>,1,MODIFY
+Android,51781176,5,1740,Is SingleLiveEvent actually part of the Android Architecture Components Library?,<android><android-architecture-components><android-livedata><mutablelivedata>,2,REFERENCE
+Android,51884303,1,123,Adapter referencing generated classes (android-sunflower),<android><kotlin><android-jetpack>,1,REFERENCE
+Android,51892478,6,3680,Multiple LiveData Observers After Popping Fragment,<android><android-fragments><kotlin><android-navigation><android-livedata>,2,REFERENCE
+Android,51988532,6,308,Getting a Singleton in Kotlin,<kotlin>,2,MODIFY
+Android,51309576,1,234,Why is IdlingResource null in Espresso tests on Android API 22?,<java><android><junit><android-espresso>,2,MODIFY
+Android,52140059,6,994,Android Jetpack Navigation proper back stack with BottomNavigationView,<android><android-architecture-components><bottomnavigationview><android-navigation><android-jetpack>,2,REFERENCE
+Android,52173040,1,653,Android Architecture sample unit testing live data,<android><kotlin><android-testing><android-architecture-components><android-livedata>,1,REFERENCE
+Android,52235986,3,663,Room Database migration,<android><database><sqlite><android-room>,2,REFERENCE
+Android,52381029,5,733,Can we extract public/private keys from the Android Keystore?,<android><android-keystore>,1,REFERENCE
+Android,52367169,4,358,Crop Detected Face in Android,<android><crop><face-detection>,2,REFERENCE
+Android,52441736,4,469,Android. Could not instantiate Worker,<android><dagger-2><android-room><android-architecture-components><android-workmanager>,2,MODIFY
+Android,50615225,5,1315,Best way to update a single element using Paging Library,<android><android-architecture-components><android-paging><android-livedata>,1,REFERENCE
+Android,52576072,1,416,Manifest marge error after migrating to androidX,<android><android-jetpack><android-navigation-component>,1,REFERENCE
+Android,49832787,1,1264,Android LiveData prevent receive the last value when subscribe,<android><android-architecture-components><android-livedata><mutablelivedata>,5,REFERENCE
+Android,52788958,1,157,Does event wrapper pattern replace the use of SingleLiveEvent?,<android><android-livedata><android-architecture-lifecycle><android-architecture>,1,REFERENCE
+Android,52873173,20,3401,Migrating Junit4 tests to androidx: What causes 'delegate runner could not be loaded'?,<android><android-studio><junit><junit4><androidx>,5,MODIFY
+Android,52873328,1,195,Android instant app permission request dialog not shown,<android><android-permissions><android-instant-apps>,2,MODIFY
+Android,44497929,2,3333,Digital Assets Link link to my website,<android><google-console-developer><android-instant-apps>,7,MODIFY
+Android,52972693,1,117,AndroidAnnotations + Instant App - The generated <applicationId>.R class cannot be found,<android><android-annotations><android-instant-apps>,2,MODIFY
+Android,53051745,2,259,Android NDK - IMPORT shared library from source code,<android><c++><cmake><android-ndk><.so>,1,MODIFY
+Android,53129932,4,618,How to capture frame by frame images from Android video recording in real time,<java><android><kotlin><video-processing><video-capture>,1,REFERENCE
+Android,53193247,2,1575,Android Instrumentation Testing: No instrumentation registered Error,<java><android><android-studio><android-espresso>,1,MODIFY
+Android,53372539,5,1017,Navigation graph with multiple top level destinations,<android><android-navigation-drawer><android-navigation><android-jetpack>,2,MODIFY
+Android,53638074,1,25,Espresso finding row in RecyclerView that could be off screen,<android><android-recyclerview><android-espresso>,1,REFERENCE
+Android,53573731,12,364,Not able to update sqlite_sequence table using RoomDatabase.query,<android><android-room>,3,REFERENCE
+Android,53931191,1,51,How to ON or OFF audio recording using MediaRecorder,<java><android><audio><android-mediarecorder>,1,MODIFY
+Android,54016644,9,704,What is the added advantage of using Bazel over Gradle?,<android><gradle><android-gradle><android-testing><bazel>,2,REFERENCE
+Android,46646744,3,620,RecyclerView Items doesn't appear until i scroll it,<android><android-recyclerview><kotlin><mvp><android-constraintlayout>,2,MODIFY
+Android,54448798,1,21,Where are the dependency Versions defined in IMPORT gradle (app) of Android Studio?,<android><android-studio>,1,IMPORT
+Android,54489418,2,111,Kotlin Singletons: Object vs a Class with private constructor,<kotlin><singleton>,1,REFERENCE
+Android,54508117,4,138,Which is better for Android MVVM package by feature or package by layer?,<android><mvvm><android-architecture-components>,1,REFERENCE
+Android,54847411,1,55,Android NavigationUI Fragment in Fullscreen Mode,<android><android-fragments><android-fragmentactivity><android-jetpack>,1,MODIFY
+Android,54878343,2,246,Programmatically change ConstraintSet attribute in motion scene of MotionLayout,<android><android-layout><android-constraintlayout><android-motionlayout>,1,MODIFY
+Android,54728368,1,110,Foreground Service with a Silent Notification,<java><android><notifications><foreground-service>,2,MODIFY
+Android,54967251,4,246,How can I integrate OpenCV 4.0 into a pure C++ Android NDK project?,<android><c++><opencv><android-ndk>,1,REFERENCE
+Android,54529117,1,44,"I face android media player error (-38, 0) in Samsung and Google latest version mobile",<android><android-mediaplayer><samsung-mobile>,1,MODIFY
+Android,55038077,1,141,How to capture image inside the overlay in Camera2 API Android?,<android><overlay><crop><android-camera2>,2,MODIFY
+Android,55237055,2,65,Databinding fails with JAXB class not found exception during compilation (using kapt),<kotlin><dagger-2><android-databinding><androidx><kapt>,1,MODIFY
+Android,26241916,3,484,Error in Travis trying to submit app to Google's Play Store,<google-api><android-gradle><google-api-java-client><travis-ci><google-play>,2,REFERENCE
+Android,26689630,8,2392,How to find an app's available restrictions for DevicePolicyManager.setApplicationRestrictions,<android><google-chrome><android-5.0-lollipop><device-policy-manager>,1,REFERENCE
+Android,27311251,3,681,How to obtain package info list form primary account when application in managed profile?,<android><android-5.0-lollipop><device-policy-manager>,3,MODIFY
+Android,27529852,3,5007,new android Camera2 Api on nexus 7,<android><android-camera>,4,MODIFY
+Android,27738431,1,278,Android L - EMM/MDM - Launching Managed app from Unmanaged app,<android><android-5.0-lollipop>,1,REFERENCE
+Android,27876937,2,508,WatchFace sample - how to run,<android><nullpointerexception><sample>,1,RUNNING
+Android,28257607,1,645,SlidingTabStrip indicator underneath SlidingTabLayout,<android><android-tabs><android-sliding>,1,MODIFY
+Android,29029594,22,7668,Testing geofencing with Google Play Services 6.5.+,<android><google-play-services><geofencing>,6,REFERENCE
+Android,29071154,1,300,Why Reveal effect not working as per Developer blog,<android><android-layout><material-design><viewanimator><circularreveal>,1,MODIFY
+Android,29253846,3,1001,Replacing Fragment does not work properly while swipeRefresh is running,<android><android-recyclerview><swiperefreshlayout>,2,RUNNING
+Android,29431021,5,3713,Capturing 4:3 camera picture via android Camera2 API on camera with 16:9 sensor array,<android><android-camera>,2,MODIFY
+Android,29501618,6,6075,How to use Mediaprojection library in android to capture screen and convert into mp4 file?,<android><android-mediarecorder><android-mediaprojection>,3,MODIFY
+Android,29540171,1,1148,How to customize the scrollbar on ListView?,<android><android-listview><scrollbar>,1,MODIFY
+Android,29542859,3,2586,Autocomplete Google Places sample,<android><autocomplete><google-places-api>,1,RUNNING
+Android,29556406,1,199,Camera2 is scaled on Front Camera of Nexus 7 2013,<android><camera>,1,MODIFY
+Android,29578606,2,1479,Android Genymotion Location (Google Services API) doesn't work,<android><location><genymotion><genymotion-gps>,3,RUNNING
+Android,29822760,8,9353,"Device owner on a nonrooted device (Android L), without NFC, using adb shell, dpm set-device-owner",<android><android-5.0-lollipop><kiosk-mode>,2,MODIFY
+Android,30172529,10,753,"When Is a TextureView's ""Consumer Side"" Closed?",<android><android-camera><textureview>,2,MODIFY
+Android,30334319,16,9602,Android camera2 face recognition,<android><android-camera><face-detection><face-recognition>,4,MODIFY
+Android,30350739,9,24330,AutoCompleteTextView with Google Places shown in ListView just like Uber,<android><android-fragments><android-listview><google-places-api><autocompletetextview>,3,REFERENCE
+Android,30622664,1,1015,Front Camera preview is not full screen,<android><camera>,2,MODIFY
+Android,31154802,2,1918,Geofencing with only GPS does not work in android,<android><gps><geolocation><geofencing><android-geofence>,3,MODIFY
+Android,31229953,3,2394,get data of each android.hardware.camera2 frame before it is displayed on the surfacetexture,<android><image-processing><android-camera><android-5.0-lollipop>,2,MODIFY
+Android,31232008,5,4521,android camera2 process each frame and display its preview,<android><image-processing><android-camera><surfaceview>,1,MODIFY
+Android,31450919,1,3044,BluetoothLE BluetoothAdapter﹕ startLeScan(): null,<android><bluetooth><bluetooth-lowenergy>,1,MODIFY
+Android,31640783,2,2254,GeoDataApi.getAutocompletePredictions not working,<google-maps><google-maps-android-api-2><google-places-api>,1,MODIFY
+Android,31734248,1,230,Android Universal Music Player ic_by_genre is not displayed,<java><android><android-layout><android-resources>,1,MODIFY
+Android,32063524,7,4011,How to get each frame data using camera2 API in Android5.0 in realtime,<android><android-camera>,2,MODIFY
+Android,32105132,1,1246,Android Google Play Service Barcode scanner does not works on 1D (EAN13) barcodes,<android><google-play-services><google-vision>,1,MODIFY
+Android,32105785,6,8484,Trying to import code from GitHub into Android Studio,<android><android-studio><google-vision><android-vision>,2,IMPORT
+Android,32134299,39,16587,Can you request permissions synchronously in Android Marshmallow (API 23)'s runtime permissions model?,<android><android-permissions><android-6.0-marshmallow>,5,REFERENCE
+Android,32193244,3,1679,Can't debug NDK samples with Android Studio 1.3.2 on Windows,<android><c++><debugging><android-studio><android-ndk>,1,MODIFY
+Android,32362072,3,707,Why is Google Geofencing API on Android not working on all devices,<android><google-api><location><google-play-services><android-geofence>,1,RUNNING
+Android,32525489,1,986,View doesn't fill the whole screen,<android>,3,MODIFY
+Android,32715573,30,2306,Media Recorder with Google Vision API,<android><android-camera><android-mediarecorder><google-vision><android-vision>,1,MODIFY
+Android,32736708,2,4172,How to use Bluetooth Low Energy (BLE) in an android chat application?,<android><bluetooth><chat><bluetooth-lowenergy>,2,REFERENCE
+Android,32961771,9,1918,Camera2 API onCaptureComplete() is called but camera state is still CONTROL_AE_STATE_PRECAPTURE,<android><android-camera><camera2>,2,MODIFY
+Android,32970996,1,936,"how to become the preview stream in RAW Format (Camera2 API , ImageFormate.RAW_SENSOR)?",<android><preview><camera2>,1,MODIFY
+Android,32988308,2,745,Cannot understand the details of FaceDetector object while debugging using Vision API Android,<android><google-api><google-play-services><face-detection><android-vision>,1,MODIFY
+Android,33115337,8,11927,PLACES_API_INVALID_APP error from Android Play Places,<android><google-places-api>,8,RUNNING
+Android,33127258,10,4255,Front Camera in Camera2 not capturing image,<android>,5,RUNNING
+Android,33151244,11,8478,Implement Tap to Focus in Camera2 API,<android>,3,MODIFY
+Android,33686656,1,682,How to get the universal music player to detect on device music?,<android>,1,MODIFY
+Android,33876196,4,2155,"Android Camera 2, how to crop preview size",<android><preview><android-camera2>,3,MODIFY
+Android,34070557,1,997,Android camera2 Lens intrinsic calibration,<java><android><android-camera><android-hardware><android-camera2>,1,MODIFY
+Android,34609427,18,4795,Stop listening for fingerprint when screen off,<android><fingerprint>,3,REFERENCE
+Android,34881551,3,1754,"ConnectionResult{statusCode=INTERNAL_ERROR, resolution=null, message=null}",<android><google-api-client><android-tv><google-nearby>,1,RUNNING
+Android,35054405,3,2320,Detect Gestures on Fingerprint Sensor-Android,<android><gesture><android-6.0-marshmallow><fingerprint>,2,REFERENCE
+Android,35056994,1,1265,Get detected face bitmap,<android><android-camera>,2,MODIFY
+Android,35127970,1,408,Protect value with fingerprint,<android><security><fingerprint><biometrics>,1,MODIFY
+Android,35244472,1,289,How configure GCM for an Android Device Policy Controller (DPC),<android><google-cloud-messaging><android-5.1.1-lollipop><android-managed-profile>,1,MODIFY
+Android,35381104,46,943,In-app purchase promo codes breaks remote server verification?,<android><google-play><in-app-billing><promotion-code>,1,REFERENCE
+Android,35629725,3,299,How to upload obb file to Google Play via Android Publisher Java API v2,<java><upload><google-play-developer-api>,2,MODIFY
+Android,35660883,1,716,Universal Android Media Player - UAMP,<android><media-player><playback>,1,MODIFY
+Android,35699359,2,337,NearbyBackgroundBeacons demo returns unknown status code 2801 on subscribe,<android><google-api><google-play-services><bluetooth-lowenergy><google-nearby>,1,MODIFY
+Android,35811411,7,4829,Accessing AutoFocus/Flash with Google Vision BarCode Reader,<android><android-camera><barcode-scanner><camera-flash>,2,MODIFY
+Android,35877936,6,1661,Who has a material how to work with the Face Detection Camera 2 API?,<java><android><camera><android-camera>,2,MODIFY
+Android,36051791,1,1129,Face detection with android.hardware.Camera2,<android><android-5.1.1-lollipop><android-camera2>,1,MODIFY
+Android,36170914,1,370,Memory Leak issue : com.example.android.uamp.ui.FullScreenPlayerActivity has leaked,<android><memory-leaks><exoplayer>,1,RUNNING
+Android,36174807,8,4355,How to programmatically take Photos while recording Video using Camera2 API in Android,<android><image><video><android-camera2>,6,MODIFY
+Android,36265659,3,3663,How Capture Picture while mobile vision api - face tracking,<android><google-vision>,2,MODIFY
+Android,36440019,1,199,I can't detect face with camera2,<java><android><camera2>,1,MODIFY
+Android,36481333,4,827,Google nearby API background scan doesn´t work after application kill,<android><google-play-services><beacon><google-nearby>,2,MODIFY
+Android,36530511,1,679,How to implement Google Fit step counter within a Fragment,<android><google-fit>,1,MODIFY
+Android,36580297,2,2360,Error While using FIngerprintManager android API,<java><android><classnotfoundexception><android-fingerprint-api>,2,RUNNING
+Android,36669064,1,3823,Create on click focus on CameraSource - Android QR Code detection,<android><camera><android-camera><qr-code><android-vision>,3,MODIFY
+Android,36713033,2,494,Does Android Content Provider authority definition break the DRY rule?,<android><android-contentprovider><dry>,1,REFERENCE
+Android,36715739,2,1541,camerasource takepicture is not working,<java><android><android-camera>,1,MODIFY
+Android,36739298,2,592,Android camera2 delay between the video to the sound,<android><android-mediarecorder><camera2>,1,MODIFY
+Android,36755427,3,454,Unable to integrate ffmpeg as a native dependency for an Android NDK project,<android><android-studio><ffmpeg><android-ndk><gradle-experimental>,1,MODIFY
+Android,36964572,2,616,HandlerThread blocks UI android,<android><multithreading><android-camera2><android-looper><android-handlerthread>,2,MODIFY
+Android,37014990,4,1045,Synchronized method called by Android Activity onCreate method,<java><android><multithreading><android-activity>,1,REFERENCE
+Android,37075088,1,122,Camera2Basic : Application:transformClassesWithDexForDebug,<java><android><android-camera2>,1,IMPORT
+Android,37327891,2,4322,Android vision - Face detector dependencies are not yet available,<android><google-play-services><google-vision>,2,RUNNING
+Android,37371844,5,950,Can not use Google Barcode scanner,<android><android-vision>,3,RUNNING
+Android,37539614,1,1399,Camera2Video Api full screen preview and video quality,<android><camera><android-camera><android-camera2>,3,MODIFY
+Android,37547385,1,376,GeoFencing Best Stratigies,<android><android-geofence><google-geolocation><android-fusedlocation>,1,MODIFY
+Android,37559401,11,1558,Switching to Camera2 in Android Vision API,<android><android-vision>,2,REFERENCE
+Android,37597252,3,437,How should we deal with the growing IMPORT in a mvp project's model layer?,<android><IMPORT-pattern><mvp>,1,REFERENCE
+Android,37623264,7,1900,How to get the current frame (as a Bitmap) for android facedetector in a Tracker event?,<android><vision>,1,MODIFY
+Android,37642551,3,1850,Android Camera2 API JPEG_QUALITY not available,<android><android-camera2>,1,MODIFY
+Android,37764937,4,2792,FingerPrint API isHardwareDetected always returns false,<android-studio><android-6.0-marshmallow><android-fingerprint-api>,2,RUNNING
+Android,37908660,2,1691,How to use flashlight/torch with Google Vision barcode reader API?,<android><google-play-services><barcode-scanner><flashlight><google-vision>,1,MODIFY
+Android,37936693,2,1476,How do I get android location once at the push of a button?,<java><android><android-location>,2,MODIFY
+Android,38296278,4,2637,Mockito: How do I use getString with mockito?,<android><unit-testing><mockito><android-context>,3,MODIFY
+Android,38305431,1,1654,Google Place API get latitude & longitude of places,<android><autocomplete><google-places-api>,1,REFERENCE
+Android,38493000,21,1895,"Camera2basic app, has very dark preview in Android 6.0 LGG3",<android><android-6.0-marshmallow><android-camera2>,3,RUNNING
+Android,38535355,10,3877,android textureview full screen preview with correct aspect ratio,<java><android><android-camera><android-camera2><android-textureview>,3,MODIFY
+Android,38809845,1,1010,Android Bluetooth app can't discover other devices,<android><bluetooth>,1,RUNNING
+Android,38814600,1,286,Geofencing API: adding successful but not triggered,<android><android-studio><android-geofence>,1,RUNNING
+Android,38869938,1,197,Android Send Data via Blue Tooth Low Energy adapter,<android><bluetooth><bluetooth-lowenergy>,1,MODIFY
+Android,38901921,10,307,Intent not received from Android Geofence event,<java><android><android-intent><geofencing><android-geofence>,1,MODIFY
+Android,39019899,3,1328,Android Face Detection API - Stored video file,<android><video><face-detection><android-vision>,2,REFERENCE
+Android,39075163,2,770,Set OCR whitelist in the TextRecognizer,<android-vision>,1,MODIFY
+Android,39131973,1,104,MediaRouterProvider not visible in the network,<android><casting><upnp><mediarouter>,1,MODIFY
+Android,39253010,1,299,Android Camera2 - Remove black space between camera and bottom bar,<android><android-camera2>,1,MODIFY
+Android,39363500,1,2781,setAlarmClock not exact in android marshmallow,<android><alarmmanager><android-alarms>,1,MODIFY
+Android,39443657,2,967,camerasource.takePicture() save rotated images in some device,<android><google-vision>,3,REFERENCE
+Android,39470098,14,4423,Why crypto object is needed for Android fingerprint authentication?,<android><android-fingerprint-api>,3,REFERENCE
+Android,39481821,1,579,Use Camera2 to Preview and Process camera data,<android><android-camera2>,1,MODIFY
+Android,39585232,2,158,Android in app purchase where to register receiver,<java><android><in-app-purchase><in-app-billing>,1,MODIFY
+Android,39658993,16,3787,Where to put BroadcastReceiver in Android MVP?,<android><mvp>,5,REFERENCE
+Android,39797164,1,1363,Is the Open Sourced Google Vision API CameraSource class Out-Dated?,<android><android-camera><google-play-services><android-vision><google-vision>,1,REFERENCE
+Android,39982859,1,1584,Linking static libraries libm.a or libc.a with NDK cmake,<android><c++><android-ndk><cmake><clang>,1,MODIFY
+Android,40144970,9,3229,Android MVP with Dagger 2 - Activity with multiple fragments,<android><mvp><dagger-2>,1,MODIFY
+Android,40331561,1,1890,"Android, How to rotate recorded video using MediaRecorder in portrait mode",<android><video><orientation><mediarecorder><portrait>,2,REFERENCE
+Android,40533276,2,1167,Android: Camera2 switching between back and front camera,<android><android-camera><android-camera2>,1,MODIFY
+Android,40548551,6,1120,"How to generate KeyPair in android KeyStore, protected by custom password",<android><keystore><key-pair><android-fingerprint-api>,1,REFERENCE
+Android,41221284,3,3425,How to change aspect ratio of camera2 preview?,<android><android-camera2>,1,MODIFY
+Android,41284827,4,702,Application not listed in Android Auto,<android><android-auto>,2,RUNNING
+Android,41296030,2,2496,"Swipe refresh to be called only when user swipes for it, not when user reaches top of list",<android><android-support-library><swiperefreshlayout>,4,MODIFY
+Android,41518374,1,458,How can i get the image as in the preview size of TextureView in camera 2,<android><android-camera2>,1,MODIFY
+Android,41623247,2,3377,Android Espresso test: Class not found: ...Empty test suite,<android><android-studio><gradle><android-gradle><android-espresso>,1,MODIFY
+Android,41680922,1,115,Camera2 in FragmentPagerAdapter,<android><android-fragments><camera><android-viewpager>,1,MODIFY
+Android,41713056,1,375,Take photo with bitmap in android camera,<android><bitmap><android-bitmap><google-vision>,1,MODIFY
+Android,41766196,3,665,Face Tracker CameraSource Android: How to brighten front camera quality?,<android><android-studio><camera><google-vision><front-camera>,1,MODIFY
+Android,41773621,3,3176,camera2 output to Bitmap,<java><android><bitmap><google-vision>,1,MODIFY
+Android,41828237,5,929,Android In-app purchase NullPointerException,<java><android><nullpointerexception><in-app-purchase>,2,MODIFY
+Android,41834529,4,605,getBuyIntentExtraParams does not exist? aka how do I use Version 6 in-app billing APIs?,<android><in-app-billing>,1,REFERENCE
+Android,41926591,6,2179,How to reuse the Surface of MediaRecorder in the camera2 API on Android?,<android><video><mediarecorder><android-camera2>,1,MODIFY
+Android,41985926,3,1480,Camera2 full screen preview and image capture,<android><camera>,2,MODIFY
+Android,42107466,2,2351,Android Mobile Vision API detect mouth is open,<android><face-recognition><android-vision>,5,MODIFY
+Android,42216472,2,167,Android Code Does not scan BLE device CC2650,<java><android><bluetooth-lowenergy><gatt>,2,RUNNING
+Android,42268602,1,79,How to update closed/killed app from IntentReceiver?,<android><broadcastreceiver><updates><android-geofence>,1,MODIFY
+Android,42345734,1,1715,Fingerprint scanner not detected when using Android 6.0 Fingerprint API on Samsung S5,<android><android-studio><android-6.0-marshmallow><fingerprint><android-fingerprint-api>,1,REFERENCE
+Android,42418470,3,736,How to turn on the torch/flashlight with GooglePlay Services Vision API Xamarin Android,<android><xamarin><torch><flashlight><vision>,2,REFERENCE
+Android,42548247,1,514,How can I create multiple fingerprint scan and register in db?,<android><fingerprint><android-fingerprint-api>,1,REFERENCE
+Android,42581120,2,2482,How to create and run an example Vulkan app on the Android emulator?,<android><android-emulator><vulkan>,2,RUNNING
+Android,42623014,1,737,Android Studio 2.3: can't use string resource in android:versionName,<android>,2,RUNNING
+Android,43159280,10,2007,How to use mobile vision API with TextureView and Camera,<android><android-vision><google-vision><android-textureview>,1,REFERENCE
+Android,43251528,29,31846,Android O - Old start foreground service still working?,<android><location><android-8.0-oreo>,7,REFERENCE
+Android,43300273,2,205,Nearby Connections NullPointerException,<android><google-nearby>,1,REFERENCE
+Android,43319318,1,1063,Android Camera2 API preview sometimes distorted,<android><preview><android-camera2><distortion><camera2>,2,MODIFY
+Android,43382586,1,261,How to use Firebase with the Android universal music player?,<android><firebase><android-asynctask><callback><firebase-realtime-database>,1,MODIFY
+Android,43440909,1,476,Get byte array with Android Vision scanning pdf417 barcode,<android><android-vision>,1,MODIFY
+Android,43460985,2,4098,Android Camera2 preview occasionally rotated by 90 degrees,<android><rotation><android-camera2>,3,REFERENCE
+Android,43515031,1,152,Why does SyncAdapter create a default periodic sync even though I have not called addPeriodicSync()?,<java><android><android-syncadapter>,2,MODIFY
+Android,43532713,2,133,Google's VisionAPI example FaceTracker Camera permission,<android><android-camera><google-vision>,1,RUNNING
+Android,43549220,1,375,Android media recorder crashes on stop,<android><google-api><android-mediarecorder><android-camera2>,1,RUNNING
+Android,43632379,1,467,Android vision api OCR example is not detecting all text,<android><android-vision>,1,MODIFY
+Android,43821919,1,1361,Are Google Play Services Supported on Android Things?,<android><google-play><google-nearby><android-things>,3,RUNNING
+Android,44022751,2,356,"onLocationChanged never called , GoogleApiClient",<android><google-maps><geolocation><google-api-client>,2,MODIFY
+Android,44181562,1,667,[Android]Registering fingerprints in application,<android><android-fingerprint-api>,1,MODIFY
+Android,44231334,16,4290,Android architecture components with MVP,<android><android-architecture-components>,2,REFERENCE
+Android,44249483,2,622,Orientation corners of a QR-code,<android><image-processing><mobile><android-vision>,1,REFERENCE
+Android,44467885,4,234,Android Wear - Launching Google Play on Phone,<android><wear-os>,1,RUNNING
+Android,44527420,6,1055,Android Camera2 focus state stuck,<android><android-camera2>,2,RUNNING
+Android,44905858,1,474,Camera2 API doesn't work on emualtor,<android><android-emulator><android-camera>,1,RUNNING
+Android,44911596,3,308,How do we implement in-app purchasing when the documentation is so inconsistent?,<android><in-app-purchase><google-play-services><in-app-billing><android-billing>,1,REFERENCE
+Android,45005130,4,2200,SMS Retriever API - Generate 11 char hash code for app specific keystore file,<java><android><google-play-services>,1,REFERENCE
+Android,45104944,1,885,Android Espresso Test Suites,<android><unit-testing><android-emulator><android-espresso><android-junit>,2,RUNNING
+Android,45461226,12,9692,Android - Switch between front and back camera while recording a video,<android><android-layout><video><android-camera><android-camera2>,2,MODIFY
+Android,45593065,4,1374,How to configure OpenSL to record voice call,<android><audio><android-ndk><opensl>,1,MODIFY
+Android,45630903,3,545,Device Owner on rooted Galaxy S8,<android><device-admin><samsung-knox>,2,REFERENCE
+Android,45692889,3,633,Android Camera 2 API problems with flash on Nougat 7.1,<android><flash><android-camera><android-7.0-nougat><android-camera2>,1,MODIFY
+Android,46119375,5,1251,Architecture Components ViewModels inject with dagger with params that come from the Activity/Fragment,<android><mvvm><dagger-2><dagger><android-architecture-components>,1,MODIFY
+Android,46134466,1,105,Android In-app purchase NullPointerException Purchase.getSku(),<java><android><in-app-purchase><in-app-billing>,1,MODIFY
+Android,46268768,11,3161,ViewModel for Fragment instead accessing Activity ViewModel?,<android><android-fragments><mvvm><kotlin><android-architecture-components>,2,REFERENCE
+Android,46273499,1,585,Trouble Connecting Android App to Raspberry Pi 3 over BLE,<android><bluetooth><bluetooth-lowenergy><raspberry-pi3><android-ble>,1,RUNNING
+Android,46275819,2,283,Add OpenSL to android,<java><android><android-ndk><opensl>,1,REFERENCE
+Android,46294833,7,6415,Correct way to create Notification Channels from Android O Api,<android><android-notifications><android-8.0-oreo><notification-channel>,3,REFERENCE
+Android,46317509,1,1033,Use emoji in strings.xml with EmojiCompat support library,<android><emoji>,3,REFERENCE
+Android,46465056,6,8033,AppCompatActivity not implementing LifecycleOwner,<java><android><android-architecture-components><android-architecture-lifecycle>,2,MODIFY
+Android,46533989,4,497,Inject ViewModelFactory.Provider in activity for espresso testing,<android><dagger-2>,1,MODIFY
+Android,46543877,1,67,How to play multiple songs together in sync?,<android><audio><android-ndk><audio-player><opensl><android-music-player>,1,MODIFY
+Android,46567945,4,572,Refreshing MediaBrowserService subcription content,<android><kotlin><android-mediasession><mediabrowserservice><mediabrowserservicecompat>,1,REFERENCE
+Android,46601474,2,429,How to bind into map with multi ViewModelFactory using Dagger2,<java><android><dagger-2><dagger.android><android-architecture-components>,1,MODIFY
+Android,46666474,7,1804,FirebaseApp initialization unsuccessful in Android Instant apps,<android><firebase><android-instant-apps><google-play-services>,1,REFERENCE
+Android,46696170,3,2594,Best practices and patterns in ViewModel + Data Binding. Is ObservableField in ViewModel OK?,<android><design-patterns><android-databinding><android-architecture-components><android-mvvm>,1,REFERENCE
+Android,46774604,1,108,DiskLRUCache for Bitmaps (and others) in Android,<android><bitmap><android-lru-cache><imageresizer-diskcache><diskcache>,1,REFERENCE
+Android,46831355,1,452,Gradle: DSL method not found: minSdkVersion / targetSdkVersion / compileSdkVersion / IMPORTToolsVersion,<android><gradle><dsl><android-gradle-2.2>,1,IMPORT
+Android,47158230,1,298,Prevent app crash due to Google native library error,<android><google-vision><crash>,2,REFERENCE
+Android,47236796,9,1107,"What is ""deps"" in ""implementation deps.support.app_compat""?",<android><gradle><IMPORT.gradle>,2,REFERENCE
+Android,47248029,1,499,Memory leak with Android camera2 API,<java><android><memory-leaks>,1,MODIFY
+Android,47459523,24,2967,Android MVVM: Activity with multiple Fragments - Where to put shared LiveData?,<android><mvvm><android-viewmodel>,1,REFERENCE
+Android,47469398,3,2820,LiveData - Using SingleLiveEvent with Transformations,<android><mvvm><android-architecture-components><android-livedata>,1,REFERENCE
+Android,47479274,1,94,Android - get ActivityRecognition service values back to MainActivity,<java><android><intentservice><activity-recognition>,1,REFERENCE
+Android,47528461,1,143,Google play service sample not getting location offline,<android><gps><location><google-play-services><android-fusedlocation>,2,MODIFY
+Android,47529737,2,3017,Avoid 'Variant Selection Conflicts' warning when using android test plugin without release variant,<android><android-studio><android-testing><android-gradle-3.0><gradle-android-test-plugi>,1,MODIFY
+Android,47533726,6,422,How to use MediaCodec with Camera2?,<android>,1,MODIFY
+Android,47544132,1,345,addAccountExplicitly throws SecurityException because com.google.android.gm is not allowed to perform GET_ACCOUNTS,<android><android-syncadapter><android-securityexception>,1,RUNNING
+Android,47551921,1,556,React Native android camera2 aspect ratio issue,<android><react-native><android-camera2>,1,REFERENCE
+Android,47621046,1,151,Closing the Android CameraDevice is slow and hangs the application,<android><android-camera2>,1,MODIFY
+Android,47839974,1,479,Save real-time detected face(Track Faces) image using 'android-vision' library,<java><android><android-vision>,1,MODIFY
+Android,47860064,2,122,Is it a good practice to use a single fragment to display the UI instead of the activity?,<android><android-fragments><design-patterns><android-activity><architecture>,2,REFERENCE
+Android,47874391,2,596,Dagger 2 inject ViewModel odd behavior (ViewModel not re-used on screen rotation),<android><mvvm><android-lifecycle><dagger-2>,1,MODIFY
+Android,47880718,1,42,how transferring data to connected bluetooth LE device,<java><android><bluetooth><hex><bluetooth-lowenergy>,1,MODIFY
+Android,48005850,8,293,android-RuntimePermissions sample code not working,<java><android><android-studio><intellij-idea>,5,IMPORT
+Android,48020271,1,42,BLE development on VIVO smartphones?,<android><bluetooth-lowenergy>,1,RUNNING
+Android,48095462,1,161,How to pass the actual barcode scanned to an ImageView,<android><barcode><google-vision>,1,MODIFY
+Android,48105925,1,596,"Should my mvvm, livedata app cancel network requests when app is backgrounded?",<android><mvvm><android-architecture-components><android-architecture-lifecycle>,1,MODIFY
+Android,48169430,11,428,Network Awareness from IMPORT using RxJava,<android><rx-java2><rx-android>,1,REFERENCE
+Android,48189415,13,3814,Is it correct to bind a ViewModel to a Service?,<android><android-service><android-architecture-components><android-viewmodel>,1,REFERENCE
+Android,48198374,1,301,Continuously take still photo with android Camera2,<android><android-camera><android-camera2>,1,MODIFY
+Android,48241802,1,224,Dagger 2 - two instances of the same View model are created,<android><viewmodel><dagger-2><dagger.android>,1,MODIFY
+Android,48382642,1,90,Prevent Android Wear Complication Tinting,<java><android><wear-os><android-wear-complication>,1,MODIFY
+Android,48524083,1,452,Camera2 API Working Only for First 5 Pictures,<java><android><android-camera2>,1,MODIFY
+Android,48604251,3,2084,Observing IMPORT LiveData from ViewModel and notify UI,<android><mvvm><kotlin><android-architecture-components>,1,MODIFY
+Android,48608334,1,264,Google Vision API CameraSourcePreview FPS,<android><android-camera><frame-rate><face-recognition><google-vision>,1,MODIFY
+Android,48675221,6,833,Location Updates with FusedLocationProviderClient produces memory leaks,<android><memory-leaks><google-api-client><fusedlocationproviderclient><location-updates>,1,MODIFY
+Android,48887518,1,476,Espresso Test Fail due to App not Idle Exception: The following Idle Conditions failed ASYNC_TASKS_HAVE_IDLED,<android><unit-testing><android-espresso><android-instrumentation>,1,MODIFY
+Android,48972343,1,1654,IMPORT to return LiveData when Room doesn't have it and instead fetches from REST API,<android><android-room><android-architecture-components><android-livedata><android-viewmodel>,2,REFERENCE
+Android,49024906,1,36,Android device unable to connect with BleGattServer,<android><bluetooth-lowenergy><bluetooth-gatt>,1,RUNNING
+Android,49167514,1,121,Store user credentials in Android keystore/keychain,<android><keystore><keychain><key-storage>,1,REFERENCE
+Android,49236067,1,233,"Dagger 2, scopes + annotation",<dagger-2><dagger.android>,1,REFERENCE
+Android,49520242,2,558,Multiple fragment in one Activity in Android MVP,<android><mvp><android-mvp><android-architecture>,2,REFERENCE
+Android,49696008,1,729,How to switch android-ndk example to use gcc instead of clang?,<gcc><gradle><android-ndk><clang>,1,IMPORT
+Android,49834875,4,2021,Problems with using tensorflow lite C++ API in Android Studio Project,<android><c++><tensorflow><android-ndk><android-studio-3.0>,1,REFERENCE
+Android,49940190,4,784,Instant App not available for testing,<android><android-instant-apps>,1,MODIFY
+Android,50031467,2,251,PackageInstaller error when pragmatically updating app,<android><android-7.0-nougat><device-owner><cosu><packageinstaller>,1,REFERENCE
+Android,50121501,6,472,Handling input with Android Architecture Components,<android><mvvm><android-architecture-components>,2,REFERENCE
+Android,50173009,5,1115,MVVM - handling Disposable-s in ViewModel with RxJava and Room,<android><mvvm><rx-java2><android-room><android-viewmodel>,1,REFERENCE
+Android,50177783,10,928,NotificationManagerCompat vs NotificationManager,<android><push-notification><notifications><android-notifications>,1,REFERENCE
+Android,50456919,44,2004,Paging library - Boundary callback for network + db with API taking page and size,<android><android-room><android-architecture-components><android-livedata><android-paging>,2,REFERENCE
+Android,50735291,2,538,Screen Sharing between Devices using Media Projection API,<android><mediacodec><mediamuxer><android-mediaprojection>,1,MODIFY
+Android,50747713,1,231,How to pass by Retrofit Header and Field Maps with Paging Library,<android><paging><android-architecture-components><androidx>,2,REFERENCE
+Android,50758822,3,3869,Failed to resolve: play-services-auth-base-license version 11.8.0,<android><android-gradle><resolve><play-services-auth-base-license>,4,IMPORT
+Android,50770478,5,734,how to add player control ui in google IO18 audio App demo,<exoplayer><exoplayer2.x>,1,REFERENCE
+Android,50782496,2,411,How to specify which thread(s) room live queries to run on?,<android><android-room><android-architecture-components>,1,MODIFY
+Android,50797934,13,138,UAMP MediaBrowser orientation,<android><mediabrowserservicecompat>,1,MODIFY
+Android,50970915,33,2247,How do some apps overcome phone recording restrictions?,<android><audio><call-recording>,1,REFERENCE
+Android,51067310,3,175,Adding media item to MediaBrowserService,<java><android><media-player><audio-player><mediabrowserservice><android-music-player>,1,MODIFY
+Android,51192192,3,145,How to record video that is already streamed on onPreviewFrame,<android><video-streaming><android-camera><opentok><android-video-record>,2,MODIFY
+Android,51203665,3,188,Is it possible to use SingleLiveEvent with Room in Android?,<android><android-room><android-livedata>,1,MODIFY
+Android,51252795,1,132,Can't get Google Fit OAuth 2.0 linked to WearOS App,<android><wear-os><google-fit>,1,MODIFY
+Android,51365460,4,245,DataBoundListAdapter with multiple item types,<android><android-recyclerview><recycler-adapter><android-architecture-components>,2,MODIFY
+Android,51387282,1,303,Android In App billing fails with repsonse code 6,<android><in-app-purchase><google-play-services><in-app-billing>,1,MODIFY
+Android,51393867,1,639,What is the correct way to create a ViewModelFactory for an AndroidViewModel,<android><dependency-injection><kotlin><android-viewmodel>,1,MODIFY
+Android,51496306,1,94,(Android IMPORT Pattern) Update phone database data with deleted items from web,<android><IMPORT-pattern><android-room><android-architecture-components>,1,REFERENCE
+Android,51498296,1,83,"Android Auto Music app is not showing in ""Android auto"" app",<android><media-player><auto>,1,RUNNING
+Android,51801851,3,419,Inject activity's ViewModel into fragment's ViewModel,<android><dagger-2><android-architecture-components><android-viewmodel><dagger-android>,1,MODIFY
+Android,51854567,3,682,Why are the IMPORT classes singletons in this sample app?,<android><android-architecture-components><android-jetpack>,1,REFERENCE
+Android,51879224,5,1008,The Navigation Architecture Component animation,<android><kotlin><navigation>,1,MODIFY
+Android,51892029,1,122,Video inverts 180 after recording in front camera 2 api,<android><android-camera2>,1,MODIFY
+Android,51988969,2,376,How to link correctly C++ files to an existing Android Project in Android Studio?,<android><c++>,2,MODIFY
+Android,52269697,1,61,Can loadInitial() be blocking when loading data from API,<android><android-paging>,1,REFERENCE
+Android,52374888,3,228,Camera2 1440x1080 is maximum,<android><android-camera2>,1,RUNNING
+Android,52454186,3,157,IMPORT pattern with paging library,<android><android-paging-library>,1,MODIFY
+Android,52477887,3,239,Big problem Android Studio 3.3 Canary 11 (gradle 3.3.0 alpha 11) with Kotlin 1.3.0-rc-57 and constraintlayout 2.0,<android><android-studio><android-gradle>,2,REFERENCE
+Android,52480833,1,240,"Dynamic Feature activity not loading, stuck at installation",<android><generics><app-bundle><android-app-bundle>,2,REFERENCE
+Android,53141233,1,76,Android ViewPager preloading too much fragments,<android><android-viewpager>,1,MODIFY
+Android,53445426,1,100,How to record video using Camera2 API in SceneForm,<android><android-camera2><sceneform>,1,REFERENCE
+Android,53494927,6,63,MediaBrowserCompat queue find item,<android><android-mediasession>,1,MODIFY
+Android,53507668,1,80,"Where to place Toasts, Snackbars etc. in era of Android Architecture Components",<android><android-architecture-components><android-viewmodel>,2,REFERENCE
+Android,53635269,2,380,Gradle cannot resolve androidx.appcompat:appcompat:1.1.0-alpha01 and com.google.android.gms:play-services-nearby:16.0.0,<android><android-studio><gradle><android-gradle><google-play-services>,2,IMPORT
+Android,53865978,7,2071,Why SMS Retriever API don't work in release mode?,<android><android-intent><android-broadcast><android-broadcastreceiver><android-sms>,6,RUNNING
+Android,54073476,1,45,Cannot create directory and save picture taken by camera in storage/emulated/0,<android><camera><storage><external>,1,MODIFY
+Android,54091648,2,230,"Camera 2 API to Preview, Record and Extract the preview frame to Firebase face detection processing simultaneously",<android><face-detection><android-camera2>,2,MODIFY
+Android,54319444,2,362,<android.arch.lifecycle.ViewModel>> cannot be provided without an @Provides-annotated method,<java><android><dependency-injection><viewmodel><dagger-2>,1,MODIFY
+Android,54402542,2,96,Inject Adapter to Fragment using Dagger2,<android><kotlin><recycler-adapter><dagger-2>,1,MODIFY
+Android,54493736,1,143,Creating an instance of Room Database inside the callback or use the member variable of that database,<java><android><callback><android-room>,1,REFERENCE
+Android,54539912,3,64,Is Picture-in-Picture mode supports bellow Oreo,<android><youtube-api><picture-in-picture>,1,REFERENCE
+Android,54608165,2,303,Barcode scanning is not working with vision API,<android><barcode-scanner><android-vision><firebase-mlkit>,1,RUNNING
+Android,54640389,1,37,android ndk opengl creating protected context,<android><opengl-es><android-ndk><egl>,1,MODIFY
+Android,54879581,1,91,Architecture Navigation Component : onCreateView gets called every time,<android><androidx><fragment-backstack><android-navigation-component>,1,REFERENCE
+Android,55083734,1,47,"java.lang.UnsatisfiedLinkError: dlopen failed: library ""/Users/..."" not found",<android><android-ndk><java-native-interface><shared-libraries>,1,MODIFY
+Android,55196032,1,61,Pre-Populate Room Database using WorkManager and Dagger,<android><android-room><dagger><android-workmanager>,1,MODIFY
+Android,55301892,1,114,SMS Retriever API android system unable to send message to the Broadcast Receiver,<android><kotlin><sms>,1,REFERENCE
+Android,55520315,3,72,Requesting high precision location with LocationSettingsRequest not updating location settings,<android><google-play-services><android-location>,1,REFERENCE
+Android,55764251,1,25,Retrofit LiveDataCallAdapter doesn't call function adapt (call),<android><kotlin><retrofit><android-livedata>,1,MODIFY
+Spring,18888714,1,1579,Spring MVC application RUNNINGed on Tomcat does not run on IntelliJ,<java><spring-mvc><intellij-idea><tomcat7>,1,RUNNING
+Spring,19482372,1,4863,How do I simplify mockito/hamcrest argument matchers in test method?,<java><spring><unit-testing><mockito><hamcrest>,2,REFERENCE
+Spring,20101448,1,2420,@Column or @Basic JPA annotations ignored in spring-data-jpa schema creation,<java><spring><jpa><spring-data><spring-data-jpa>,2,MODIFY
+Spring,20168563,5,7231,Spring-boot UTF-8 resources,<java><spring><utf-8><spring-boot>,2,MODIFY
+Spring,21305874,1,1083,Fail to connect to Rabbitmq using Spring 4.0 webstocket stomp api,<rabbitmq><spring-4><spring-messaging><spring-websocket>,1,MODIFY
+Spring,22600920,1,303,Spring Neo4J REST error - nodeStateTransmitter,<java><spring><rest><neo4j><spring-boot>,1,IMPORT
+Spring,22935840,2,4169,Cannot IMPORT Spring 4 project with Maven,<java><spring><maven><pom.xml>,3,IMPORT
+Spring,23366226,28,23955,Spring Boot w/ JPA: move @Entity to different package,<spring><jpa><spring-data><spring-data-jpa><spring-boot>,4,MODIFY
+Spring,24025004,5,3165,Spring Boot & Maven war overlay,<maven><spring-boot><maven-war-plugin>,1,MODIFY
+Spring,24539899,1,5245,Gradle error: java.lang.String cannot be cast to org.gradle.api.artifacts.Configuration,<java><spring><gradle>,2,IMPORT
+Spring,25571843,7,4574,Problems accessing fresh RUNNING of SpringBoot sample app on Weblogic12C,<java><spring><spring-boot><weblogic12c>,3,MODIFY
+Spring,27105619,1,1121,spring boot mvc: failed after following the sample,<spring><spring-mvc>,1,RUNNING
+Spring,27171629,1,1627,Get access token using spring social facebook api,<java><facebook><spring><spring-social><spring-social-facebook>,1,MODIFY
+Spring,28702698,2,3201,springboot initialization error on startup with mongodb on gorm/groovy,<spring><mongodb><groovy><gorm><spring-boot>,1,IMPORT
+Spring,29299181,2,2111,Why are my Spring Data repositories not found if moved into another package of a Spring Boot application?,<spring-boot><spring-data>,1,MODIFY
+Spring,29831953,7,19117,maven IMPORT failing when generating war package for spring boot application?,<spring><maven><tomcat><spring-boot>,2,RUNNING
+Spring,29831374,1,700,how to pass parameters from web requests to spring boot yarn application,<hadoop><spring-boot><yarn><spring-data-hadoop>,1,REFERENCE
+Spring,31730050,5,1038,spring-boot-starter-ws performance when run as jar,<spring><maven><soap><spring-boot><spring-ws>,1,REFERENCE
+Spring,34525587,7,4791,Invalid wsdl generated by spring-ws when the request element doesn't end with 'Request',<java><web-services><wsdl><cxf><spring-ws>,3,MODIFY
+Spring,34512248,7,1291,"Spring Social: ""Unable to get a ConnectionRepository: no user signed in""",<spring><facebook><spring-security><spring-social><spring-social-facebook>,2,MODIFY
+Spring,34606760,8,14125,@WebAppConfiguration and @ContextConfiguration for Spring Boot + Thymeleaf,<java><spring><spring-boot><integration-testing><thymeleaf>,2,MODIFY
+Spring,35076591,2,3977,What does CommandLineRunner do in this case?,<java><spring><spring-boot>,1,REFERENCE
+Spring,35584271,6,12422,"Spring Data MongoDB Annotation @CreatedDate isn't working, when ID is assigned manually",<java><spring><mongodb><spring-data><spring-data-mongodb>,1,MODIFY
+Spring,35195982,1,1196,Spring-boot @Async not running with @Scheduled,<java><spring><spring-boot><spring-scheduled><spring-async>,1,MODIFY
+Spring,35709341,2,1549,"How do you RUNNING the ""IMPORTing REST Services with Spring"" tutorial?",<java><spring><rest><maven><spring-boot>,2,RUNNING
+Spring,36433556,1,43,Why my gradle project always downloading 200MB data from Internet?,<spring><gradle>,1,IMPORT
+Spring,36581834,1,602,where is port 8080 defined in spring cloud app?,<spring><spring-boot><spring-cloud><netflix-zuul>,3,REFERENCE
+Spring,36655518,1,861,disable confirmation page in Spring OAuth2,<spring><spring-mvc><spring-security><spring-boot><spring-oauth2>,1,RUNNING
+Spring,36683434,4,10867,How to autowire this TokenStore,<spring><spring-security><spring-boot><autowired><spring-oauth2>,2,MODIFY
+Spring,36899386,9,1266,null client in OAuth2 Multi-Factor Authentication,<spring><spring-mvc><spring-security><spring-boot><spring-security-oauth2>,1,REFERENCE
+Spring,37970709,16,15445,Could not autowire field: private org.springframework.security.authentication.AuthenticationManager,<java><spring><spring-mvc><spring-security><spring-boot>,3,MODIFY
+Spring,38698426,4,911,Spring security with AngularJS - logout does not work,<java><angularjs><google-chrome><spring-security><logout>,1,MODIFY
+Spring,34751700,9,7222,Spring Zuul API Gateway with Spring Session / Redis Authenticate and Route in same Request,<spring-security><spring-cloud><spring-session>,2,MODIFY
+Spring,39233986,1,72,Not able to run the starter guide code of IMPORTing Spring Boot Rest Service,<spring><web-services><rest><maven><spring-boot>,1,RUNNING
+Spring,40357318,1,539,Spring Boot and OAuth2 example: redirect not working,<spring><spring-security><oauth2>,1,MODIFY
+Spring,40585031,7,11431,Unable to start springboot app - Resource location must not be null,<spring><spring-boot>,4,IMPORT
+Spring,40802405,1,641,Spring session login,<java><spring><session>,1,REFERENCE
+Spring,40775533,1,628,Spring SSO authorization fails without context-path,<java><spring><spring-security>,2,MODIFY
+Spring,41092751,35,19035,Spring injects dependencies in constructor without @Autowired annotation,<spring><spring-boot><dependency-injection><autowired>,1,REFERENCE
+Spring,41429778,4,4602,Spring Security logout and Maximum sessions,<java><spring><spring-mvc><session><spring-security>,1,MODIFY
+Spring,41578040,2,778,Spring OAuth2: support auth and resource access with both SSO and custom auth server,<spring-boot><single-sign-on><spring-security-oauth2>,1,REFERENCE
+Spring,42102689,1,2727,Consider defining a bean of type 'org.springframework.data.redis.connection.RedisConnectionFactory' in your configuration,<spring-security><spring-session><spring-data-redis>,1,IMPORT
+Spring,42420125,2,596,Spring Boot Oauth2 with slack,<spring-boot><oauth-2.0><slack>,1,MODIFY
+Spring,42721597,1,7037,Spring Boot - Request method 'POST' not supported (Method not allowed),<java><spring><spring-mvc><post>,3,MODIFY
+Spring,43150564,2,168,"What does $(""something"") mean in Java?",<java>,2,REFERENCE
+Spring,36730903,5,8564,Add custom UserDetailsService to Spring Security OAuth2 app,<spring><spring-security><spring-boot><spring-security-oauth2><spring-oauth2>,2,MODIFY
+Spring,43374658,1,897,Spring Oauth2 SSO - Unable to logout from the Auth server,<angularjs><spring><spring-security><oauth-2.0><spring-security-oauth2>,2,REFERENCE
+Spring,45136514,1,1970,OAuth2 SSO with Spring Boot without the authorization screen,<java><spring><spring-boot><jwt><spring-security-oauth2>,1,REFERENCE
+Spring,27987068,11,6800,Spring Boot Hibernate Syntax Error in SQL Statement,<spring><hibernate><jpa><spring-boot><spring-data-jpa>,2,MODIFY
+Spring,45993586,2,300,How does the eureka client find the eureka server in spring boot 1.5.2?,<spring><spring-boot><spring-cloud><spring-cloud-netflix>,1,REFERENCE
+Spring,46162061,3,433,How to get a CrudRepository instance?,<java><spring><spring-boot><spring-data-jpa><h2>,2,MODIFY
+Spring,46174992,8,628,Missing client_id when accessing token with linkedIn,<spring><spring-security><oauth><spring-oauth2>,2,MODIFY
+Spring,46732371,1,198,Why are there different types of integration tests in Spring Boot,<spring><testing><spring-boot><resttemplate><spring-test>,1,REFERENCE
+Spring,43458500,10,3373,How to migrate Spring Boot JMS from ActiveMQ to Oracle Advanced Queueing,<java><oracle><spring-boot><spring-jms><advanced-queuing>,2,MODIFY
+Spring,48772458,4,593,"could not find MavenWrapperMain class, but is contained within .m2 in the directory",<java><maven>,4,IMPORT
+Spring,49942640,29,2165,Official Spring security oauth2 example doesn't work because of cookies clashing(authorization code mechanism),<java><spring-security><oauth-2.0><spring-oauth2>,3,RUNNING
+Spring,51738718,2,598,FlatFileItemReader tab delimiter not working,<java><spring><spring-batch>,2,MODIFY
+Spring,51736997,2,431,"How to configure project to auto reload browser in angular, spring-boot, maven project",<java><angular><maven><spring-boot><visual-studio-code>,1,MODIFY
+Spring,37042106,3,505,Springboot 1.3.3 gives 404 in Jboss EAP 6.4.0GA,<java><spring><maven><jboss><spring-boot>,1,RUNNING
+Spring,54750194,1,21,Find by property not working as expected in Spring Data Neo4j,<spring-data-neo4j>,1,RUNNING
+Spring,23511605,1,553,Glassfish and Spring Boot: .war re-RUNNINGment failed,<spring><glassfish><spring-boot>,1,RUNNING
+Spring,27643278,2,1888,spring-boot spring-mvc apache-commons-fileupload: Required MultipartFile parameter 'file' is not present error,<spring-mvc><spring-boot><apache-commons-fileupload>,1,MODIFY
+Spring,29282870,1,133,purpose of adding events layer in DDD,<spring><tdd><domain-driven-design><event-sourcing>,1,REFERENCE
+Spring,34821978,8,16335,How does callback work in AngularJS call to REST service?,<javascript><angularjs>,2,REFERENCE
+Spring,36100395,5,5450,Spring Security Oauth2 SSO with Zuul Proxy,<spring><spring-security><spring-cloud><spring-security-oauth2>,1,MODIFY
+Spring,36705874,7,3608,Request 'OPTIONS /logout' doesn't match 'POST /logout,<spring><spring-security><spring-boot><spring-cloud><spring-oauth2>,1,MODIFY
+Spring,37061697,14,2025,Invalid XSRF token at /oauth/token,<spring><spring-mvc><spring-security><spring-boot><spring-oauth2>,2,REFERENCE
+Spring,37598036,1,842,Spring Security OAuth2 doesn't kill the session and display login again,<java><spring-security><spring-boot><single-sign-on><spring-security-oauth2>,1,RUNNING
+Spring,37780976,5,2100,"gpg: skipped ""XXBDXX4E"": secret key not available. gpg: signing failed: secret key not available",<git><github>,2,REFERENCE
+Spring,38800564,5,2554,Azure AD and Spring Security with Oauth 2,<java><security><spring-mvc><oauth><azure-active-directory>,1,REFERENCE
+Spring,38910280,3,601,Spring Boot with Angularjs Logout Error,<angularjs><spring><spring-security><spring-boot><logout>,1,RUNNING
+Spring,39082691,4,2273,"Spring boot Security, Oauth2 logout, invalidate session in order to go through the authentication and approval cycle in the authorization server",<java><angularjs><spring-security><spring-boot><spring-security-oauth2>,2,RUNNING
+Spring,39645590,5,7114,cors not working for my spring boot application,<spring><spring-mvc><spring-boot><cors><spring-mvc-test>,3,REFERENCE
+Spring,40355743,5,2709,"File upload in Spring Boot: Uploading, validation, and exception handling",<java><tomcat><file-upload><spring-boot><thymeleaf>,2,MODIFY
+Spring,40623809,1,347,Spring Cloud OAuth2: Adding user authorities,<spring-security><oauth-2.0><spring-cloud><spring-security-oauth2><spring-oauth2>,1,MODIFY
+Spring,41738864,2,1105,Multiple SSO providers in Spring Boot Auth server,<java><spring-boot><oauth-2.0><spring-security-oauth2>,1,MODIFY
+Spring,41850162,4,903,Spring Security OAuth2 AngularJS | Logout Flow,<spring-security><spring-security-oauth2>,3,MODIFY
+Spring,42867921,4,931,Spring cannot configure authorization server,<java><spring><spring-boot><spring-security><spring-security-oauth2>,4,REFERENCE
+Spring,43082213,4,2543,Spring Boot Oauth2 token request - Bad client credentials from BasicAuthenticationFilter,<spring-boot><oauth-2.0><token><credentials>,1,MODIFY
+Spring,43431802,1,125,Spring tutorial accessing-data-jpa does not work,<spring><spring-boot><spring-data><spring-data-jpa>,1,RUNNING
+Spring,47202657,1,1816,Spring Security OAuth2- POST request to oauth/token redirects to login and role displays ROLE_ANONYMOUS,<spring><spring-security><oauth><oauth-2.0><spring-security-oauth2>,3,MODIFY
+Spring,47239476,2,1637,CORS and Spring Websocket,<spring><spring-boot><websocket><cors><stomp>,1,MODIFY
+Spring,49939639,1,302,Spring oauth2 sso example doesn't work,<java><spring><spring-boot><oauth-2.0><spring-security-oauth2>,1,RUNNING
+Spring,50141309,1,272,Error 404 bundle.js not found - Spring Data Rest and React.js,<javascript><spring><reactjs><spring-boot>,1,RUNNING
+Spring,51348352,1,1662,What's the difference between management.server.port and management.port properties?,<spring-boot-actuator>,1,REFERENCE
+Spring,53816713,1,81,How RUNNING source code as an application in a linux virtual machine on Azure using Jenkins?,<git><azure><jenkins><virtual-machine><jenkins-plugins>,2,IMPORT
+Spring,55564608,1,230,How does Java Spring query MongoDB?,<java><spring><mongodb>,1,REFERENCE
