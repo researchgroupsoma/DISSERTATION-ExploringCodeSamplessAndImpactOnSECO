@@ -1,0 +1,64 @@
+library(effsize)
+library(ggplot2)
+#library(devtools)
+#library(easyGgplot2)
+library(forcats)
+
+mainDirectory = "/home/gabriel/Documentos/gabrielsmenezes/JSS20221/"
+
+androidtop=read.csv(paste(mainDirectory, "1-Projects/13-PopularityComparision/Metrics-Android-TOP.csv", sep = ""), sep=",",header=T)
+androidbottom=read.csv(paste(mainDirectory, "1-Projects/13-PopularityComparision/Metrics-Android-BOTTOM.csv", sep = ""), sep=",",header=T)
+
+springtop=read.csv(paste(mainDirectory, "1-Projects/13-PopularityComparision/Metrics-Spring-TOP.csv", sep = ""), sep=",",header=T)
+springbottom=read.csv(paste(mainDirectory, "1-Projects/13-PopularityComparision/Metrics-Spring-BOTTOM.csv", sep = ""), sep=",",header=T)
+
+# Java
+
+wilcox.test(androidtop$numberOfJavaFiles, androidbottom$numberOfJavaFiles)
+cliff.delta(androidtop$numberOfJavaFiles, androidbottom$numberOfJavaFiles)
+
+wilcox.test(springtop$numberOfJavaFiles, springbottom$numberOfJavaFiles)
+cliff.delta(springtop$numberOfJavaFiles, springbottom$numberOfJavaFiles)
+
+
+#Lines of Code = CountLineCode
+wilcox.test(androidtop$CountLineCode, androidbottom$CountLineCode)
+cliff.delta(androidtop$CountLineCode, androidbottom$CountLineCode)
+
+wilcox.test(springtop$CountLineCode, springbottom$CountLineCode)
+cliff.delta(springtop$CountLineCode, springbottom$CountLineCode)
+
+
+# Relative Commented Lines - comment_rel - RCL
+wilcox.test((androidtop$CountLineComment/androidtop$CountLine), (androidbottom$CountLineComment/androidbottom$CountLine))
+cliff.delta((androidtop$CountLineComment/androidtop$CountLine), (androidbottom$CountLineComment/androidbottom$CountLine))
+
+wilcox.test((springtop$CountLineComment/springtop$CountLine), (springbottom$CountLineComment/springbottom$CountLine))
+cliff.delta((springtop$CountLineComment/springtop$CountLine), (springbottom$CountLineComment/springbottom$CountLine))
+
+
+# Complexity
+#Soma C.C.
+
+wilcox.test(androidtop$SumCyclomaticStrict, androidbottom$SumCyclomaticStrict)
+cliff.delta(androidtop$SumCyclomaticStrict, androidbottom$SumCyclomaticStrict)
+
+wilcox.test(springtop$SumCyclomaticStrict, springbottom$SumCyclomaticStrict)
+cliff.delta(springtop$SumCyclomaticStrict, springbottom$SumCyclomaticStrict)
+
+
+
+# Lifetime - lifetime
+wilcox.test(androidtop$lifetime, androidbottom$lifetime)
+cliff.delta(androidtop$lifetime, androidbottom$lifetime)
+
+wilcox.test(springtop$lifetime, springbottom$lifetime)
+cliff.delta(springtop$lifetime, springbottom$lifetime)
+
+# Ratio Lifetime/commits - lifetime_commits
+
+wilcox.test(androidtop$lifetime.per.commit, androidbottom$lifetime.per.commit)
+cliff.delta(androidtop$lifetime.per.commit, androidbottom$lifetime.per.commit)
+
+wilcox.test(springtop$lifetime.per.commit, springbottom$lifetime.per.commit)
+cliff.delta(springtop$lifetime.per.commit, springbottom$lifetime.per.commit)
