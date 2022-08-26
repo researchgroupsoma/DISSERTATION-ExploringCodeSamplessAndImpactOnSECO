@@ -1,0 +1,687 @@
+,framework,sample,full_name,archived,created_at,description,forks,language,open_issues,closed_issues,stars,subscribers,updated_at,watchers,commits,downloads,development_time
+0,googlearchive,googlearchive/android-instant-apps,xiangjiaowangzi/TransitionDemo,0.0,2017-10-19 08:58:02,,0.0,Java,0.0,0.0,0.0,1.0,2017-10-19 09:05:45,0.0,2.0,0.0,0.0
+1,googlearchive,googlearchive/leanback-assistant,yuliskov/MyVideoTube,0.0,2019-03-11 10:14:14,An frontend for the YouTube and other video hosting services,5.0,Java,1.0,0.0,3.0,3.0,2021-11-18 05:19:45,3.0,75.0,0.0,982.0
+2,googlearchive,googlearchive/leanback-assistant,yuliskov/SmartTubeNext,0.0,2020-07-28 12:53:52,Ad free app for watching tube videos on Android TV boxes,411.0,Java,736.0,640.0,5176.0,94.0,2022-03-28 17:41:11,5176.0,4736.0,0.0,608.0
+3,googlearchive,googlearchive/android-SynchronizedNotifications,morristech/ModuleLoader,0.0,2018-09-22 09:26:01,a libary used for managing demos,0.0,Java,0.0,0.0,0.0,0.0,2019-01-08 01:18:24,0.0,17.0,0.0,107.0
+4,googlearchive,googlearchive/android-SynchronizedNotifications,tun-lin/HappyShop,0.0,2017-08-31 01:50:08,,0.0,Java,0.0,0.0,0.0,2.0,2017-08-31 01:50:28,0.0,10.0,0.0,0.0
+5,googlearchive,googlearchive/android-SynchronizedNotifications,mananwason/CountSteps,0.0,2016-07-16 11:52:11,Uses fit api to count steps in the last 10 minutes based on the history api,0.0,Java,0.0,0.0,2.0,0.0,2020-04-21 17:32:45,2.0,3.0,0.0,1375.0
+6,googlearchive,googlearchive/android-AutofillFramework,ddwhan0123/ReactNativeDemo,0.0,2016-07-11 09:42:28,React-Native Simple Demo,4.0,Java,0.0,0.0,13.0,7.0,2020-09-01 07:05:25,13.0,26.0,0.0,1512.0
+7,googlearchive,googlearchive/android-AutofillFramework,androidmalin/android-architecture-todomvp,0.0,2018-12-02 08:21:01,https://github.com/googlesamples/android-architecture/tree/todo-mvp,1.0,Java,0.0,0.0,0.0,1.0,2018-12-02 08:46:40,0.0,134.0,0.0,0.0
+8,googlearchive,googlearchive/android-AutofillFramework,ZHBoy/HudProjector3,0.0,2018-02-06 06:09:09,Hud语音导航，界面只是适配了480*800，有待调整；语音功能未付费，暂停使用。,0.0,Java,0.0,0.0,2.0,2.0,2019-01-25 07:47:49,2.0,2.0,0.0,353.0
+9,googlearchive,googlearchive/android-AutofillFramework,sohail585/base-android-project-mvp,0.0,2018-12-31 05:42:19,An MVP Boilerplate to save users having to create the same project over from scratch every time! :),0.0,Java,0.0,0.0,0.0,1.0,2020-06-13 15:10:48,0.0,12.0,0.0,530.0
+10,googlearchive,googlearchive/android-AutofillFramework,wangrling/appscoll,0.0,2018-11-03 04:52:55,"Android app collections, just for personal learning.",0.0,Java,0.0,0.0,1.0,1.0,2019-04-22 08:36:38,1.0,49.0,0.0,170.0
+11,googlearchive,googlearchive/android-AutofillFramework,pritesh25/android-content-provider,0.0,2018-12-19 11:23:09,,0.0,Java,0.0,0.0,0.0,1.0,2018-12-19 11:24:30,0.0,1.0,0.0,0.0
+12,googlearchive,googlearchive/android-AutofillFramework,pritesh25/AndroidOreoBroadcastReceiver,0.0,2018-11-19 10:23:55,,0.0,Java,0.0,0.0,0.0,1.0,2018-11-21 07:12:59,0.0,3.0,0.0,1.0
+13,googlearchive,googlearchive/android-AutofillFramework,pritesh25/CoordinatorBehaviorExample,0.0,2018-10-23 11:37:57,,0.0,Java,0.0,0.0,0.0,2.0,2018-10-23 11:44:13,0.0,1.0,0.0,0.0
+14,googlearchive,googlearchive/android-AutofillFramework,pritesh25/GUIDs,0.0,2018-12-19 11:27:18,,0.0,Java,0.0,0.0,0.0,1.0,2018-12-19 11:30:29,0.0,1.0,0.0,0.0
+15,googlearchive,googlearchive/android-AutofillFramework,pritesh25/PaletteExample,0.0,2018-10-23 10:58:30,,0.0,Java,0.0,0.0,0.0,1.0,2018-10-23 11:02:29,0.0,1.0,0.0,0.0
+16,googlearchive,googlearchive/android-AutofillFramework,pritesh25/RippleEffect,0.0,2018-10-23 11:31:51,,0.0,Java,0.0,0.0,0.0,1.0,2018-10-23 11:35:52,0.0,1.0,0.0,0.0
+17,googlearchive,googlearchive/android-AutofillFramework,pritesh25/shared-element-transitions,0.0,2019-01-16 05:58:30,,0.0,Java,0.0,0.0,0.0,2.0,2019-01-16 06:03:06,0.0,1.0,0.0,0.0
+18,googlearchive,googlearchive/android-AutofillFramework,pritesh25/SSFood,0.0,2019-08-26 05:27:50,,0.0,Java,0.0,0.0,0.0,1.0,2020-05-31 09:50:18,0.0,2.0,0.0,279.0
+19,googlearchive,googlearchive/android-AutofillFramework,yufeilong92/ActivityUiDialog_baiduTT,0.0,2018-03-05 02:45:51,,0.0,Java,0.0,0.0,0.0,1.0,2018-03-05 03:00:09,0.0,10.0,0.0,0.0
+20,googlearchive,googlearchive/android-AutofillFramework,yufeilong92/baidudemo,0.0,2018-03-01 10:03:07,,0.0,Java,0.0,0.0,0.0,1.0,2018-03-02 00:45:56,0.0,3.0,0.0,0.0
+21,googlearchive,googlearchive/android-AutofillFramework,yufeilong92/baiDuYuYin,0.0,2018-03-07 06:25:10,,0.0,Java,0.0,0.0,0.0,1.0,2018-03-07 06:30:11,0.0,1.0,0.0,0.0
+22,googlearchive,googlearchive/android-AutofillFramework,yufeilong92/VerifyViewDemo,0.0,2018-02-06 08:35:04,,0.0,Java,0.0,0.0,0.0,1.0,2018-02-06 08:41:44,0.0,3.0,0.0,0.0
+23,googlearchive,googlearchive/android-SimpleMediaPlayer,HusterYP/Music,0.0,2018-08-02 06:25:22,Source for music,0.0,Java,0.0,0.0,0.0,0.0,2018-08-02 06:50:46,0.0,1.0,0.0,0.0
+24,googlearchive,googlearchive/android-SimpleMediaPlayer,lakshmignarayanan/extreme-video-player,0.0,2018-10-23 06:19:24,,2.0,Java,0.0,3.0,0.0,1.0,2018-10-30 08:55:22,0.0,16.0,0.0,7.0
+25,googlearchive,googlearchive/leanback-showcase,RBWare/android-couch-potato,0.0,2016-04-21 18:51:22,"Changing and updating the traditional ""leanback"" library to be quite a bit more extensive",0.0,Java,0.0,0.0,0.0,0.0,2016-04-21 19:55:30,0.0,6.0,0.0,0.0
+26,googlearchive,googlearchive/leanback-showcase,hossain-khan/android-daily-headlines,0.0,2016-09-19 01:54:09,An app that provides daily headlines from popular news source.,1.0,Java,28.0,203.0,6.0,2.0,2021-05-05 09:34:18,6.0,520.0,0.0,1689.0
+27,googlearchive,googlearchive/leanback-showcase,rafaeltoledo/fragments-sandbox,0.0,2017-08-24 02:33:26,,0.0,Java,0.0,0.0,0.0,2.0,2018-07-04 19:24:05,0.0,23.0,0.0,314.0
+28,googlearchive,googlearchive/leanback-showcase,riggaroo/android-arch-components-date-countdown,0.0,2017-05-17 23:01:33,,45.0,Java,3.0,9.0,206.0,14.0,2021-11-29 13:26:48,206.0,25.0,0.0,1656.0
+29,googlearchive,googlearchive/leanback-showcase,wzq/TVDemo,0.0,2018-02-02 07:21:51,android tv leanback 源码,2.0,Java,0.0,0.0,1.0,2.0,2020-03-18 15:26:26,1.0,4.0,0.0,775.0
+30,googlearchive,googlearchive/leanback-showcase,JarvisGG/ObjectAdapter,0.0,2017-10-30 09:36:38,应对复杂 recyclerview 的卡片类型,0.0,Java,0.0,0.0,2.0,1.0,2018-12-07 02:19:14,2.0,12.0,0.0,402.0
+31,googlearchive,googlearchive/leanback-showcase,Clendy/V14Leanback,0.0,2019-02-22 03:50:39,A library supporting paging loading for Android TV,1.0,Java,0.0,0.0,3.0,2.0,2020-06-10 14:56:24,3.0,1.0,0.0,474.0
+32,googlearchive,googlearchive/leanback-showcase,bertrandmartel/webradio-tv-app,0.0,2017-01-12 15:57:27,A sample Android TV application used to play webradio streaming,0.0,Java,0.0,0.0,1.0,1.0,2018-05-29 18:56:57,1.0,2.0,0.0,502.0
+33,googlearchive,googlearchive/leanback-showcase,bertrandmartel/youtubetv,0.0,2016-11-10 17:47:24,:tv: YouTube embedded player library for Android TV,23.0,Java,12.0,4.0,54.0,4.0,2022-03-24 14:52:00,54.0,159.0,0.0,1959.0
+34,googlearchive,googlearchive/leanback-showcase,00zhengfu00/prj,0.0,2019-02-02 01:37:13,,0.0,Java,0.0,0.0,1.0,2.0,2021-06-05 10:09:05,1.0,4.0,0.0,854.0
+35,googlearchive,googlearchive/leanback-showcase,msisuzney/tv-waterfall-layout,0.0,2019-10-19 04:56:29,一种Android TV瀑布流布局,3.0,Java,0.0,0.0,27.0,1.0,2022-01-24 08:03:19,27.0,36.0,0.0,828.0
+36,googlearchive,googlearchive/leanback-showcase,jimmonster/aac_common,0.0,2019-09-06 06:41:00,,1.0,Java,0.0,0.0,0.0,1.0,2019-10-21 08:12:42,0.0,53.0,0.0,45.0
+37,googlesamples,googlesamples/android-AppUsageStatistics,Lucas1Jorge/App_Usage_Tracker,0.0,2018-07-05 00:24:42,,0.0,Java,0.0,0.0,0.0,1.0,2018-07-05 00:40:12,0.0,8.0,0.0,0.0
+38,googlesamples,googlesamples/android-AppUsageStatistics,ashwintantri/AppUsageStats,0.0,2020-02-24 12:16:25,,0.0,Java,0.0,0.0,0.0,2.0,2020-02-24 12:20:24,0.0,22.0,0.0,0.0
+39,googlesamples,googlesamples/android-testing-templates,gdragan/android-testing,0.0,2015-11-18 15:57:14,,0.0,Java,0.0,1.0,0.0,3.0,2016-07-20 21:24:54,0.0,5.0,0.0,245.0
+40,googlesamples,googlesamples/android-testdpc,jkYishon/android6.0,0.0,2015-12-09 07:01:11,学习安卓源代码，在源代码中记录相关的学习笔记,5.0,Java,0.0,0.0,5.0,1.0,2019-11-18 06:54:49,5.0,11.0,0.0,1439.0
+41,googlesamples,googlesamples/android-testdpc,xdtianyu/android_2.3.5,0.0,2012-11-08 12:40:47,"android 2.3.5 source code mirror, ISO package http://pan.baidu.com/s/1kT7hgAr",10.0,Java,1.0,0.0,3.0,2.0,2021-11-28 15:21:53,3.0,3.0,0.0,3307.0
+42,googlesamples,googlesamples/android-testdpc,lmjssjj/wiki,0.0,2017-06-15 09:01:35,,0.0,Java,0.0,0.0,0.0,1.0,2021-12-13 07:05:02,0.0,196.0,0.0,1641.0
+43,googlesamples,googlesamples/android-testdpc,jalong4/AttestProps,0.0,2020-12-04 19:59:46,Android Test App which calls Attestation API's,0.0,Java,0.0,0.0,1.0,2.0,2021-03-10 21:08:30,1.0,26.0,0.0,96.0
+44,googlesamples,googlesamples/android-testdpc,jalong4/UniqueID,0.0,2020-03-06 03:17:28,,1.0,Java,0.0,1.0,1.0,2.0,2020-08-31 23:52:20,1.0,18.0,0.0,178.0
+45,googlesamples,googlesamples/android-testdpc,ryuunoakaihitomi/PowerAct,0.0,2020-05-24 03:46:53,An Android library that can manipulate power-related actions with just few lines of code.,4.0,Java,0.0,0.0,11.0,1.0,2022-02-18 11:23:06,11.0,196.0,0.0,635.0
+46,googlesamples,googlesamples/easypermissions,CaMnter/AndroidLife,0.0,2015-11-16 06:24:10,📔 CaMnter's android learning life and footprint.,73.0,Java,0.0,4.0,304.0,22.0,2022-02-21 11:55:05,304.0,1468.0,0.0,2289.0
+47,googlesamples,googlesamples/easypermissions,54binge/EasySubway,0.0,2017-08-31 07:59:23,简单看地铁,1.0,Java,0.0,0.0,1.0,1.0,2019-06-03 03:06:29,1.0,11.0,0.0,640.0
+48,googlesamples,googlesamples/easypermissions,0xm1nam0/RxCore,0.0,2017-01-17 11:45:05,开发框架基于RxJava2+Retrofit2,30.0,Java,2.0,0.0,134.0,4.0,2022-03-03 01:11:39,134.0,41.0,0.0,1870.0
+49,googlesamples,googlesamples/easypermissions,m122469119/EcxppSDK,0.0,2017-11-21 17:15:53,千旸科技SDK,0.0,Java,0.0,0.0,0.0,1.0,2019-05-01 13:11:44,0.0,18.0,0.0,525.0
+50,googlesamples,googlesamples/easypermissions,qyxxjd/AndroidBasicProject,0.0,2015-11-08 05:45:02,新项目地址： https://github.com/qyxxjd/BaseProject,22.0,Java,0.0,0.0,65.0,7.0,2019-12-25 16:12:14,65.0,98.0,0.0,1508.0
+51,googlesamples,googlesamples/easypermissions,qyxxjd/BaseProject,0.0,2016-12-09 08:10:56,android base project,16.0,Java,0.0,0.0,49.0,4.0,2021-03-02 02:04:59,49.0,37.0,0.0,1543.0
+52,googlesamples,googlesamples/easypermissions,SpringSmell/knowldegeBase,0.0,2016-11-02 02:26:06,,0.0,Java,0.0,0.0,0.0,1.0,2016-11-02 09:33:42,0.0,1.0,0.0,0.0
+53,googlesamples,googlesamples/easypermissions,wzdsqyy/AppPlus,0.0,2016-09-21 10:52:16,init,0.0,Java,0.0,0.0,0.0,2.0,2016-09-21 11:12:05,0.0,123.0,0.0,0.0
+54,googlesamples,googlesamples/easypermissions,ynztlxdeai/MVPtemplate,0.0,2017-04-04 06:17:20,,0.0,Java,0.0,0.0,1.0,1.0,2021-05-08 07:18:26,1.0,50.0,0.0,1495.0
+55,googlesamples,googlesamples/easypermissions,jarylan/AdaptationX-android,0.0,2017-02-13 06:45:01,,0.0,Java,0.0,0.0,0.0,2.0,2017-02-13 06:45:02,0.0,6.0,0.0,0.0
+56,googlesamples,googlesamples/easypermissions,itfengan/permissionDemo,0.0,2018-09-12 02:14:05,base lib - permission,0.0,Java,0.0,0.0,0.0,0.0,2018-09-12 02:19:17,0.0,2.0,0.0,0.0
+57,googlesamples,googlesamples/easypermissions,aftabsikander/PermissionAssistant,0.0,2017-03-31 14:15:44,PermissionAssistant is a wrapper library to simplify basic system permissions logic when targeting Android M or higher.,1.0,Java,0.0,0.0,3.0,4.0,2017-04-04 13:19:03,3.0,7.0,0.0,3.0
+58,googlesamples,googlesamples/easypermissions,karthick1611/BookOnTravel,0.0,2018-01-10 17:21:11,Check Hotel Nearb your Destination.,0.0,Java,0.0,0.0,0.0,1.0,2018-01-10 17:21:26,0.0,2.0,0.0,0.0
+59,googlesamples,googlesamples/easypermissions,Begin-With-Start/Demoall,0.0,2017-05-05 05:25:17,demo的集合。,0.0,Java,0.0,0.0,1.0,2.0,2020-04-11 04:57:11,1.0,79.0,0.0,1071.0
+60,googlesamples,googlesamples/easypermissions,zengven/android-base,0.0,2017-10-27 10:21:34,android base class and util,0.0,Java,0.0,0.0,0.0,1.0,2017-10-27 10:37:29,0.0,4.0,0.0,0.0
+61,googlesamples,googlesamples/easypermissions,zengven/CommonApp,0.0,2019-04-10 10:10:27,,0.0,Java,0.0,0.0,0.0,1.0,2019-04-12 07:48:10,0.0,4.0,0.0,1.0
+62,googlesamples,googlesamples/easypermissions,zengven/EasyPermissions,0.0,2017-09-14 09:57:56,,0.0,Java,0.0,0.0,1.0,1.0,2017-09-14 10:01:52,1.0,3.0,0.0,0.0
+63,googlesamples,googlesamples/easypermissions,AnVector/YunYiBao,0.0,2017-05-23 10:21:51,,0.0,Java,0.0,0.0,0.0,1.0,2018-05-23 14:59:39,0.0,58.0,0.0,365.0
+64,googlesamples,googlesamples/easypermissions,solomaticydl/TonyPermissionSample,0.0,2018-05-14 13:35:02,這是關於Android M(6.0)系統權限控管的範例，使用easypermission,0.0,Java,0.0,1.0,0.0,1.0,2019-01-15 07:38:03,0.0,10.0,0.0,245.0
+65,googlesamples,googlesamples/easypermissions,quanqiuheike/JsInterface,0.0,2018-04-02 02:40:38,测试GitHub上传,0.0,Java,0.0,0.0,0.0,1.0,2018-04-02 11:19:27,0.0,5.0,0.0,0.0
+66,googlesamples,googlesamples/easypermissions,wzes/Huddle,0.0,2017-09-08 05:38:41,Android 挑战赛项目 一个基于大学生竞赛信息分享组队平台,0.0,Java,0.0,1.0,2.0,2.0,2021-04-10 00:06:09,2.0,46.0,0.0,1309.0
+67,googlesamples,googlesamples/easypermissions,wzes/VMovie,0.0,2017-10-26 02:04:57,一个电影分享的app,0.0,Java,1.0,0.0,1.0,2.0,2018-11-06 07:21:04,1.0,23.0,0.0,376.0
+68,googlesamples,googlesamples/easypermissions,xleix/VersionHelper,0.0,2019-04-30 12:33:08,,0.0,Java,0.0,0.0,0.0,1.0,2019-05-05 07:23:29,0.0,14.0,0.0,4.0
+69,googlesamples,googlesamples/easypermissions,kangtong/TravelCarryTreasure,0.0,2017-05-02 11:02:29,,0.0,Java,0.0,0.0,0.0,1.0,2017-12-11 03:18:52,0.0,2.0,0.0,222.0
+70,googlesamples,googlesamples/easypermissions,lzyang187/AndroidPermission,0.0,2018-07-30 10:37:04,Android6.0运行时权限库，基于EasyPermisssion,1.0,Java,0.0,0.0,0.0,1.0,2018-07-30 10:39:50,0.0,2.0,0.0,0.0
+71,googlesamples,googlesamples/easypermissions,dujianchi/Core,0.0,2019-03-22 05:36:22,My new Android Base Core,1.0,Java,1.0,0.0,0.0,1.0,2021-11-16 01:35:05,0.0,195.0,0.0,969.0
+72,googlesamples,googlesamples/easypermissions,dujianchi/CoreApp,0.0,2018-02-02 16:35:04,Android常用的一些类，app模块内为随意的测试代码，从来都不重要，core才是重点,0.0,Java,0.0,1.0,0.0,1.0,2019-03-26 15:16:39,0.0,169.0,0.0,416.0
+73,googlesamples,googlesamples/easypermissions,liuxin1234/EasyReadingAndroid,0.0,2018-03-16 05:43:33,轻松阅项目,0.0,Java,0.0,0.0,0.0,1.0,2018-03-29 07:26:23,0.0,1.0,0.0,13.0
+74,googlesamples,googlesamples/easypermissions,liuxin1234/EasyReadingAndroidMVP,0.0,2018-07-18 01:07:52,轻松阅项目上传,0.0,Java,0.0,0.0,0.0,1.0,2019-12-20 01:14:38,0.0,4.0,0.0,520.0
+75,googlesamples,googlesamples/easypermissions,liuxin1234/NbVolunteerAndroidWork,0.0,2017-02-15 08:45:55,,0.0,Java,0.0,0.0,0.0,0.0,2019-10-31 02:48:51,0.0,24.0,0.0,987.0
+76,googlesamples,googlesamples/easypermissions,66668/PermissionStudy,0.0,2018-05-30 03:25:46,(（2）+（3）多权限拒绝还有bug，后期修改)动态权限学习总结：（1）所有权限的使用注释，危险权限组（2）原生权限代码的单个多个申请，各种拒绝，连续拒绝的再次打开申请/（3）两种简单的封装方式/（4）两个特殊权限的特殊代码申请/（5）不同手机厂商手动打开权限的工具类/（6）最火的四个第三方框架的权限申请（PermissionDispatcher未做），请阅读README，一步到位，还不拿回去用,0.0,Java,0.0,0.0,0.0,2.0,2021-03-09 10:22:54,0.0,24.0,0.0,1014.0
+77,googlesamples,googlesamples/easypermissions,zhuzhushang/common_dialog,0.0,2021-02-28 15:28:12,a common dialog,0.0,Java,0.0,0.0,0.0,1.0,2021-09-01 03:40:03,0.0,3.0,0.0,184.0
+78,googlesamples,googlesamples/easypermissions,gooderman/common-as,0.0,2017-07-22 10:50:51,android studio project (umshare recordmp3 sdks),0.0,Java,0.0,0.0,0.0,0.0,2018-05-23 09:32:52,0.0,28.0,0.0,304.0
+79,googlesamples,googlesamples/easypermissions,RahulJanagouda/GeoAlert,0.0,2018-02-26 20:35:41,,1.0,Java,0.0,0.0,1.0,1.0,2020-04-20 16:27:44,1.0,8.0,0.0,783.0
+80,googlesamples,googlesamples/easypermissions,loongX/AndroidDemo,0.0,2017-06-21 16:29:31,Android代码练习,0.0,Java,0.0,0.0,0.0,2.0,2018-06-04 15:49:01,0.0,144.0,0.0,347.0
+81,googlesamples,googlesamples/easypermissions,jinhuizxc/EasyPermissions,0.0,2019-04-11 09:29:17,easypermissions,0.0,Java,0.0,0.0,0.0,0.0,2019-06-03 03:48:27,0.0,3.0,0.0,52.0
+82,googlesamples,googlesamples/easypermissions,jinhuizxc/EasyPermissionTest,0.0,2019-06-03 03:52:28,,0.0,Java,0.0,0.0,0.0,0.0,2019-06-03 03:52:40,0.0,1.0,0.0,0.0
+83,googlesamples,googlesamples/easypermissions,Demo-H/Android,0.0,2018-07-27 09:58:49,基本电商框架和公共类库,2.0,Java,0.0,0.0,0.0,2.0,2018-08-06 01:39:01,0.0,7.0,0.0,9.0
+84,googlesamples,googlesamples/easypermissions,Demo-H/Manager,0.0,2019-02-03 03:21:53,管理app,0.0,Java,0.0,0.0,0.0,2.0,2019-02-03 03:28:20,0.0,2.0,0.0,0.0
+85,googlesamples,googlesamples/easypermissions,Demo-H/Tup,0.0,2018-06-15 03:09:11,,0.0,Java,0.0,0.0,0.0,2.0,2019-02-03 03:21:13,0.0,5.0,0.0,233.0
+86,googlesamples,googlesamples/easypermissions,Demo-H/Tup,0.0,2018-06-15 03:09:11,,0.0,Java,0.0,0.0,0.0,2.0,2019-02-03 03:21:13,0.0,5.0,0.0,233.0
+87,googlesamples,googlesamples/easypermissions,watayouxiang/Permission,0.0,2019-06-20 01:10:56,安卓权限申请工具,0.0,Java,0.0,0.0,0.0,0.0,2021-12-17 06:26:47,0.0,77.0,0.0,911.0
+88,googlesamples,googlesamples/easypermissions,dabingZhang/Scan,0.0,2021-10-14 11:30:56,扫描小助手,0.0,Java,0.0,0.0,0.0,1.0,2021-10-14 11:31:39,0.0,1.0,0.0,0.0
+89,googlesamples,googlesamples/easypermissions,xdjm/AS2Aide,0.0,2017-07-15 00:43:24,tools,0.0,Java,0.0,0.0,7.0,4.0,2021-06-04 23:09:01,7.0,6.0,0.0,1420.0
+90,googlesamples,googlesamples/easypermissions,blezede/EasyPermissions,0.0,2019-03-12 09:05:49,简易动态权限申请工具,1.0,Java,0.0,0.0,1.0,0.0,2022-03-25 02:05:48,1.0,18.0,0.0,1108.0
+91,googlesamples,googlesamples/easypermissions,zyy123392/anjian_Andriod,0.0,2019-05-24 01:40:05,基于安卓的安检小程序。集成了了扫一扫，日历控件和语音识别,0.0,Java,0.0,0.0,1.0,0.0,2019-12-20 06:47:51,1.0,6.0,0.0,210.0
+92,googlesamples,googlesamples/easypermissions,JamesGZM/easypermissions,0.0,2020-01-03 00:50:15,权限库适配开始时的大小问题,0.0,Java,0.0,0.0,0.0,1.0,2020-05-18 07:01:03,0.0,11.0,0.0,136.0
+93,googlesamples,googlesamples/easypermissions,13018585117/HXYPay,0.0,2020-03-18 01:53:02,好信用App,1.0,Java,0.0,0.0,0.0,1.0,2020-03-18 01:53:29,0.0,1.0,0.0,0.0
+94,googlesamples,googlesamples/easypermissions,flayone/MyPersonalDemo,0.0,2018-01-19 03:09:16,平时练习内容 主要是kotlin+ConstraintLayout,0.0,Java,0.0,0.0,0.0,2.0,2019-08-16 09:13:10,0.0,52.0,0.0,574.0
+95,googlesamples,googlesamples/easypermissions,jaychou2012/PolicyLib,0.0,2019-12-08 08:13:40,权限申请和隐私政策弹窗提示库,10.0,Java,1.0,0.0,38.0,1.0,2022-03-23 07:01:04,38.0,35.0,0.0,835.0
+96,googlesamples,googlesamples/androidtv-sample-inputs,Fleker/ChannelSurfer,0.0,2016-01-07 06:46:20,Very simple Live Channels library for Android TV,10.0,Java,6.0,27.0,45.0,11.0,2022-02-07 09:41:21,45.0,53.0,0.0,2223.0
+97,googlesamples,googlesamples/androidtv-sample-inputs,Fleker/CumulusTV,0.0,2015-07-13 06:34:18,Android TV Live Channel Plugin with user-entered stream files,71.0,Java,63.0,246.0,176.0,26.0,2022-02-17 02:52:19,176.0,285.0,0.0,2410.0
+98,googlesamples,googlesamples/androidtv-sample-inputs,prashant31191/AzGallary,0.0,2017-09-12 05:07:31,,0.0,Java,0.0,0.0,0.0,1.0,2017-09-13 06:42:27,0.0,2.0,0.0,1.0
+99,googlesamples,googlesamples/androidtv-sample-inputs,prashant31191/AzGallary2,0.0,2017-09-13 06:24:49,,0.0,Java,0.0,0.0,0.0,1.0,2017-09-13 07:26:24,0.0,1.0,0.0,0.0
+100,googlesamples,googlesamples/androidtv-sample-inputs,mkjensen/danish-media-license,0.0,2016-02-27 05:12:34,App for Android TV that provides access to videos available to everyone that pays the Danish media license,0.0,Java,19.0,15.0,3.0,1.0,2019-07-07 19:44:42,3.0,221.0,0.0,1226.0
+101,googlesamples,googlesamples/androidtv-sample-inputs,diegofn/ColombiaTV-AndroidTV,0.0,2017-06-19 14:51:28,"ColombiaTV is a multimedia project to integrate Colombian live or ondemand contenct to enrich platforms as Kodi, Android and iOS.",0.0,Java,2.0,0.0,3.0,2.0,2019-08-08 00:58:07,3.0,11.0,0.0,779.0
+102,googlesamples,googlesamples/androidtv-sample-inputs,h4091/WliveTV,0.0,2016-06-07 01:59:30,基于ijkplayer的视频直播软件,98.0,Java,0.0,0.0,1.0,1.0,2021-08-29 03:54:47,1.0,7.0,0.0,1909.0
+103,googlesamples,googlesamples/android-vision,takahirom/PlayQRCode,0.0,2015-08-20 16:06:32,,0.0,Java,0.0,0.0,1.0,1.0,2016-04-29 12:58:14,1.0,7.0,0.0,252.0
+104,googlesamples,googlesamples/android-vision,DonLiangGit/Facetrack,0.0,2017-05-04 22:12:44,examples repository of google vision api with camera2 api,0.0,Java,0.0,0.0,1.0,2.0,2017-11-17 08:18:53,1.0,2.0,0.0,196.0
+105,googlesamples,googlesamples/android-vision,Gnzlt/AndroidVisionQRReader,0.0,2015-09-17 11:19:47,QR Reader Library based on Android Vision API,7.0,Java,0.0,2.0,18.0,3.0,2021-12-15 23:12:57,18.0,6.0,0.0,2281.0
+106,googlesamples,googlesamples/android-vision,mitola/Do_you_smile,0.0,2015-11-15 22:03:06,A finished example of an Android application using Google Vision API together with everything else setup. The main point from Google Vision API used is the Smile probability,3.0,Java,0.0,0.0,1.0,0.0,2020-05-20 08:44:42,1.0,8.0,0.0,1647.0
+107,googlesamples,googlesamples/android-vision,hnaoto/BookTracker-Alpha,0.0,2015-10-22 01:18:26,Android app: BookTracker,0.0,Java,0.0,0.0,0.0,2.0,2015-10-22 01:20:13,0.0,2.0,0.0,0.0
+108,googlesamples,googlesamples/android-vision,wax911/Vision-Barcode-Scanner,0.0,2016-06-21 13:18:21,Customized Google Vision API Barcode Scanner,27.0,Java,3.0,2.0,31.0,5.0,2021-02-11 20:52:33,31.0,15.0,0.0,1696.0
+109,googlesamples,googlesamples/android-vision,prathanbomb/mlkit-vision-quickstart,0.0,2021-06-22 05:54:40,,0.0,Java,0.0,0.0,0.0,1.0,2021-06-22 05:57:22,0.0,2.0,0.0,0.0
+110,googlesamples,googlesamples/android-vision,zhorizon/SuperDuo,0.0,2015-12-06 14:50:34,,0.0,Java,0.0,0.0,0.0,1.0,2015-12-06 14:52:07,0.0,2.0,0.0,0.0
+111,googlesamples,googlesamples/android-vision,hbaxamoosa/alexandria,0.0,2015-11-11 19:09:52,Alexandria application for Udacity Android NanoDegree. https://www.udacity.com/course/android-developer-nanodegree--nd801,0.0,Java,0.0,0.0,0.0,1.0,2016-02-01 19:48:44,0.0,6.0,0.0,82.0
+112,googlesamples,googlesamples/android-vision,kuanyingchou/udacity-barcode,0.0,2016-01-02 01:12:28,,0.0,Java,0.0,0.0,0.0,1.0,2016-01-02 01:13:13,0.0,4.0,0.0,0.0
+113,googlesamples,googlesamples/android-vision,miguelcamposdev/pmdm,0.0,2015-10-01 11:25:30,,3.0,Java,0.0,0.0,0.0,1.0,2016-01-18 11:58:12,0.0,31.0,0.0,109.0
+114,googlesamples,googlesamples/android-vision,mananwason/Re.Wise,0.0,2018-09-09 10:49:29,App that makes questions using photos from readings at school etc.,0.0,Java,0.0,0.0,0.0,0.0,2018-09-09 14:48:34,0.0,3.0,0.0,0.0
+115,googlesamples,googlesamples/android-vision,IhorKlimov/Alexandria_Udacity,0.0,2016-01-16 20:15:46,An Android barcore book scanner app,0.0,Java,0.0,0.0,0.0,1.0,2016-01-27 16:26:41,0.0,14.0,0.0,10.0
+116,googlesamples,googlesamples/android-vision,jbc25/boniatillo,0.0,2021-06-16 10:31:36,"Proyecto ""tiempo social por moneda"" de ACPP",0.0,Java,0.0,1.0,0.0,2.0,2021-06-16 10:41:53,0.0,5.0,0.0,0.0
+117,googlesamples,googlesamples/android-vision,yatatsu/PrettyQR,0.0,2017-09-15 09:30:22,[WIP] Android application,0.0,Java,0.0,0.0,0.0,2.0,2017-09-15 09:35:24,0.0,6.0,0.0,0.0
+118,googlesamples,googlesamples/android-vision,Hatem-tmi/food-facts,0.0,2018-08-17 23:12:48,A small Android application that connects to world.openfoodfacts.org HTTP API. This API provides product informations based on barcode number.,1.0,Java,0.0,0.0,0.0,1.0,2020-06-15 12:41:28,0.0,2.0,0.0,667.0
+119,googlesamples,googlesamples/android-vision,pdrogfer/alexandria,0.0,2016-01-15 08:15:08,Udacity project app to retrieve book info based on ISBN number scan,0.0,Java,0.0,0.0,1.0,2.0,2016-03-24 04:39:51,1.0,17.0,0.0,68.0
+120,googlesamples,googlesamples/android-vision,pdrogfer/P3-Udacity,0.0,2016-02-28 08:07:21,Third project in the Udacity Android Developer Nanodegree,0.0,Java,0.0,0.0,0.0,1.0,2016-03-07 18:07:22,0.0,3.0,0.0,8.0
+121,googlesamples,googlesamples/android-vision,ikbenpinda/sm7-d4nw2,0.0,2016-10-04 13:17:44,"Android concept app for Design4Nature, week 2, 3, 4.",0.0,Java,0.0,0.0,0.0,0.0,2016-10-10 23:37:02,0.0,13.0,0.0,6.0
+122,googlesamples,googlesamples/android-vision,iamshahjahan/MyApplication,0.0,2016-03-14 16:23:25,The app detects the location of different parts of an image.,0.0,Java,0.0,0.0,0.0,1.0,2016-03-14 16:23:57,0.0,2.0,0.0,0.0
+123,googlesamples,googlesamples/android-vision,dineshrijal119/SctNetworkAlpha,0.0,2016-05-19 23:50:26,,0.0,Java,0.0,0.0,0.0,2.0,2016-05-19 23:51:02,0.0,1.0,0.0,0.0
+124,googlesamples,googlesamples/android-vision,VAdaihiep/FitCropAndroidVision,0.0,2016-06-04 04:22:16,A simple demo of Android Vision (https://github.com/googlesamples/android-vision) scan barcode with camera preview fit view size without stretch issue,2.0,Java,0.0,0.0,3.0,2.0,2018-05-07 18:59:26,3.0,3.0,0.0,702.0
+125,googlesamples,googlesamples/android-vision,Hydrog3n/ProductFinding-Android,0.0,2016-06-29 15:57:20,Application Android ProductFinding pour un projet de l'EPSI,1.0,Java,0.0,0.0,0.0,1.0,2016-06-29 15:57:42,0.0,85.0,0.0,0.0
+126,googlesamples,googlesamples/android-vision,TonyTangAndroid/GoogleMobileVisionDemo,0.0,2016-12-12 20:01:20,,0.0,Java,0.0,0.0,1.0,2.0,2017-06-14 15:05:02,1.0,3.0,0.0,183.0
+127,googlesamples,googlesamples/android-vision,betri28/FaceDetectCamera,0.0,2016-05-26 10:22:48,"A project demo Face Detection from Camera or Image, use class media.FaceDetector android.",99.0,Java,4.0,2.0,194.0,15.0,2022-03-11 10:34:57,194.0,18.0,0.0,2115.0
+128,googlesamples,googlesamples/android-vision,IsabelPalomar/android-mobile-vision,0.0,2016-08-31 03:50:39,Exploring Mobile Vision API,0.0,Java,0.0,0.0,0.0,1.0,2016-08-31 04:38:49,0.0,7.0,0.0,0.0
+129,googlesamples,googlesamples/android-vision,JavonDavis/Lab-Assistant,0.0,2016-01-14 14:31:33,"Companion Android application for lab assistants at the University of the West Indies, Mona",0.0,Java,5.0,1.0,2.0,1.0,2016-03-03 17:00:13,2.0,18.0,0.0,49.0
+130,googlesamples,googlesamples/android-vision,JavonDavis/Play-Services-Demo,0.0,2016-08-30 01:22:01,"Demo App for my PluralSight Course ""Getting Started with Google Play Services""",0.0,Java,1.0,6.0,1.0,1.0,2017-11-24 07:15:05,1.0,33.0,0.0,451.0
+131,googlesamples,googlesamples/android-vision,ztickm/Leexy_App_dev,0.0,2017-12-18 09:27:23,"An app to scan prepaid mobile vouchers and refill accounts automatically, built on top of google's mobile vision libraries",1.0,Java,0.0,0.0,4.0,3.0,2021-03-12 21:28:37,4.0,9.0,0.0,1180.0
+132,googlesamples,googlesamples/android-vision,kim-yeonjung/toy_project,0.0,2018-11-18 15:12:37,,0.0,Java,0.0,0.0,0.0,1.0,2018-12-04 01:18:47,0.0,6.0,0.0,15.0
+133,googlesamples,googlesamples/android-vision,NilanjanDaw/ViewFinder,0.0,2016-10-30 15:27:56,A real life Text Search Engine,0.0,Java,0.0,0.0,0.0,2.0,2018-11-21 21:54:02,0.0,9.0,0.0,752.0
+134,googlesamples,googlesamples/android-vision,williammlu/ddoskify,0.0,2016-11-12 08:51:35,CalHacks 3.0 - put ddoski onto everyone's faces!,0.0,Java,0.0,0.0,0.0,2.0,2016-11-14 08:43:15,0.0,17.0,0.0,1.0
+135,googlesamples,googlesamples/android-vision,omar-adel/AndroidNanoDegreeProject3,0.0,2016-11-20 23:52:48,Udacity Android Developer Nano Degree Project 3 - Super Duo,0.0,Java,0.0,0.0,0.0,1.0,2018-05-05 23:02:20,0.0,8.0,0.0,530.0
+136,googlesamples,googlesamples/android-vision,wmcalyj/Eash-Tracking,0.0,2017-01-09 17:22:14,,0.0,Java,0.0,0.0,0.0,2.0,2017-01-09 17:23:35,0.0,11.0,0.0,0.0
+137,googlesamples,googlesamples/android-vision,ChinaVolvocars/AndroidAPIDemos,0.0,2017-03-20 05:54:56,,0.0,Java,0.0,0.0,0.0,1.0,2017-03-20 05:55:09,0.0,5.0,0.0,0.0
+138,googlesamples,googlesamples/android-vision,pumatus/visionface,0.0,2017-01-21 06:11:29,🌞 Detect Facial Features in Photos,0.0,Java,1.0,0.0,0.0,1.0,2017-01-22 04:48:17,0.0,11.0,0.0,0.0
+139,googlesamples,googlesamples/android-vision,MohammadSharif/Translatte,0.0,2017-01-21 20:55:00,Android application powered by the Google Cloud Platform for Optical Character recognition and text translation. Won Best use of Rapid API and placed for Most Technically Challenging Hack at Hack Davis 2017.,1.0,Java,0.0,0.0,4.0,4.0,2020-07-26 00:09:01,4.0,48.0,0.0,1281.0
+140,googlesamples,googlesamples/android-vision,cluelin/BarcodeScannerApp,0.0,2017-01-30 18:26:09,,0.0,Java,0.0,0.0,0.0,2.0,2017-11-06 17:17:14,0.0,10.0,0.0,279.0
+141,googlesamples,googlesamples/android-vision,mohanrajsambath/DroidRepos,0.0,2018-01-24 06:51:52,This Repositry for public contribution developers,0.0,Java,0.0,7.0,0.0,2.0,2018-04-16 10:30:06,0.0,36.0,0.0,82.0
+142,googlesamples,googlesamples/android-vision,bchipman/WaferNavApp,0.0,2017-02-11 21:57:55,,0.0,Java,0.0,0.0,2.0,5.0,2018-12-14 23:53:25,2.0,145.0,0.0,671.0
+143,googlesamples,googlesamples/android-vision,MikeBarannikov/CrazyQrBarCode,0.0,2017-03-20 17:32:28,,0.0,Java,0.0,0.0,0.0,1.0,2017-03-20 17:35:17,0.0,1.0,0.0,0.0
+144,googlesamples,googlesamples/android-vision,nalancer08/Mobile-Computer-Vision,0.0,2017-04-08 05:24:44,"App Builders Mobile Computer Vision abstraction, for Android & iOs",1.0,Java,0.0,0.0,1.0,2.0,2018-10-17 19:41:50,1.0,14.0,0.0,557.0
+145,googlesamples,googlesamples/android-vision,Rivenlalala/Scan-and-Call,0.0,2017-05-15 11:47:22,识别小票上的电话号码并拨打,0.0,Java,0.0,0.0,2.0,0.0,2020-11-02 16:19:42,2.0,7.0,0.0,1267.0
+146,googlesamples,googlesamples/android-vision,parakrama1995/barcode-reader,0.0,2017-05-10 10:29:25,,0.0,Java,0.0,0.0,0.0,1.0,2017-05-10 10:29:32,0.0,1.0,0.0,0.0
+147,googlesamples,googlesamples/android-vision,parakrama1995/photo-demo,0.0,2017-05-18 04:49:04,,0.0,Java,0.0,0.0,0.0,1.0,2017-05-18 04:49:11,0.0,1.0,0.0,0.0
+148,googlesamples,googlesamples/android-vision,victoraldir/BuddyBook,0.0,2017-03-22 14:33:48,BuddyBook is the eighth project of Udacity Nanodegree,2.0,Java,12.0,36.0,8.0,1.0,2020-02-19 21:26:52,8.0,318.0,0.0,1064.0
+149,googlesamples,googlesamples/android-vision,victoraldir/StaffClock,0.0,2018-07-17 01:58:27,,0.0,Java,0.0,0.0,1.0,1.0,2019-01-02 21:43:46,1.0,18.0,0.0,169.0
+150,googlesamples,googlesamples/android-vision,TylerMcCraw/android-udacity-superduo,0.0,2016-01-11 00:57:15,Super-Duo project for Udacity Android Nanodegree,0.0,Java,0.0,0.0,0.0,1.0,2016-01-12 00:20:05,0.0,8.0,0.0,0.0
+151,googlesamples,googlesamples/android-vision,AhmedNTS/GoogleVisionTest,0.0,2017-07-24 21:21:03,,0.0,Java,0.0,0.0,0.0,0.0,2017-07-24 21:22:37,0.0,2.0,0.0,0.0
+152,googlesamples,googlesamples/android-vision,IvanShafran/emotion-control-game-prototype,0.0,2020-07-04 16:34:49,,0.0,Java,0.0,0.0,2.0,1.0,2020-08-15 18:07:33,2.0,12.0,0.0,42.0
+153,googlesamples,googlesamples/android-vision,IvanShafran/local-hack-day-2018-nyan-smile,0.0,2018-12-01 14:17:25,,0.0,Java,0.0,0.0,1.0,1.0,2019-02-02 19:12:33,1.0,27.0,0.0,63.0
+154,googlesamples,googlesamples/android-vision,teshi04/BookSearchScan,0.0,2015-02-27 20:31:25,,0.0,Java,1.0,11.0,4.0,1.0,2018-04-24 05:20:28,4.0,115.0,0.0,1151.0
+155,googlesamples,googlesamples/android-vision,jaisonfdo/MlKitBarcodeScan,0.0,2018-11-09 17:33:13,Sample project to explain the barcode scanning API from Firebase MLKit,20.0,Java,2.0,0.0,30.0,2.0,2022-03-10 04:19:23,30.0,3.0,0.0,1216.0
+156,googlesamples,googlesamples/android-vision,jaisonfdo/MLkitFaceDetector,0.0,2018-11-28 04:07:19,Sample project to explain the Face detection API from Firebase MLKit,16.0,Java,3.0,2.0,26.0,5.0,2022-02-22 05:03:20,26.0,3.0,0.0,1182.0
+157,googlesamples,googlesamples/android-vision,junsuk5/FlirOneCamera_lecture,0.0,2020-08-15 10:06:31,,0.0,Java,0.0,1.0,0.0,2.0,2020-10-11 06:07:08,0.0,18.0,0.0,56.0
+158,googlesamples,googlesamples/android-vision,junsuk5/Hello,0.0,2015-11-13 09:16:52,,1.0,Java,0.0,0.0,0.0,4.0,2016-10-06 02:49:45,0.0,13.0,0.0,327.0
+159,googlesamples,googlesamples/android-vision,aliumujib/BarcodeVisionAPISample,0.0,2018-10-24 22:09:56,Simple app to scan and decode Barcodes.,0.0,Java,0.0,0.0,1.0,1.0,2019-05-17 15:09:49,1.0,2.0,0.0,204.0
+160,googlesamples,googlesamples/android-vision,IefVandepitte/ReadText,0.0,2017-11-23 14:07:59,,0.0,Java,0.0,0.0,0.0,0.0,2017-11-23 14:12:07,0.0,1.0,0.0,0.0
+161,googlesamples,googlesamples/android-vision,josephv7/ML_Kit_Custom_Model,0.0,2018-08-04 11:21:20,,0.0,Java,0.0,0.0,0.0,0.0,2018-08-04 11:26:55,0.0,2.0,0.0,0.0
+162,googlesamples,googlesamples/android-vision,deehidayat/react-native-ocr-reader,0.0,2017-11-17 03:08:07,Google Vision OCR Reader for React Native (Android),0.0,Java,0.0,0.0,0.0,0.0,2017-11-17 03:46:46,0.0,1.0,0.0,0.0
+163,googlesamples,googlesamples/android-vision,sssaikia/Ratings,0.0,2018-12-21 08:48:57,Movie ratings and other details al fingertip.,0.0,Java,0.0,0.0,0.0,0.0,2018-12-21 08:52:34,0.0,2.0,0.0,0.0
+164,googlesamples,googlesamples/android-vision,aaroncrutchfield/barcode-reader,0.0,2017-12-02 04:20:04,,1.0,Java,2.0,1.0,1.0,3.0,2018-04-21 00:59:47,1.0,30.0,0.0,139.0
+165,googlesamples,googlesamples/android-vision,FilipeLipan/AndroidMlKitDemo,0.0,2018-07-24 19:55:02,"if you want to use this demo, create your own firebase project and replace the google-services.json",0.0,Java,0.0,0.0,0.0,2.0,2018-07-24 19:58:08,0.0,1.0,0.0,0.0
+166,googlesamples,googlesamples/android-vision,mykms/ScannerApp,0.0,2018-12-12 18:55:54,,0.0,Java,0.0,0.0,0.0,1.0,2018-12-14 08:39:17,0.0,6.0,0.0,1.0
+167,googlesamples,googlesamples/android-vision,Seopftware/Android_FundMyTravel,0.0,2017-12-22 01:46:53,실시간 여행 방송 플랫폼,0.0,Java,0.0,0.0,4.0,1.0,2019-07-15 11:43:27,4.0,23.0,0.0,570.0
+168,googlesamples,googlesamples/android-vision,waeladel/KissAlarm,0.0,2017-12-28 07:33:17,Let your beloved one wakes you up.,0.0,Java,0.0,0.0,0.0,1.0,2021-02-06 17:10:08,0.0,63.0,0.0,1136.0
+169,googlesamples,googlesamples/android-vision,chimkontran/FaceTracker,0.0,2018-02-06 12:20:29,Track Face then guess Gender and Age,0.0,Java,0.0,0.0,0.0,1.0,2018-02-06 12:47:00,0.0,2.0,0.0,0.0
+170,googlesamples,googlesamples/android-vision,Kevin-Mok/ParsaFood,0.0,2018-02-19 01:53:57,Android app to scan ingredients for allergens.,1.0,Java,8.0,0.0,2.0,0.0,2020-12-29 04:24:09,2.0,106.0,0.0,1044.0
+171,googlesamples,googlesamples/android-vision,NoahSchaub/Rezepteverwaltung,0.0,2018-02-19 07:30:48,Discontinued,0.0,Java,0.0,0.0,1.0,1.0,2018-03-02 07:58:50,1.0,18.0,0.0,11.0
+172,googlesamples,googlesamples/android-vision,NoahSchaub/Rezepteverwaltung_2,0.0,2018-03-02 07:50:36,"LB 335, Verwaltung für Rezepte",0.0,Java,1.0,0.0,0.0,1.0,2018-04-13 19:28:02,0.0,31.0,0.0,42.0
+173,googlesamples,googlesamples/android-vision,RajPrabhakar/Pointer,0.0,2018-03-10 13:18:16,,0.0,Java,0.0,0.0,0.0,0.0,2018-03-10 13:21:50,0.0,7.0,0.0,0.0
+174,googlesamples,googlesamples/android-vision,TWJessieChen/Camera1Camera2Combined,0.0,2018-03-25 06:27:17,,0.0,Java,0.0,0.0,1.0,1.0,2018-05-09 03:55:27,1.0,7.0,0.0,44.0
+175,googlesamples,googlesamples/android-vision,TWJessieChen/CameraMediacodec,0.0,2018-03-17 09:36:03,Camera1 API and MediaCodec Example,0.0,Java,0.0,0.0,6.0,2.0,2019-02-28 07:30:29,6.0,9.0,0.0,347.0
+176,googlesamples,googlesamples/android-vision,rohan23chhabra/Oculus-Apertor,0.0,2018-03-17 00:12:12,Accident prevention application for android,1.0,Java,0.0,0.0,0.0,0.0,2018-03-17 19:52:47,0.0,36.0,0.0,0.0
+177,googlesamples,googlesamples/android-vision,csanjeev25/SafeDrive,0.0,2018-03-06 17:24:37,"An Android Application to help in Emergencies, it also prevents driver from sleeping or detect drowsiness ",2.0,Java,1.0,0.0,2.0,1.0,2021-01-13 18:51:18,2.0,3.0,0.0,1044.0
+178,googlesamples,googlesamples/android-vision,tssA8/camerawithGoogleVisionApi,0.0,2018-05-16 09:20:52,Google Vision with camera2 api,6.0,Java,3.0,0.0,12.0,3.0,2021-11-18 12:07:59,12.0,12.0,0.0,1282.0
+179,googlesamples,googlesamples/android-vision,kolibreath/JoinMe,0.0,2017-10-31 12:22:22,,0.0,Java,0.0,0.0,0.0,0.0,2018-04-24 13:20:32,0.0,12.0,0.0,175.0
+180,googlesamples,googlesamples/android-vision,shakram02/QRra2,0.0,2018-03-21 17:19:21,An Arabic QR code reader,0.0,Java,1.0,6.0,0.0,1.0,2018-08-02 04:34:49,0.0,41.0,0.0,133.0
+181,googlesamples,googlesamples/android-vision,kengshing/BarcodeReader,0.0,2018-05-16 10:43:30,,0.0,Java,0.0,0.0,0.0,0.0,2018-05-16 12:07:12,0.0,2.0,0.0,0.0
+182,googlesamples,googlesamples/android-vision,marabesi/android-playground,0.0,2016-04-25 23:01:22,Android code examples,0.0,Java,0.0,0.0,0.0,0.0,2018-04-07 17:46:04,0.0,20.0,0.0,711.0
+183,googlesamples,googlesamples/android-vision,Sunilpore/QR-Code-Scanner,0.0,2019-08-26 14:21:11,Scan QR code using custom camera and display information on screen,0.0,Java,0.0,0.0,0.0,1.0,2019-08-26 14:26:14,0.0,2.0,0.0,0.0
+184,googlesamples,googlesamples/android-vision,ajeet-repos/TextDetectioUsingMLKit,0.0,2018-08-30 20:28:38,A sample app demontrating the use of MLKit for TextDetection using live Camera feedback,11.0,Java,0.0,0.0,15.0,0.0,2021-02-11 10:43:44,15.0,1.0,0.0,895.0
+185,googlesamples,googlesamples/android-vision,tortuvshin/safety-inst,0.0,2017-09-25 04:44:42,Аюулгүй ажиллагааны зааварчилгаа өгөх апп,1.0,Java,1.0,78.0,0.0,1.0,2019-09-26 13:23:33,0.0,322.0,0.0,731.0
+186,googlesamples,googlesamples/android-vision,etman55/FaceDetectionSampleApp,0.0,2017-02-13 10:56:10,,0.0,Java,0.0,1.0,1.0,2.0,2017-05-19 02:01:24,1.0,8.0,0.0,94.0
+187,googlesamples,googlesamples/android-vision,shakil1994/AndroidApp-FaceDetect,0.0,2018-11-08 17:08:23,,0.0,Java,0.0,0.0,0.0,0.0,2018-11-08 17:43:09,0.0,3.0,0.0,0.0
+188,googlesamples,googlesamples/android-vision,Zgorbell/BusinessCardReader,0.0,2018-11-02 07:35:00,,0.0,Java,0.0,0.0,0.0,1.0,2018-11-02 07:37:33,0.0,1.0,0.0,0.0
+189,googlesamples,googlesamples/android-vision,AndroiDjo/QueryRobot,0.0,2018-11-01 18:44:01,,0.0,Java,0.0,1.0,0.0,1.0,2021-03-27 13:02:51,0.0,35.0,0.0,876.0
+190,googlesamples,googlesamples/android-vision,Codypinto23/GoogleMLScanner,0.0,2018-11-29 14:59:07,Scanner with Zoom and Inverse color for reading Processor Barcodes,0.0,Java,0.0,0.0,0.0,1.0,2018-11-29 14:59:15,0.0,1.0,0.0,0.0
+191,googlesamples,googlesamples/android-vision,createS0ftware/Ocr_Barcode_google,0.0,2016-11-02 16:10:36,,0.0,Java,0.0,0.0,0.0,1.0,2016-11-02 16:33:07,0.0,5.0,0.0,0.0
+192,googlesamples,googlesamples/android-vision,HomerAria/androidDemo,0.0,2018-09-09 03:12:04,,0.0,Java,0.0,0.0,0.0,1.0,2020-02-28 08:58:33,0.0,50.0,0.0,537.0
+193,googlesamples,googlesamples/android-vision,jmpaucarm/MienriaDeDatosAPP,0.0,2018-12-25 17:24:06,,1.0,Java,0.0,0.0,1.0,0.0,2019-02-04 01:54:06,1.0,29.0,0.0,40.0
+194,googlesamples,googlesamples/android-vision,MH3sham/Siege-Scanner,0.0,2019-03-25 23:50:29,An android app that uses android vision and text recognition to detect and fetch text (players’ names) from a video game called Rainbow Six Siege while in-game then retrieves data (players stats) using android fast networking lib from game’s stats website using string manipulations and web scraping techniques.,0.0,Java,0.0,0.0,0.0,2.0,2019-03-26 00:23:10,0.0,2.0,0.0,0.0
+195,googlesamples,googlesamples/android-vision,HamiciRyadh/PFE,0.0,2018-03-07 21:08:12,,0.0,Java,0.0,7.0,2.0,0.0,2019-03-30 22:13:27,2.0,41.0,0.0,388.0
+196,googlesamples,googlesamples/android-vision,Udayraj123/VehicleInfoOCR,0.0,2019-05-31 17:51:12,"Use your camera to read number plates and obtain vehicle details. Simple, ad-free and faster alternative to existing playstore apps",12.0,Java,1.0,0.0,35.0,4.0,2021-09-25 10:53:56,35.0,75.0,0.0,847.0
+197,googlesamples,googlesamples/android-vision,DenWhiteHouse/FaceDetector,0.0,2019-06-22 14:21:43,Face Detector with Firebase ML Kit,0.0,Java,0.0,0.0,0.0,0.0,2019-06-22 16:05:20,0.0,3.0,0.0,0.0
+198,googlesamples,googlesamples/android-vision,PierceLBrooks/Facialoid,0.0,2020-01-14 03:17:40,,0.0,Java,0.0,0.0,1.0,1.0,2020-04-25 17:43:50,1.0,6.0,0.0,102.0
+199,googlesamples,googlesamples/android-vision,wgdzlh/face-emotion-recognize-android-app,0.0,2019-12-05 08:59:12,"A simple demo app to show how to implement ""face emotion recognize"" on Android platform.",0.0,Java,0.0,0.0,0.0,1.0,2019-12-06 11:54:27,0.0,4.0,0.0,1.0
+200,googlesamples,googlesamples/android-vision,chinaltz/ScanUtils,0.0,2019-03-28 05:46:35,扫码工具,0.0,Java,0.0,0.0,0.0,1.0,2021-04-16 01:36:10,0.0,4.0,0.0,749.0
+201,googlesamples,googlesamples/android-vision,segunfrancis/MLKitCodelab,0.0,2018-12-20 19:40:11,Machine learning with android firebase,0.0,Java,0.0,0.0,0.0,1.0,2018-12-20 19:42:22,0.0,1.0,0.0,0.0
+202,googlesamples,googlesamples/android-vision,segunfrancis/MultiTextReader,0.0,2019-04-09 19:10:50,Read texts using the firebase machine learning kit,0.0,Java,0.0,0.0,0.0,1.0,2019-04-10 15:37:15,0.0,13.0,0.0,0.0
+203,googlesamples,googlesamples/android-vision,cyysky/VisitorRecordBook,0.0,2020-05-24 17:20:17,Visitor Record Book By FMC for android,0.0,Java,0.0,0.0,0.0,2.0,2020-05-25 06:19:32,0.0,18.0,0.0,0.0
+204,googlesamples,googlesamples/android-vision,tuancuong736/android2-project,0.0,2020-07-04 01:01:17,Đồ án di động 2 -- GV: Tiêu Kim Cương,0.0,Java,0.0,0.0,0.0,2.0,2020-08-07 19:32:30,0.0,31.0,0.0,34.0
+205,googlesamples,googlesamples/android-vision,JianfeiMa/BuyupMLScan,0.0,2019-06-23 10:32:58,,0.0,Java,0.0,0.0,0.0,0.0,2019-06-23 10:37:29,0.0,2.0,0.0,0.0
+206,googlesamples,googlesamples/android-vision,abidjamil/OCRExample,0.0,2021-07-28 15:35:07,,0.0,Java,0.0,0.0,0.0,1.0,2021-07-28 15:36:54,0.0,78.0,0.0,0.0
+207,googlesamples,googlesamples/android-vision,abidjamil/VSIS,0.0,2021-08-21 11:27:03,,0.0,Java,0.0,0.0,0.0,1.0,2021-08-21 11:36:25,0.0,13.0,0.0,0.0
+208,googlesamples,googlesamples/android-vision,sohamsalkar/Barcode-food-expiry,0.0,2021-10-07 06:18:56,,0.0,Java,0.0,0.0,0.0,1.0,2021-11-25 05:23:30,0.0,13.0,0.0,48.0
+209,spring-guides,spring-guides/gs-uploading-files,chertpong/example-for-boss,0.0,2017-05-13 17:33:45,many-to-many-with-attribute,0.0,Java,0.0,0.0,0.0,1.0,2017-05-13 17:34:11,0.0,2.0,0.0,0.0
+210,spring-guides,spring-guides/gs-uploading-files,chertpong/spring-central-service,0.0,2017-03-12 16:01:55,Spring central service (template),0.0,Java,0.0,0.0,0.0,2.0,2017-04-17 13:57:21,0.0,5.0,0.0,35.0
+211,spring-guides,spring-guides/gs-uploading-files,TonyNYL/hero,0.0,2017-05-17 05:31:25,王者荣耀英雄,0.0,Java,0.0,0.0,0.0,1.0,2017-07-19 03:02:22,0.0,4.0,0.0,62.0
+212,spring-guides,spring-guides/gs-uploading-files,TopekoX/spring-boot-file-upload,0.0,2017-09-21 01:40:02,Upload File with Spring Boot,0.0,Java,0.0,0.0,1.0,1.0,2022-03-19 13:53:27,1.0,8.0,0.0,1640.0
+213,spring-guides,spring-guides/gs-uploading-files,zbw322092/static-file-server,0.0,2018-11-05 06:55:00,static file server in Java Spring Boot (Not for production use),1.0,Java,0.0,0.0,0.0,1.0,2018-11-05 06:55:44,0.0,1.0,0.0,0.0
+214,spring-guides,spring-guides/gs-uploading-files,lagab/springboot-boilerplate,0.0,2018-11-16 15:24:14,Boilerplate for springboot Application,1.0,Java,1.0,0.0,0.0,2.0,2019-08-01 15:03:45,0.0,10.0,0.0,257.0
+215,spring-guides,spring-guides/gs-uploading-files,marstalk/hw,0.0,2019-02-13 13:56:41,,0.0,Java,0.0,0.0,0.0,0.0,2019-03-03 12:24:16,0.0,21.0,0.0,17.0
+216,spring-guides,spring-guides/gs-uploading-files,davigotxi/spring-files-uploader,0.0,2020-06-12 03:58:18,Test project to upload files using spring. Based on https://spring.io/guides/gs/uploading-files/,0.0,Java,0.0,0.0,0.0,1.0,2021-04-17 11:19:18,0.0,9.0,0.0,309.0
+217,spring-guides,spring-guides/gs-uploading-files,Harry29-exe/Car_Forum,0.0,2020-09-05 13:13:05,,0.0,Java,0.0,0.0,0.0,1.0,2020-09-05 13:14:35,0.0,13.0,0.0,0.0
+218,spring-guides,spring-guides/gs-uploading-files,hwanseok-dev/hwanseok-dev-cookbook-old,0.0,2021-05-12 08:09:39,,0.0,Java,0.0,0.0,0.0,1.0,2021-10-06 14:15:26,0.0,22.0,0.0,147.0
+219,spring-guides,spring-guides/gs-uploading-files,ksh24865/spring-study,0.0,2021-04-08 17:59:19,,0.0,Java,0.0,0.0,0.0,1.0,2021-07-18 11:05:35,0.0,59.0,0.0,100.0
+220,spring-guides,spring-guides/gs-uploading-files,phuduy1999/rookie-spring-boot-ecommerce,0.0,2021-10-15 09:44:54,,0.0,Java,0.0,0.0,0.0,1.0,2021-11-16 06:18:08,0.0,9.0,0.0,31.0
+221,spring-guides,spring-guides/gs-accessing-data-neo4j,chendaye/Neo4j,0.0,2020-05-30 16:24:55,Neo4j & Java,0.0,Java,0.0,0.0,0.0,1.0,2020-06-10 13:36:14,0.0,4.0,0.0,10.0
+222,spring-guides,spring-guides/gs-batch-processing,pearlisme/SpringBatch,0.0,2018-02-28 11:12:07,,0.0,Java,0.0,0.0,0.0,2.0,2018-06-15 18:51:31,0.0,6.0,0.0,107.0
+223,spring-guides,spring-guides/gs-batch-processing,yetsun/batch-processing,0.0,2020-04-07 00:44:00,Spring Batch test,0.0,Java,0.0,0.0,0.0,0.0,2020-04-07 17:53:38,0.0,2.0,0.0,0.0
+224,spring-guides,spring-guides/gs-batch-processing,florentbo/spring-boot-batch-jpa-bug,0.0,2020-06-24 12:42:37,,0.0,Java,0.0,0.0,0.0,1.0,2020-06-24 20:16:23,0.0,2.0,0.0,0.0
+225,spring-guides,spring-guides/gs-batch-processing,medkhabt/TpsArchitectureLogicielle,0.0,2020-12-01 11:47:49,"les tps du module Architecture logicielle , 3e annee cycle d'ingenieur option informatique",0.0,Java,0.0,0.0,2.0,1.0,2021-01-07 11:02:58,2.0,12.0,0.0,36.0
+226,spring-guides,spring-guides/gs-accessing-data-jpa,paulvi/com.example.spring.findbyexample,0.0,2016-06-03 08:11:35,spring-data-jpa-query-by-example http://stackoverflow.com/questions/27626825/spring-data-jpa-query-by-example,1.0,Java,0.0,1.0,3.0,2.0,2018-09-25 16:55:50,3.0,7.0,0.0,844.0
+227,spring-guides,spring-guides/gs-accessing-data-jpa,paulvi/com.example.springboot.mavenmoduleformodel,0.0,2016-05-19 02:42:55,"test that Spring Boot / Spring can use Entities, Repositories defined in other modules, packages",0.0,Java,0.0,0.0,0.0,2.0,2016-05-19 02:44:51,0.0,1.0,0.0,0.0
+228,spring-guides,spring-guides/gs-accessing-data-jpa,paulvi/SpringDataPostgre,0.0,2016-04-11 03:09:11,"Spring Data (Boot), PostgreSQL, gradle example",0.0,Java,0.0,0.0,0.0,1.0,2016-04-11 03:10:21,0.0,2.0,0.0,0.0
+229,spring-guides,spring-guides/gs-serving-web-content,paleou/training,0.0,2021-09-30 09:56:01,,0.0,Java,0.0,0.0,0.0,1.0,2021-09-30 09:58:21,0.0,193.0,0.0,0.0
+230,spring-guides,spring-guides/gs-producing-web-service,edwint88/PlaySoap,0.0,2017-05-14 14:02:52,Create a Soap Service and play around,0.0,Java,0.0,0.0,0.0,2.0,2017-05-14 14:05:39,0.0,4.0,0.0,0.0
+231,spring-guides,spring-guides/gs-producing-web-service,shahbazaamir/learn,0.0,2018-01-02 10:38:26,,2.0,Java,27.0,21.0,1.0,1.0,2020-04-12 13:54:16,1.0,222.0,0.0,831.0
+232,spring-guides,spring-guides/gs-producing-web-service,nachocastineira/WebServicesSOAP,0.0,2019-06-14 14:18:33,Producir y consumir un WebServices de tipo SOAP - Java  ,0.0,Java,0.0,0.0,1.0,0.0,2019-06-21 12:22:23,1.0,1.0,0.0,6.0
+233,spring-guides,spring-guides/gs-producing-web-service,guilhermerodrigues680/soap-spring-boot,0.0,2021-01-15 11:23:11,,0.0,Java,0.0,0.0,0.0,2.0,2021-01-17 17:06:59,0.0,7.0,0.0,2.0
+234,spring-guides,spring-guides/gs-producing-web-service,major1xu/spring-boot-soap-web-service,0.0,2021-02-17 00:00:54,,0.0,Java,0.0,0.0,0.0,1.0,2021-02-17 00:02:44,0.0,151.0,0.0,0.0
+235,spring-guides,spring-guides/tut-spring-boot-oauth2,tuhin47/spring-outh2,0.0,2021-03-20 15:09:02,,0.0,Java,0.0,0.0,0.0,2.0,2021-03-20 15:40:55,0.0,106.0,0.0,0.0
+236,spring-guides,spring-guides/gs-rest-service,BaReinhard/java-math-api,0.0,2017-10-22 20:44:43,A duplicate of the NODEJS Math API created in Java using Spring,0.0,Java,0.0,0.0,0.0,1.0,2017-10-24 04:26:51,0.0,6.0,0.0,1.0
+237,spring-guides,spring-guides/gs-rest-service,beatricefar/restapi,0.0,2018-05-08 13:51:06,,0.0,Java,0.0,0.0,0.0,0.0,2018-05-08 13:51:50,0.0,1.0,0.0,0.0
+238,spring-guides,spring-guides/gs-rest-service,letiantian/learn-spring,0.0,2018-07-15 01:21:25,,4.0,Java,0.0,0.0,5.0,1.0,2021-09-03 05:15:20,5.0,64.0,0.0,1146.0
+239,spring-guides,spring-guides/gs-rest-service,krishna81m/gs-rest-service,0.0,2020-04-14 00:44:10,"Spring Boot Distributed Tracer, Http/JDBC Profiler, Method Stack introspector",0.0,Java,1.0,0.0,0.0,1.0,2020-06-23 07:53:32,0.0,365.0,0.0,70.0
+240,spring-guides,spring-guides/gs-rest-service,blackghostt/cerberoaccounts,0.0,2020-07-03 06:36:00,shi carnal,0.0,Java,0.0,0.0,0.0,1.0,2020-07-03 08:30:30,0.0,4.0,0.0,0.0
+241,spring-guides,spring-guides/gs-accessing-data-mongodb,paulvi/com.example.spring.mongodb,0.0,2016-06-20 11:52:09,Minimal Spring Boot + MongoDB example (+ spring-data-mock),0.0,Java,0.0,0.0,0.0,1.0,2016-06-20 11:54:18,0.0,2.0,0.0,0.0
+242,spring-guides,spring-guides/gs-accessing-data-mongodb,nate-getch/Enterprise-Arch-Labs,0.0,2017-10-31 06:28:25,Enterprise Architecture course Lab exercises at MUM.,0.0,Java,0.0,0.0,0.0,1.0,2017-11-09 03:20:56,0.0,27.0,0.0,8.0
+243,spring-guides,spring-guides/gs-accessing-data-mongodb,yqbjtu/mongodbTutorial,0.0,2018-03-06 08:15:53,native Mongo connect and SpringBoot mongo example,2.0,Java,0.0,1.0,1.0,2.0,2022-01-10 10:08:58,1.0,15.0,0.0,1406.0
+244,spring-guides,spring-guides/gs-accessing-data-mongodb,hkj123/edwinghu,0.0,2019-07-31 06:44:24,springboot springcloud 2.0 全套,1.0,Java,6.0,2.0,0.0,2.0,2020-03-04 03:19:44,0.0,44.0,0.0,216.0
+245,googlesamples,googlesamples/android-TensorFlowCloudMachineLearningEngineStylizer,6v6/mlappTest,0.0,2018-08-17 02:58:13,,0.0,Java,0.0,0.0,0.0,1.0,2018-08-17 02:58:33,0.0,1.0,0.0,0.0
+246,googlesamples,googlesamples/android-TensorFlowCloudMachineLearningEngineStylizer,6v6/smileProject,0.0,2018-08-03 06:09:44,📌 hanium2018  - CNN을 이용한 딥러닝 기반의 웃음인식 프로젝트,2.0,Java,0.0,6.0,0.0,1.0,2021-03-01 17:11:54,0.0,54.0,0.0,941.0
+247,spring-guides,spring-guides/gs-accessing-data-mongodb,codejcd/spring-boot-mongodb-mongorepository-demo,0.0,2022-01-19 18:29:11,spring-boot-mongodb-mongorepository-demo,0.0,Java,0.0,0.0,0.0,2.0,2022-01-22 05:50:58,0.0,10.0,0.0,2.0
+248,spring-guides,spring-guides/gs-async-method,tuonghv/Java_springboot,0.0,2020-12-22 00:50:45,,0.0,Java,0.0,0.0,0.0,1.0,2021-03-25 01:31:21,0.0,18.0,0.0,93.0
+249,spring-guides,spring-guides/gs-crud-with-vaadin,gunerhanale/springboot-portfolio,0.0,2021-02-08 22:47:34,I will implement spring boot features in this repo.,0.0,Java,0.0,0.0,0.0,1.0,2021-03-09 22:02:49,0.0,34.0,0.0,28.0
+250,googlearchive,googlearchive/android-Camera2Basic,IvonLiu/fishackathon-2016,0.0,2016-04-25 00:51:06,"Extract and log data about fish, right as you catch them. Then brag about your catch to your friends!",0.0,Java,0.0,0.0,0.0,2.0,2016-04-25 00:51:50,0.0,8.0,0.0,0.0
+251,googlearchive,googlearchive/android-Camera2Basic,IvonLiu/focal-distance,0.0,2016-03-04 01:42:02,Obtain the distance between the camera and an object using the camera's focal length,2.0,Java,0.0,0.0,3.0,2.0,2021-09-16 02:13:50,3.0,3.0,0.0,2022.0
+252,googlearchive,googlearchive/android-Camera2Basic,anthonyburdi/Android-Data-Logger,0.0,2015-03-26 20:55:06,"Camera, location and accelerometer logging to file.",0.0,Java,0.0,1.0,1.0,1.0,2016-04-17 18:53:33,1.0,22.0,0.0,387.0
+253,googlearchive,googlearchive/android-Camera2Basic,anthonyburdi/computer-vision-demo,0.0,2015-02-23 14:49:20,Simple Android app to process visual data,0.0,Java,0.0,0.0,0.0,2.0,2015-03-02 22:08:06,0.0,9.0,0.0,7.0
+254,googlearchive,googlearchive/android-Camera2Basic,ishit/TRig,0.0,2015-06-06 11:01:23,Camera controller for android.,1.0,Java,3.0,10.0,1.0,2.0,2015-06-23 16:05:19,1.0,53.0,0.0,17.0
+255,googlearchive,googlearchive/android-Camera2Basic,mohanrajsambath/CameraWorkSapce,0.0,2018-10-01 05:34:08,Project Created for Camera2API,0.0,Java,0.0,4.0,0.0,1.0,2018-12-14 11:26:44,0.0,14.0,0.0,74.0
+256,googlearchive,googlearchive/android-Camera2Basic,mohanrajsambath/MyWorkspace,0.0,2018-03-21 07:34:45,Intial Commit with few modules,1.0,Java,0.0,8.0,2.0,3.0,2020-01-30 13:51:30,2.0,46.0,0.0,680.0
+257,googlearchive,googlearchive/android-Camera2Basic,shun-nakahara/Camera2Base,0.0,2015-08-10 10:01:38,Android 5.0 以上のシンプルなカメラ,0.0,Java,0.0,0.0,0.0,1.0,2015-08-10 10:03:10,0.0,2.0,0.0,0.0
+258,googlearchive,googlearchive/android-Camera2Basic,chonamdoo/AndroidKaraokeApp,0.0,2018-01-01 03:06:22,,1.0,Java,0.0,0.0,0.0,1.0,2019-06-04 03:15:25,0.0,14.0,0.0,519.0
+259,googlearchive,googlearchive/android-Camera2Basic,andrewxu10/camera-tagger-master,0.0,2016-02-27 23:30:52,,0.0,Java,0.0,0.0,1.0,1.0,2017-02-06 01:42:00,1.0,1.0,0.0,344.0
+260,googlearchive,googlearchive/android-Camera2Basic,truongngoclinh/ezstreaming,0.0,2016-04-28 02:48:39,Ez streaming with camera/screen recording to rtmp server by hls/dash,1.0,Java,0.0,0.0,6.0,1.0,2018-03-31 18:35:31,6.0,4.0,0.0,702.0
+261,googlearchive,googlearchive/android-Camera2Basic,truongngoclinh/StreamingTest,0.0,2016-05-19 11:22:18,Streaming mobile android screen/camera ,0.0,Java,0.0,0.0,3.0,1.0,2019-07-08 09:20:34,3.0,14.0,0.0,1144.0
+262,googlearchive,googlearchive/android-Camera2Basic,apMadden/conversationalPrototype,0.0,2018-05-21 19:06:45,,0.0,Java,0.0,0.0,0.0,1.0,2018-05-21 19:06:56,0.0,1.0,0.0,0.0
+263,googlearchive,googlearchive/android-Camera2Basic,eneim/Wordy,0.0,2016-03-19 05:19:10,A sample project which uses Bluemix's Visual Recognition API for education purpose.,2.0,Java,0.0,4.0,1.0,2.0,2016-03-20 10:15:04,1.0,44.0,0.0,1.0
+264,googlearchive,googlearchive/android-Camera2Basic,wuapnjie/PoiCamera,0.0,2016-07-31 13:56:48,[Deprecated] See ACamera Project  using Camera2 => https://github.com/wuapnjie/ACamera,20.0,Java,0.0,1.0,39.0,2.0,2022-02-10 03:12:53,39.0,6.0,0.0,2019.0
+265,googlearchive,googlearchive/android-Camera2Basic,yung-yu/Camera2ApiDemo,0.0,2016-07-18 16:15:17,練習 Android Camera2 api,0.0,Java,0.0,0.0,0.0,1.0,2016-07-18 16:17:44,0.0,1.0,0.0,0.0
+266,googlearchive,googlearchive/android-Camera2Basic,Edeneast13/AmberCam,0.0,2016-08-29 16:46:07,A firebase cloud camera,0.0,Java,0.0,2.0,0.0,1.0,2016-08-29 16:46:25,0.0,27.0,0.0,0.0
+267,googlearchive,googlearchive/android-Camera2Basic,Edeneast13/AmberCam,0.0,2016-08-29 16:46:07,A firebase cloud camera,0.0,Java,0.0,2.0,0.0,1.0,2016-08-29 16:46:25,0.0,27.0,0.0,0.0
+268,googlearchive,googlearchive/android-Camera2Basic,baby518/CameraChecker,0.0,2016-12-04 15:00:26,"include 3 modules. I. Check camera capabilities, include api 1 and api 2. II. camera function test, include api 1 and api2. III. camera device benchmark.",0.0,Java,0.0,0.0,0.0,2.0,2020-03-27 03:48:33,0.0,24.0,0.0,1208.0
+269,googlearchive,googlearchive/android-Camera2Basic,Neilcc/ZMulitimedia,0.0,2018-05-18 02:58:40,Multimedia practise project,0.0,Java,0.0,0.0,1.0,2.0,2019-09-23 02:11:37,1.0,15.0,0.0,492.0
+270,googlearchive,googlearchive/android-Camera2Basic,raulh82vlc/Image-Detection-Samples,0.0,2017-04-23 17:29:38,"This sample app supports ""Building a MVP with Face recognition and AR"" and ""Quest of a Hero part 2"" presentations as well as it has two different possibilities to build face detection mechanism. The first one is OpenCV based and the second one is by means of Camera 2 API",5.0,Java,0.0,11.0,36.0,5.0,2022-01-28 08:39:37,36.0,36.0,0.0,1740.0
+271,googlearchive,googlearchive/android-Camera2Basic,eddieberklee/shoutake,0.0,2015-11-26 07:01:26,Android app to snap a picture without the button,0.0,Java,1.0,0.0,0.0,1.0,2016-06-29 22:02:07,0.0,37.0,0.0,216.0
+272,googlearchive,googlearchive/android-Camera2Basic,wangli135/BlogDemo,0.0,2016-09-06 10:13:53,博客示例,25.0,Java,0.0,0.0,30.0,3.0,2022-02-24 09:16:32,30.0,16.0,0.0,1996.0
+273,googlearchive,googlearchive/android-Camera2Basic,xingda920813/HelloCamera2,0.0,2016-07-17 08:25:59,"Android 自定义相机: 可定制的 UI, 压缩到指定分辨率级别, 裁剪指定区域, 大图预览. (Android custom camera: Customizable UI, compress to specific resolution level, clip specific area programmatically, picture preview, usage of Camera / Camera2 API.)",50.0,Java,0.0,13.0,144.0,7.0,2022-02-23 09:22:36,144.0,48.0,0.0,2047.0
+274,googlearchive,googlearchive/android-Camera2Basic,heitornascimento/mobile_vision_face_recognition,0.0,2017-05-15 13:00:26,,0.0,Java,0.0,0.0,0.0,1.0,2018-08-28 03:06:57,0.0,3.0,0.0,469.0
+275,googlearchive,googlearchive/android-Camera2Basic,miqt/camera2,0.0,2016-07-25 01:19:15,Android自定义相机,17.0,Java,1.0,0.0,42.0,3.0,2022-01-06 01:31:18,42.0,12.0,0.0,1991.0
+276,googlearchive,googlearchive/android-Camera2Basic,vtthach/20170106_Sample_CameraModule,0.0,2017-01-13 03:59:32,Init project,0.0,Java,0.0,0.0,0.0,1.0,2017-01-13 04:07:33,0.0,5.0,0.0,0.0
+277,googlearchive,googlearchive/android-Camera2Basic,werbhelius/MediaUtils,0.0,2017-01-20 10:27:03,MediaUtils : a demo of record audio and video.,102.0,Java,26.0,13.0,446.0,9.0,2022-03-20 06:36:25,446.0,10.0,0.0,1884.0
+278,googlearchive,googlearchive/android-Camera2Basic,therajanmaurya/Remote-Camera-App,0.0,2017-01-22 19:25:02,,1.0,Java,0.0,0.0,1.0,1.0,2017-12-24 00:13:24,1.0,14.0,0.0,335.0
+279,googlearchive,googlearchive/android-Camera2Basic,arjinmc/SmartCam,0.0,2019-10-14 01:30:25,Android Camera Library,0.0,Java,0.0,0.0,1.0,2.0,2022-01-19 02:24:42,1.0,131.0,0.0,828.0
+280,googlearchive,googlearchive/android-Camera2Basic,lwmcc/CloudCam,0.0,2018-03-24 08:31:17,,0.0,Java,0.0,0.0,0.0,0.0,2019-01-29 06:05:08,0.0,145.0,0.0,310.0
+281,googlearchive,googlearchive/android-Camera2Basic,GDPCCoder/Study,0.0,2020-09-07 07:20:51,个人学习Demo,0.0,Java,0.0,0.0,0.0,1.0,2020-09-07 07:58:10,0.0,147.0,0.0,0.0
+282,googlearchive,googlearchive/android-Camera2Basic,mfecane/mirrorCam,0.0,2017-06-12 10:13:58,,0.0,Java,0.0,0.0,0.0,0.0,2017-06-12 10:15:09,0.0,7.0,0.0,0.0
+283,googlearchive,googlearchive/android-Camera2Basic,lytcom/Camera2Kit,0.0,2017-08-10 14:11:14,A android sample use camera2 to take picture and record video in one fragment,12.0,Java,3.0,0.0,17.0,3.0,2021-09-08 00:10:30,17.0,21.0,0.0,1489.0
+284,googlearchive,googlearchive/android-Camera2Basic,lytcom/CameraKitView,0.0,2017-08-10 14:28:43,,1.0,Java,0.0,0.0,2.0,2.0,2020-01-15 19:00:16,2.0,8.0,0.0,888.0
+285,googlearchive,googlearchive/android-Camera2Basic,mdnahian/lucid,0.0,2017-06-19 21:55:13,,0.0,Java,0.0,0.0,0.0,1.0,2017-06-20 01:59:41,0.0,4.0,0.0,0.0
+286,googlearchive,googlearchive/android-Camera2Basic,mdnahian/RxWhat,0.0,2016-11-06 15:07:23,,1.0,Java,0.0,0.0,2.0,3.0,2016-11-13 01:50:25,2.0,3.0,0.0,6.0
+287,googlearchive,googlearchive/android-Camera2Basic,floatingmuseum/FloatingMuseum,0.0,2017-02-21 06:10:34,Android test demo,0.0,Java,0.0,0.0,0.0,1.0,2017-02-21 06:12:18,0.0,123.0,0.0,0.0
+288,googlearchive,googlearchive/android-Camera2Basic,slq/android-background-camera,0.0,2017-06-27 06:11:06,,0.0,Java,0.0,0.0,0.0,2.0,2017-06-27 06:17:43,0.0,30.0,0.0,0.0
+289,googlearchive,googlearchive/android-Camera2Basic,hugbio/android-Camera2Basic,0.0,2017-07-01 07:14:55,,0.0,Java,0.0,0.0,0.0,1.0,2017-07-01 07:15:52,0.0,3.0,0.0,0.0
+290,googlearchive,googlearchive/android-Camera2Basic,Hemumu/WallpaperDemo,0.0,2017-07-07 07:48:43,Camera2Demo,21.0,Java,1.0,0.0,52.0,2.0,2021-09-10 09:27:08,52.0,3.0,0.0,1526.0
+291,googlearchive,googlearchive/android-Camera2Basic,glumes/Camera2Sample,0.0,2017-09-13 15:50:32,,1.0,Java,1.0,0.0,3.0,2.0,2020-10-17 16:57:09,3.0,18.0,0.0,1130.0
+292,googlearchive,googlearchive/android-Camera2Basic,glumes/EzCameraKit,0.0,2018-08-06 11:23:58,A Wrapper Library for Android Camera API .,2.0,Java,0.0,0.0,4.0,1.0,2021-12-21 08:51:51,4.0,28.0,0.0,1232.0
+293,googlearchive,googlearchive/android-Camera2Basic,program008/Camera2Util,0.0,2017-07-26 02:10:11,Android Camera2 使用总结,0.0,Java,0.0,0.0,0.0,1.0,2017-07-26 02:10:57,0.0,4.0,0.0,0.0
+294,googlearchive,googlearchive/android-Camera2Basic,wangrling/camera,0.0,2017-08-15 14:00:46,a project about camera,0.0,Java,0.0,0.0,0.0,1.0,2019-04-22 08:36:38,0.0,3.0,0.0,614.0
+295,googlearchive,googlearchive/android-Camera2Basic,wangrling/MultiMedia,0.0,2019-01-10 07:04:20,多媒体相关知识学习,0.0,Java,0.0,0.0,0.0,1.0,2019-04-22 08:36:38,0.0,3.0,0.0,102.0
+296,googlearchive,googlearchive/android-Camera2Basic,dhatto/beerfesakita_android,0.0,2017-08-05 16:54:47,,0.0,Java,0.0,0.0,0.0,2.0,2019-08-04 13:11:32,0.0,25.0,0.0,728.0
+297,googlearchive,googlearchive/android-Camera2Basic,bylijian/Camera2Basic,0.0,2019-07-01 07:43:15,谷歌Camera2官方demo的修改版本,0.0,Java,0.0,0.0,0.0,0.0,2019-07-01 07:44:27,0.0,33.0,0.0,0.0
+298,googlearchive,googlearchive/android-Camera2Basic,Yat3s/FaceDetector,0.0,2017-08-22 13:05:42,Face detection and tracker on your device.,0.0,Java,0.0,0.0,0.0,2.0,2017-08-22 13:13:13,0.0,7.0,0.0,0.0
+299,googlearchive,googlearchive/android-Camera2Basic,jeffreyliu8/camera2barcode,0.0,2017-04-24 17:28:24,,2.0,Java,0.0,0.0,1.0,2.0,2019-10-26 02:16:23,1.0,29.0,0.0,914.0
+300,googlearchive,googlearchive/android-Camera2Basic,skymxc/FaceDemo,0.0,2017-09-12 09:28:34,"人脸识别接口调用（百度,虹软离线识别）",2.0,Java,0.0,0.0,4.0,1.0,2019-06-14 12:52:32,4.0,8.0,0.0,640.0
+301,googlearchive,googlearchive/android-Camera2Basic,lozuwa/android_camera2_app,0.0,2017-07-31 18:20:58,"Camera application based on the camera2 API from google. The camera has a zoom feature, MQTT connection to be controlled remotely and connects to a webserver to store pictures. ",1.0,Java,0.0,0.0,1.0,1.0,2020-11-25 11:56:36,1.0,53.0,0.0,1212.0
+302,googlearchive,googlearchive/android-Camera2Basic,13767004362/Camera2App,0.0,2017-12-19 07:05:51,厂商平台之相机模块：采用android5.0中Camera2 api+MVP模式开发的一个相机程序，包含拍照，录像，自动调焦，Zoom调焦，暂停录像。,33.0,Java,4.0,1.0,124.0,7.0,2022-03-21 09:19:10,124.0,13.0,0.0,1553.0
+303,googlearchive,googlearchive/android-Camera2Basic,Nanamare/android_pose_estimation_mace,0.0,2019-01-07 16:28:02,pose estimation for android using mace engine,6.0,Java,3.0,0.0,11.0,1.0,2021-08-24 19:49:21,11.0,6.0,0.0,960.0
+304,googlearchive,googlearchive/android-Camera2Basic,imen-nmn/Camera2Example,0.0,2017-11-16 16:46:49,This is an example to learn different functionalities of  camera2,0.0,Java,0.0,0.0,0.0,1.0,2017-11-16 16:47:10,0.0,5.0,0.0,0.0
+305,googlearchive,googlearchive/android-Camera2Basic,freddie1129/android-parcel-tracker,0.0,2018-01-06 23:46:32,,0.0,Java,0.0,0.0,0.0,1.0,2018-12-15 23:02:52,0.0,4.0,0.0,342.0
+306,googlearchive,googlearchive/android-Camera2Basic,MyLifeMyTravel/AndroidCore,0.0,2017-02-01 07:15:07,Android Demo、常用工具类和个人框架,26.0,Java,1.0,0.0,44.0,2.0,2021-12-23 10:24:59,44.0,83.0,0.0,1786.0
+307,googlearchive,googlearchive/android-Camera2Basic,ssj64260/Camera2Demo,0.0,2018-06-14 08:22:15,Camear2Demo,0.0,Java,0.0,0.0,0.0,0.0,2018-06-14 09:41:34,0.0,3.0,0.0,0.0
+308,googlearchive,googlearchive/android-Camera2Basic,gmlwhdtjd/Filters,0.0,2018-02-12 08:36:54,,2.0,Java,0.0,71.0,1.0,3.0,2018-09-06 08:58:07,1.0,330.0,0.0,206.0
+309,googlearchive,googlearchive/android-Camera2Basic,Somia21/SmartCane,0.0,2018-04-25 09:58:06,,0.0,Java,0.0,0.0,0.0,1.0,2018-06-03 21:45:08,0.0,7.0,0.0,39.0
+310,googlearchive,googlearchive/android-Camera2Basic,Somia21/tensorflow,0.0,2018-01-18 12:47:56,,0.0,Java,0.0,0.0,0.0,1.0,2018-01-18 12:54:06,0.0,5.0,0.0,0.0
+311,googlearchive,googlearchive/android-Camera2Basic,micscopau/HelloOpenCV_baseOpenCVsetup,0.0,2017-12-06 22:02:32,,0.0,Java,0.0,0.0,0.0,2.0,2017-12-06 22:15:40,0.0,20.0,0.0,0.0
+312,googlearchive,googlearchive/android-Camera2Basic,ckwcc/App-Architecture,0.0,2017-12-11 02:33:38,this is an app architecture build by many Android popular framework,0.0,Java,0.0,0.0,5.0,2.0,2019-09-02 10:23:52,5.0,59.0,0.0,630.0
+313,googlearchive,googlearchive/android-Camera2Basic,Belolme/GraduationProject_OCR_App,0.0,2018-03-04 13:49:07,,0.0,Java,0.0,0.0,0.0,2.0,2018-05-16 11:12:10,0.0,26.0,0.0,72.0
+314,googlearchive,googlearchive/android-Camera2Basic,ly20050516/GpuCamera,0.0,2018-03-17 15:12:27,GpuCamera,0.0,Java,0.0,0.0,0.0,1.0,2018-06-24 16:33:51,0.0,27.0,0.0,99.0
+315,googlearchive,googlearchive/android-Camera2Basic,lvm0306/MTextureView,0.0,2018-03-30 02:49:46,,0.0,Java,0.0,0.0,1.0,1.0,2018-03-30 02:50:47,1.0,1.0,0.0,0.0
+316,googlearchive,googlearchive/android-Camera2Basic,linceln/android-Camera2Basic,0.0,2018-04-23 12:18:07,,0.0,Java,0.0,0.0,0.0,2.0,2018-04-25 02:02:37,0.0,35.0,0.0,1.0
+317,googlearchive,googlearchive/android-Camera2Basic,renhui/RHCamera2,0.0,2020-01-07 04:31:08,基于Camera2实现预览和拍照,13.0,Java,0.0,0.0,19.0,4.0,2021-08-12 00:28:06,19.0,2.0,0.0,582.0
+318,googlearchive,googlearchive/android-Camera2Basic,mikelhpdatke/HighCameraFPS,0.0,2018-06-02 13:26:41,,0.0,Java,0.0,0.0,0.0,1.0,2019-07-16 07:42:00,0.0,1.0,0.0,408.0
+319,googlearchive,googlearchive/android-Camera2Basic,liuq96/MediaLearn,0.0,2018-04-15 00:54:30,A Project For Learning Media Develop,0.0,Java,0.0,0.0,0.0,0.0,2018-05-06 15:48:15,0.0,6.0,0.0,21.0
+320,googlearchive,googlearchive/android-Camera2Basic,qinxiandiqi/Camera2Demo,0.0,2018-04-27 06:26:35,The android camera demo which using Camera2 APIs,0.0,Java,0.0,0.0,0.0,1.0,2018-04-27 07:55:44,0.0,3.0,0.0,0.0
+321,googlearchive,googlearchive/android-Camera2Basic,dmitriy-chernysh/sm.camera.demo,0.0,2018-04-18 16:13:21,Demo App uses Samsung Camera API,1.0,Java,0.0,0.0,0.0,1.0,2018-05-31 17:47:16,0.0,36.0,0.0,43.0
+322,googlearchive,googlearchive/android-Camera2Basic,yeecho/MvpDemo,0.0,2019-03-04 10:19:51,,0.0,Java,0.0,0.0,0.0,1.0,2019-04-01 01:52:05,0.0,2.0,0.0,27.0
+323,googlearchive,googlearchive/android-Camera2Basic,alguojian/AndroidCustomizeCamera,0.0,2018-06-01 10:53:28,扩展google的相机demo，只支持5.0以上版本,0.0,Java,0.0,0.0,0.0,1.0,2018-06-01 10:53:46,0.0,1.0,0.0,0.0
+324,googlearchive,googlearchive/android-Camera2Basic,and2long/FaceCompare,0.0,2018-06-06 02:18:23,人脸识别，使用Face++网络API实现。,0.0,Java,0.0,0.0,0.0,1.0,2018-06-09 06:05:30,0.0,12.0,0.0,3.0
+325,googlearchive,googlearchive/android-Camera2Basic,hcz017/android-Camera2Basic,0.0,2018-12-03 13:32:12,based on google camera2basic samples(https://github.com/googlearchive/android-Camera2Basic),0.0,Java,0.0,0.0,0.0,2.0,2020-02-10 03:39:43,0.0,19.0,0.0,433.0
+326,googlearchive,googlearchive/android-Camera2Basic,SomebodyLuo/My_AS_Ku_Dan,0.0,2018-01-13 10:59:26,,0.0,Java,0.0,0.0,0.0,1.0,2018-01-13 11:00:31,0.0,13.0,0.0,0.0
+327,googlearchive,googlearchive/android-Camera2Basic,AndGirl/BaseDemo,0.0,2018-06-26 16:44:55,3.0练习项目,0.0,Java,0.0,0.0,0.0,1.0,2018-07-18 14:26:43,0.0,5.0,0.0,21.0
+328,googlearchive,googlearchive/android-Camera2Basic,pnbd/FilmDig,0.0,2018-07-16 00:28:17,Projecto em Android...,0.0,Java,0.0,0.0,0.0,0.0,2018-08-12 16:11:58,0.0,13.0,0.0,27.0
+329,googlearchive,googlearchive/android-Camera2Basic,EdgarNg1024/wk,0.0,2018-07-09 12:02:30,手势识别,0.0,Java,0.0,0.0,1.0,1.0,2018-09-10 15:39:12,1.0,44.0,0.0,63.0
+330,googlearchive,googlearchive/android-Camera2Basic,wangcan26/CameraCVGLView,0.0,2018-08-10 03:53:38,Implementations of camera2 api,8.0,Java,0.0,0.0,14.0,1.0,2021-09-24 09:01:47,14.0,13.0,0.0,1141.0
+331,googlearchive,googlearchive/android-Camera2Basic,capsane/SimpleCamera,0.0,2018-07-07 13:35:25,,0.0,Java,0.0,0.0,0.0,1.0,2018-07-15 07:54:14,0.0,6.0,0.0,7.0
+332,googlearchive,googlearchive/android-Camera2Basic,teacherMa/CameraDemo,0.0,2018-09-17 08:47:07,,0.0,Java,0.0,0.0,0.0,0.0,2018-09-19 09:24:14,0.0,5.0,0.0,2.0
+333,googlearchive,googlearchive/android-Camera2Basic,SelfImprLYJ/MyCamera,0.0,2018-05-25 10:28:50,,0.0,Java,0.0,0.0,0.0,1.0,2018-06-05 05:51:08,0.0,9.0,0.0,10.0
+334,googlearchive,googlearchive/android-Camera2Basic,way1989/android-Camera2Basic,0.0,2017-02-15 05:50:18,save dng picture.,1.0,Java,0.0,0.0,0.0,1.0,2017-02-15 05:51:33,0.0,23.0,0.0,0.0
+335,googlearchive,googlearchive/android-Camera2Basic,way1989/ApeHeartRate,0.0,2016-10-07 10:05:34,,1.0,Java,0.0,0.0,0.0,1.0,2016-10-07 10:05:57,0.0,5.0,0.0,0.0
+336,googlearchive,googlearchive/android-Camera2Basic,way1989/Camera2Raw,0.0,2017-02-15 12:36:43,,0.0,Java,0.0,0.0,0.0,0.0,2017-02-15 12:36:52,0.0,2.0,0.0,0.0
+337,googlearchive,googlearchive/android-Camera2Basic,Nickyaozc/instagram,0.0,2018-09-10 15:41:12,An Android Instagram clone using firebase,0.0,Java,0.0,0.0,0.0,2.0,2018-10-22 08:34:38,0.0,83.0,0.0,41.0
+338,googlearchive,googlearchive/android-Camera2Basic,doctorji/androidvideomusic,0.0,2018-09-21 07:22:32,Android 音视频学习,0.0,Java,0.0,0.0,0.0,0.0,2018-10-29 10:01:47,0.0,5.0,0.0,38.0
+339,googlearchive,googlearchive/android-Camera2Basic,TakayukiHoshi1984/DeviceConnect-AndroidSandbox,0.0,2020-06-23 06:43:28,DeviceConnect-AndroidでGitHub Actionを使用する時のための動作確認用リポジトリ,0.0,Java,0.0,0.0,0.0,2.0,2020-07-10 03:21:11,0.0,321.0,0.0,16.0
+340,googlearchive,googlearchive/android-Camera2Basic,fanluo/BaiduOCR,0.0,2019-04-29 14:28:58,百度文字识别demo,0.0,Java,0.0,0.0,0.0,1.0,2019-04-29 16:12:57,0.0,6.0,0.0,0.0
+341,googlearchive,googlearchive/android-Camera2Basic,july1992/hevc-h265-camera2-mediacodc-,0.0,2019-11-20 08:17:03,"hevc,h265,camera2,mediacodc视频预览编解码",0.0,Java,0.0,0.0,0.0,1.0,2020-04-29 08:02:49,0.0,7.0,0.0,160.0
+342,googlearchive,googlearchive/android-Camera2Basic,july1992/VideoDemo1,0.0,2018-12-20 15:26:19,视频流,0.0,Java,0.0,0.0,0.0,0.0,2019-01-24 08:26:05,0.0,11.0,0.0,34.0
+343,googlearchive,googlearchive/android-Camera2Basic,lucloner/baiduFaceSDK,0.0,2018-08-27 04:49:43,,0.0,Java,0.0,0.0,0.0,1.0,2018-09-13 10:47:56,0.0,3.0,0.0,17.0
+344,googlearchive,googlearchive/android-Camera2Basic,lucloner/Zhao-s_Project,0.0,2018-12-31 12:12:19,,0.0,Java,0.0,0.0,0.0,1.0,2019-01-15 09:38:48,0.0,55.0,0.0,14.0
+345,googlearchive,googlearchive/android-Camera2Basic,Blossomyyh/QRcode,0.0,2019-01-31 07:03:03,,0.0,Java,0.0,0.0,0.0,0.0,2019-03-05 08:44:31,0.0,11.0,0.0,33.0
+346,googlearchive,googlearchive/android-Camera2Basic,ChanningJacobs/roomtips-android,0.0,2019-02-02 23:49:01,,0.0,Java,0.0,0.0,0.0,1.0,2021-07-23 02:15:52,0.0,3.0,0.0,901.0
+347,googlearchive,googlearchive/android-Camera2Basic,nerjok/timemanager,0.0,2018-12-16 12:49:48,,0.0,Java,0.0,0.0,0.0,1.0,2019-03-17 14:41:54,0.0,14.0,0.0,91.0
+348,googlearchive,googlearchive/android-Camera2Basic,MinorPeng/LearnDemo,0.0,2018-03-21 11:13:00,,0.0,Java,0.0,0.0,0.0,0.0,2021-03-06 02:48:48,0.0,15.0,0.0,1080.0
+349,googlearchive,googlearchive/android-Camera2Basic,pritesh25/MyJetpackExample,0.0,2019-01-04 11:54:20,,0.0,Java,0.0,0.0,0.0,1.0,2019-12-02 11:32:35,0.0,22.0,0.0,331.0
+350,googlearchive,googlearchive/android-Camera2Basic,huang122124/GrduateDesign,0.0,2019-01-11 09:27:40,毕业设计——语音识别,1.0,Java,0.0,0.0,0.0,0.0,2019-06-23 01:13:48,0.0,17.0,0.0,162.0
+351,googlearchive,googlearchive/android-Camera2Basic,66668/googleDemo_Camera2,0.0,2017-11-29 06:41:56,（12月1日更新）google的camera2的demo运行项目有bug，自己将源码拷贝过来，新建了个项目运行。源码位置： https://github.com/googlesamples/android-Camera2Basic,2.0,Java,0.0,0.0,6.0,2.0,2019-11-29 12:25:22,6.0,1.0,0.0,730.0
+352,googlearchive,googlearchive/android-Camera2Basic,66668/MediaPlayerDemo,0.0,2017-12-05 05:10:25,"相机 视频 音频 camera2官方demo,等 demo",0.0,Java,0.0,0.0,0.0,2.0,2020-05-06 15:02:13,0.0,17.0,0.0,883.0
+353,googlearchive,googlearchive/android-Camera2Basic,feisher/CamTest2,0.0,2020-04-02 03:41:42,添加红外人脸识别捕捉,0.0,Java,0.0,0.0,0.0,2.0,2020-04-07 06:52:57,0.0,7.0,0.0,5.0
+354,googlearchive,googlearchive/android-Camera2Basic,xuexiangjys/mace_demo,0.0,2019-04-12 05:54:11,小米mace 深度学习框架 已经编译成功的android demo,0.0,Java,0.0,0.0,5.0,1.0,2021-08-24 19:52:14,5.0,4.0,0.0,865.0
+355,googlearchive,googlearchive/android-Camera2Basic,JYangkai/Player,0.0,2021-09-19 04:45:45,Personal Player,0.0,Java,0.0,0.0,0.0,1.0,2021-09-28 13:34:48,0.0,16.0,0.0,9.0
+356,googlearchive,googlearchive/android-Camera2Basic,xinchen281158/Camera2SampleDemo,0.0,2019-07-26 02:50:32,控制Camera2相关参数：iso、曝光时间、闪光灯、前后摄像头切换、存储拍照图片以及YUV、RAW数据,0.0,Java,0.0,0.0,9.0,1.0,2022-01-07 06:50:06,9.0,12.0,0.0,896.0
+357,googlearchive,googlearchive/android-Camera2Basic,Frank1481906280/GlCV4Android,0.0,2019-12-25 01:52:31,GLsurfaceview supported for camera2 with three types camera data processing！,0.0,Java,0.0,0.0,1.0,2.0,2022-01-21 06:59:41,1.0,19.0,0.0,758.0
+358,googlearchive,googlearchive/android-Camera2Basic,Memory-Z/Z_inz,0.0,2018-07-21 01:21:59,,0.0,Java,0.0,0.0,1.0,0.0,2020-04-14 09:19:29,1.0,130.0,0.0,633.0
+359,googlearchive,googlearchive/android-Camera2Basic,swolf0011/NYBase,0.0,2018-01-27 12:30:26,,0.0,Java,0.0,0.0,0.0,1.0,2020-07-26 11:02:51,0.0,48.0,0.0,910.0
+360,googlearchive,googlearchive/android-Camera2Basic,nicochofly/Test4Camera2,0.0,2019-06-08 07:21:15,,5.0,Java,0.0,0.0,6.0,0.0,2020-09-30 14:41:24,6.0,17.0,0.0,480.0
+361,googlearchive,googlearchive/android-Camera2Basic,Fitz01110001/FitzCamera,0.0,2019-07-07 14:05:14,Fitz camera demo,0.0,Java,0.0,0.0,0.0,0.0,2019-08-15 10:46:02,0.0,17.0,0.0,38.0
+362,googlearchive,googlearchive/android-Camera2Basic,FDoubleman/Camera2,0.0,2019-07-03 03:43:36,Camera2 相机相关研究 封装,0.0,Java,0.0,0.0,1.0,0.0,2019-08-17 01:28:13,1.0,2.0,0.0,44.0
+363,googlearchive,googlearchive/android-Camera2Basic,FDoubleman/shudu,0.0,2021-06-18 08:25:05,数独游戏项目,0.0,Java,0.0,0.0,0.0,1.0,2021-06-18 10:24:37,0.0,5.0,0.0,0.0
+364,googlearchive,googlearchive/android-Camera2Basic,wangshengyang1996/Camera2Demo,0.0,2019-07-07 03:56:03,Camera2使用演示,43.0,Java,2.0,1.0,70.0,4.0,2022-03-03 03:25:17,70.0,25.0,0.0,969.0
+365,googlearchive,googlearchive/android-Camera2Basic,wangshengyang1996/GLCameraDemo,0.0,2019-08-01 11:21:27,多种方式实现相机圆形预览，其中OpenGL的方式还包含灰度预览、雕塑化预览,38.0,Java,2.0,0.0,98.0,5.0,2022-03-22 02:20:04,98.0,22.0,0.0,963.0
+366,googlearchive,googlearchive/android-Camera2Basic,DengQiSong/VideoStudy,0.0,2019-07-23 05:54:01,视频学习记录,0.0,Java,0.0,0.0,0.0,0.0,2019-07-25 09:43:26,0.0,4.0,0.0,2.0
+367,googlearchive,googlearchive/android-Camera2Basic,mm-sgf/EsCamera,0.0,2021-04-01 11:37:08,,0.0,Java,0.0,0.0,0.0,1.0,2021-07-13 07:41:59,0.0,5.0,0.0,102.0
+368,googlearchive,googlearchive/android-Camera2Basic,mm-sgf/MediaSimple,0.0,2019-07-01 01:52:34,MediaSimple:Create Project,0.0,Java,0.0,0.0,1.0,0.0,2021-05-10 02:53:51,1.0,79.0,0.0,679.0
+369,googlearchive,googlearchive/android-Camera2Basic,MrYeLiang/Android-Camera2-Preview,0.0,2019-08-23 06:31:45,使用android原生ApiCamera2实现相机预览和录制,2.0,Java,0.0,0.0,0.0,1.0,2019-08-25 06:26:45,0.0,4.0,0.0,1.0
+370,googlearchive,googlearchive/android-Camera2Basic,lzhm216/AndroidTest,0.0,2019-10-09 07:46:10,,0.0,Java,0.0,0.0,0.0,1.0,2019-10-16 13:49:14,0.0,8.0,0.0,7.0
+371,googlearchive,googlearchive/android-Camera2Basic,matyignacio/AguasRiojanas,0.0,2019-09-10 15:26:32,,0.0,Java,0.0,0.0,0.0,1.0,2021-05-21 19:14:12,0.0,19.0,0.0,619.0
+372,googlearchive,googlearchive/android-Camera2Basic,matyignacio/PresionAguasRiojanas,0.0,2019-05-22 11:02:51,,0.0,Java,0.0,0.0,0.0,0.0,2021-03-04 15:24:26,0.0,123.0,0.0,652.0
+373,googlearchive,googlearchive/android-Camera2Basic,garyckhsu/Camera2Test,0.0,2019-10-23 11:32:51,,0.0,Java,0.0,0.0,0.0,1.0,2019-10-25 06:30:40,0.0,6.0,0.0,1.0
+374,googlearchive,googlearchive/android-Camera2Basic,zhuchuanwu/hc_camera,0.0,2019-04-12 11:12:14,rn自定义安卓相机,0.0,Java,0.0,0.0,1.0,3.0,2019-04-18 06:34:16,1.0,11.0,0.0,5.0
+375,googlearchive,googlearchive/android-Camera2Basic,DongSu-Park/SNS_Project,0.0,2020-01-21 05:12:44,,0.0,Java,0.0,1.0,0.0,2.0,2020-02-04 05:36:47,0.0,8.0,0.0,14.0
+376,googlearchive,googlearchive/android-Camera2Basic,lqxue/CameraPreview,0.0,2020-03-17 11:27:42,"camera2 预览画面,优化快速切换前后摄像头",1.0,Java,0.0,0.0,1.0,2.0,2020-06-17 04:06:14,1.0,2.0,0.0,91.0
+377,googlearchive,googlearchive/android-Camera2Basic,tunmengsmile/camera2,0.0,2021-07-21 02:56:53,相机,1.0,Java,0.0,0.0,1.0,1.0,2021-11-09 01:53:28,1.0,5.0,0.0,110.0
+378,googlearchive,googlearchive/android-Camera2Basic,vaisaga/ArcfaceDemo_support_AndroidCamera2,0.0,2020-09-18 06:36:04,虹软3.0demo基础上增加对android camera2的支持,0.0,Java,0.0,0.0,1.0,1.0,2020-10-13 07:50:49,1.0,3.0,0.0,25.0
+379,googlearchive,googlearchive/android-Camera2Basic,alex4dev/MyInstaClone,0.0,2020-06-16 12:37:30,Instagram clone app build with firebase,0.0,Java,0.0,0.0,0.0,1.0,2021-12-12 15:16:30,0.0,4.0,0.0,544.0
+380,googlearchive,googlearchive/android-Camera2Basic,ProgrammerBill/AndroidSimpleDemos,0.0,2019-01-28 16:02:53,,0.0,Java,0.0,0.0,0.0,1.0,2020-09-11 08:42:41,0.0,18.0,0.0,591.0
+381,googlearchive,googlearchive/android-Camera2Basic,XuHg-zjcn/SH-3DScaner,0.0,2020-09-19 08:38:53,DIY laser 3D scanner with Android smartphone,1.0,Java,0.0,1.0,3.0,1.0,2021-11-26 21:39:34,3.0,15.0,0.0,433.0
+382,googlearchive,googlearchive/android-Camera2Basic,YufanWangYuki/Android_CU,0.0,2020-04-30 17:12:20,,0.0,Java,0.0,0.0,0.0,1.0,2020-05-17 06:08:24,0.0,17.0,0.0,16.0
+383,googlearchive,googlearchive/android-Camera2Basic,jebai0521/CameraSampleXXX,0.0,2021-05-27 00:23:30,,0.0,Java,0.0,0.0,0.0,1.0,2021-06-05 17:20:58,0.0,3.0,0.0,9.0
+384,googlearchive,googlearchive/android-Camera2Basic,nikenking/Camera2BasicDemo,0.0,2021-04-23 09:07:21,一个简单地拍照demo,0.0,Java,0.0,0.0,0.0,1.0,2021-04-23 09:08:08,0.0,32.0,0.0,0.0
+385,googlearchive,googlearchive/android-Camera2Basic,Alvin3225/CaptureDemo,0.0,2018-03-29 08:23:18,在同一个界面实现短按拍照和长按录制视频,3.0,Java,1.0,0.0,7.0,1.0,2022-01-15 06:57:08,7.0,7.0,0.0,1387.0
+386,googlearchive,googlearchive/android-ElevationBasic,baoyongzhang/BeanPaste,0.0,2014-10-25 08:25:01,,0.0,Java,0.0,0.0,1.0,1.0,2021-07-21 12:14:51,1.0,2.0,0.0,2461.0
+387,googlearchive,googlearchive/android-ElevationBasic,xiaomaguoguo/android-DisplayingBitmaps,0.0,2018-01-30 13:21:49,我心目中最牛逼的图片框架！没有之一这么一说！！！！,0.0,Java,0.0,0.0,0.0,1.0,2018-01-30 13:22:02,0.0,30.0,0.0,0.0
+388,googlearchive,googlearchive/android-ElevationBasic,xiaomaguoguo/CustomRecycleview,0.0,2017-12-06 00:25:07,自己实现一下加头加尾、加载下一页等相关逻辑,0.0,Java,0.0,0.0,0.0,1.0,2017-12-06 00:25:16,0.0,49.0,0.0,0.0
+389,googlearchive,googlearchive/android-ClippingBasic,jibuji/android-tint-demos,0.0,2014-12-04 12:20:26,,0.0,Java,0.0,0.0,0.0,2.0,2015-05-12 01:35:20,0.0,4.0,0.0,158.0
+390,googlearchive,googlearchive/android-ClippingBasic,subinkrishna/SlidingTabsBasicSample,0.0,2014-07-17 02:02:12,SlidingTabs sample copied from http://developer.android.com/samples/SlidingTabsBasic/index.html ,1.0,Java,0.0,0.0,0.0,1.0,2018-06-14 09:03:57,0.0,3.0,0.0,1428.0
+391,googlearchive,googlearchive/android-ClippingBasic,raghunandankavi2010/SamplesAndroid,0.0,2015-10-13 18:35:29,Android Samples and some assignments for company interviews,8.0,Java,0.0,4.0,10.0,2.0,2021-10-02 12:34:44,10.0,424.0,0.0,2180.0
+392,googlearchive,googlearchive/android-ClippingBasic,dejavu1988/Android-SyncAdapterDemo,0.0,2015-09-04 12:20:27,,0.0,Java,0.0,0.0,0.0,1.0,2015-09-04 12:23:10,0.0,3.0,0.0,0.0
+393,googlearchive,googlearchive/android-ClippingBasic,gavinliu/Android-Demos,0.0,2015-02-17 10:56:11,Android Demo,0.0,Java,0.0,0.0,1.0,2.0,2016-04-19 18:32:17,1.0,2.0,0.0,427.0
+394,googlearchive,googlearchive/androidtv-VisualGameController,oksep/Demo,0.0,2015-04-21 06:21:41,,0.0,Java,0.0,0.0,0.0,1.0,2015-04-21 06:30:42,0.0,3.0,0.0,0.0
+395,googlearchive,googlearchive/androidtv-VisualGameController,xiaoyanit/guitai,0.0,2013-06-21 04:46:40,Android app for guitai@douban,0.0,Java,0.0,0.0,0.0,1.0,2013-07-04 05:26:59,0.0,3.0,0.0,13.0
+396,googlearchive,googlearchive/android-NavigationDrawer,johnjohndoe/Android-Developers-Samples,0.0,2013-12-20 22:06:21,Tracking changes for Android Developers Samples,54.0,Java,0.0,3.0,69.0,17.0,2020-12-03 06:50:25,69.0,18.0,0.0,2539.0
+397,googlearchive,googlearchive/android-NavigationDrawer,johnjohndoe/BasicContactables,0.0,2014-11-27 15:58:56,"Sample project from the Android SDK under version control. - I use the ""master"" branch to import a new version of the sample project whenever a new API is published. Meanwhile the ""update-project-setup"" branch will be used to update the project for using in Android Studio.",0.0,Java,0.0,0.0,0.0,1.0,2014-11-27 16:03:41,0.0,7.0,0.0,0.0
+398,googlearchive,googlearchive/android-NavigationDrawer,afarber/android-questions,0.0,2014-09-09 14:13:06,Small projects for asking at Stackoverflow,18.0,Java,0.0,2.0,32.0,8.0,2022-03-10 10:44:31,32.0,375.0,0.0,2738.0
+399,googlearchive,googlearchive/android-NavigationDrawer,androidboss/NavigationDrawer,0.0,2016-04-18 09:40:17,自己的汉语注释版本,1.0,Java,0.0,0.0,1.0,0.0,2017-12-01 06:38:02,1.0,1.0,0.0,591.0
+400,googlearchive,googlearchive/android-NavigationDrawer,androidboss/SparseArrayTest,0.0,2016-06-16 09:20:41,test Android SparseArray,0.0,Java,0.0,0.0,0.0,0.0,2016-06-16 09:21:42,0.0,2.0,0.0,0.0
+401,googlearchive,googlearchive/android-NavigationDrawer,hustjs/AndroidPractice,0.0,2016-08-21 03:14:49,My Android Practice demo,0.0,Java,0.0,0.0,0.0,2.0,2016-08-21 04:04:42,0.0,12.0,0.0,0.0
+402,googlearchive,googlearchive/identity-toolkit-android,ameijer/NostalgiaApp,0.0,2017-02-25 16:55:10,An application that uses social video to tell stories ,0.0,Java,0.0,0.0,0.0,1.0,2017-02-25 17:00:18,0.0,2.0,0.0,0.0
+403,googlearchive,googlearchive/android-PdfRendererBasic,zfanji/UserManual-PdfRenderer,0.0,2016-05-20 07:08:21,,0.0,Java,0.0,0.0,0.0,1.0,2016-05-20 07:12:56,0.0,3.0,0.0,0.0
+404,googlearchive,googlearchive/android-MediaRouter,liqy/Hello-RxJava,0.0,2017-03-11 02:39:47,学习RxJava,0.0,Java,0.0,0.0,1.0,1.0,2017-03-14 11:10:13,1.0,20.0,0.0,3.0
+405,googlearchive,googlearchive/android-MediaRouter,vtchkn/android-BasicAccessibility,0.0,2019-05-08 18:15:56,,0.0,Java,0.0,0.0,0.0,2.0,2019-05-08 18:16:11,0.0,25.0,0.0,0.0
+406,googlearchive,googlearchive/android-RepeatingAlarm,yhdesai/BluetoothChat,0.0,2017-08-03 16:02:47,,0.0,Java,1.0,0.0,0.0,1.0,2017-08-03 16:03:03,0.0,23.0,0.0,0.0
+407,googlearchive,googlearchive/android-RepeatingAlarm,yhdesai/BorderlessButtons,0.0,2017-08-03 15:52:32,,0.0,Java,1.0,0.0,0.0,1.0,2017-08-03 15:52:46,0.0,22.0,0.0,0.0
+408,googlearchive,googlearchive/android-SlidingTabsColors,vojkovladimir/ZNU-Schedule,1.0,2015-01-03 21:22:18,,0.0,Java,0.0,1.0,1.0,3.0,2020-09-25 12:03:18,1.0,194.0,0.0,2091.0
+409,googlearchive,googlearchive/android-SlidingTabsColors,cherifyass/Smart-ebike,0.0,2015-02-10 14:30:01,,0.0,Java,0.0,0.0,0.0,9.0,2015-05-04 15:05:03,0.0,133.0,0.0,83.0
+410,googlearchive,googlearchive/android-SlidingTabsColors,pranavlathigara/ACN-Android-Framework,0.0,2016-03-18 13:32:11,An Android framework for rapid application development,0.0,Java,0.0,0.0,0.0,2.0,2020-05-09 16:25:33,0.0,90.0,0.0,1513.0
+411,googlearchive,googlearchive/android-SlidingTabsColors,jacobabrahamb4/android-source-codes,0.0,2016-07-15 06:18:12,,0.0,Java,0.0,0.0,0.0,1.0,2018-05-27 15:34:27,0.0,8.0,0.0,681.0
+412,googlearchive,googlearchive/android-SlidingTabsColors,iseegr8tfuldeadppl/TiabIsHard,0.0,2019-10-11 12:39:27,"Android cooking helper tool, plate suggestion according to available ingredients",0.0,Java,0.0,0.0,0.0,1.0,2020-02-29 20:50:29,0.0,3.0,0.0,141.0
+413,googlearchive,googlearchive/android-SwipeRefreshListFragment,morristech/coinbase-android,0.0,2013-03-05 08:23:44,Currently under development - coming soon!,63.0,Java,1.0,0.0,0.0,0.0,2015-05-31 00:18:36,0.0,157.0,0.0,816.0
+414,googlearchive,googlearchive/android-SwipeRefreshListFragment,morristech/LOLCode,0.0,2013-09-24 15:52:29,LOLCODE Interpreter app. This app has the LOLCodeInterpreter premade,0.0,Java,1.0,0.0,1.0,0.0,2016-02-01 08:47:11,1.0,3.0,0.0,859.0
+415,googlearchive,googlearchive/android-SwipeRefreshListFragment,droibit/AndroidWearSamples.Xamarin,0.0,2014-04-14 08:43:25,Android Wear PreviewサンプルのXamarin版,0.0,Java,0.0,0.0,0.0,2.0,2014-04-16 12:04:48,0.0,3.0,0.0,2.0
+416,googlearchive,googlearchive/android-SwipeRefreshListFragment,PanGuDaShen/Android-NiceTab-Ri,0.0,2017-07-19 07:19:08,没什么好说的喜欢拿去用,0.0,Java,0.0,0.0,0.0,2.0,2017-07-19 07:19:22,0.0,2.0,0.0,0.0
+417,googlearchive,googlearchive/android-SwipeRefreshListFragment,wgl0419/MarketTest,0.0,2020-11-18 03:26:39,,0.0,Java,0.0,0.0,0.0,2.0,2020-11-18 03:30:34,0.0,2.0,0.0,0.0
+418,googlearchive,googlearchive/android-SwipeRefreshListFragment,wgl0419/myQQ_Android,0.0,2018-04-19 07:43:47,Android的仿QQ的demo，主要是为了练习即时通信,0.0,Java,0.0,0.0,0.0,2.0,2021-01-31 12:10:40,0.0,6.0,0.0,1018.0
+419,googlearchive,googlearchive/android-TextLinkify,MariShunxiang/AndroidSamples,0.0,2016-08-13 06:45:16,AndroidSamples for sync,0.0,Java,0.0,0.0,2.0,0.0,2018-05-09 13:03:28,2.0,358.0,0.0,634.0
+420,googlearchive,googlearchive/android-MediaEffects,crossle/MediaPlayerSurface,0.0,2013-02-21 11:04:54,Use MediaPlayer and SurfaceTexture playback video,51.0,Java,0.0,2.0,112.0,10.0,2022-03-16 10:13:38,112.0,8.0,0.0,3309.0
+421,googlearchive,googlearchive/android-MediaEffects,ivoryworks/PGMA,0.0,2014-11-27 03:48:38,Proving Grounds of The M. A.,0.0,Java,2.0,16.0,0.0,1.0,2015-02-18 09:05:18,0.0,257.0,0.0,83.0
+422,googlearchive,googlearchive/android-MediaEffects,MaTriXy/Course-Exercises,0.0,2016-03-27 12:03:08,This will hold a few Android applications made as samples. ,0.0,Java,0.0,0.0,0.0,1.0,2016-03-27 12:07:33,0.0,7.0,0.0,0.0
+423,googlearchive,googlearchive/android-MediaEffects,GuiTom/sampleCode_Android_Opengl-ES-Book,0.0,2020-11-20 01:28:43,"the sampleCode of Androdi opengles book ,which is Android studio version",0.0,Java,0.0,0.0,0.0,2.0,2020-11-20 01:36:02,0.0,1.0,0.0,0.0
+424,googlearchive,googlearchive/android-CardView,hpsoar/AndroidDemos,0.0,2016-08-05 17:25:36,,0.0,Java,0.0,0.0,0.0,2.0,2016-08-05 19:35:21,0.0,16.0,0.0,0.0
+425,googlearchive,googlearchive/android-HdrViewfinder,uncannyRishabh/HdrViewfinder_ft._TextureView,0.0,2021-10-04 17:37:37,fork of HdrViewfinder implemented with textureView. And added suport for sdk 30,0.0,Java,0.0,0.0,0.0,1.0,2021-10-04 18:13:00,0.0,2.0,0.0,0.0
+426,googlearchive,googlearchive/android-MediaBrowserService,nazmulidris/mediasession-mediaplayer,0.0,2017-08-07 22:08:59,,0.0,Java,1.0,1.0,7.0,3.0,2022-01-09 22:44:33,7.0,56.0,0.0,1616.0
+427,googlearchive,googlearchive/android-MediaBrowserService,leejh3224/MediaPlayerAndroid,0.0,2018-09-08 05:35:11,"android media player based on ""android-MediaBrowserService""",1.0,Java,0.0,0.0,0.0,0.0,2020-04-23 20:37:55,0.0,2.0,0.0,593.0
+428,googlearchive,googlearchive/android-MediaBrowserService,wq316476051/Demo4Any,0.0,2018-09-15 03:42:11,测试代码,0.0,Java,0.0,0.0,0.0,0.0,2020-12-06 13:32:01,0.0,14.0,0.0,813.0
+429,googlearchive,googlearchive/android-MediaBrowserService,mitchtabian/Spotify-Clone,0.0,2018-12-11 04:27:32,"Audio streaming application with MediaBrowserServiceCompat, ExoPlayer and Firestore",67.0,Java,7.0,8.0,115.0,9.0,2022-02-26 16:44:15,115.0,8.0,0.0,1173.0
+430,googlearchive,googlearchive/android-MediaBrowserService,konatsup/MusicAppAndroid,0.0,2019-03-02 18:35:14,,0.0,Java,0.0,0.0,0.0,0.0,2019-03-18 06:50:02,0.0,41.0,0.0,15.0
+431,googlearchive,googlearchive/android-MediaBrowserService,Shubham7819/Application080719,0.0,2019-07-16 07:46:31,,0.0,Java,0.0,0.0,0.0,0.0,2019-09-17 14:06:20,0.0,21.0,0.0,63.0
+432,googlearchive,googlearchive/android-MediaBrowserService,KewenC/MediaMusic,0.0,2020-05-24 16:53:31,系统音乐通知栏实现,2.0,Java,0.0,0.0,2.0,2.0,2021-08-13 10:28:56,2.0,5.0,0.0,445.0
+433,googlearchive,googlearchive/android-FingerprintDialog,MaTriXy/AuthenticationExample,0.0,2015-09-28 10:52:02,Android Marshmallow Authentication Example,0.0,Java,0.0,0.0,0.0,1.0,2015-09-28 11:13:20,0.0,7.0,0.0,0.0
+434,googlearchive,googlearchive/android-FingerprintDialog,kaihavice/mynote,0.0,2018-06-19 08:45:13,笔记同步软件各平台代码集合,0.0,Java,0.0,0.0,0.0,2.0,2018-08-17 07:57:57,0.0,3.0,0.0,58.0
+435,googlearchive,googlearchive/android-FingerprintDialog,siddeshpillai/background-service,0.0,2018-05-07 01:05:35,,0.0,Java,0.0,0.0,0.0,1.0,2018-05-07 01:08:04,0.0,2.0,0.0,0.0
+436,spring-guides,spring-guides/tut-rest,afeiluo/web_spring_boot,0.0,2018-08-31 15:31:03,a wed app demo with spring boot,0.0,Java,0.0,0.0,0.0,2.0,2018-09-05 15:32:02,0.0,5.0,0.0,5.0
+437,spring-guides,spring-guides/tut-rest,RezaGholamzad/spring.io,0.0,2020-03-21 12:04:36,Examples of spring.io,0.0,Java,0.0,0.0,0.0,1.0,2020-10-08 10:39:40,0.0,29.0,0.0,200.0
+438,spring-guides,spring-guides/tut-rest,hankh0412/rest-jpa,0.0,2021-03-11 02:54:24,Test restful api and jpa ,0.0,Java,0.0,0.0,0.0,1.0,2021-03-13 11:19:26,0.0,5.0,0.0,2.0
+439,spring-guides,spring-guides/tut-rest,karolpawlak/springboot-REST-API,0.0,2020-03-11 13:51:40,REST API created with Spring boot for purposes of learning modern programming techniques.,0.0,Java,0.0,0.0,0.0,1.0,2022-03-04 11:40:12,0.0,5.0,0.0,722.0
+440,spring-guides,spring-guides/tut-rest,garzarobm/TTS8Weeks,0.0,2021-01-27 02:48:38,,0.0,Java,0.0,0.0,0.0,1.0,2021-12-30 23:17:45,0.0,24.0,0.0,337.0
+441,spring-guides,spring-guides/tut-rest,NawafSwe/Payroll,0.0,2021-07-20 17:51:05,,0.0,Java,0.0,0.0,0.0,1.0,2021-07-21 18:49:34,0.0,17.0,0.0,1.0
+442,spring-guides,spring-guides/tut-rest,NawafSwe/spring-boot,0.0,2021-01-01 13:18:28,first hands on spring to get experience with it. ,0.0,Java,0.0,0.0,0.0,1.0,2021-01-05 17:43:37,0.0,9.0,0.0,4.0
+443,spring-guides,spring-guides/tut-rest,escapin/spring-rest-service,0.0,2021-10-21 15:56:53,,0.0,Java,0.0,0.0,0.0,2.0,2021-11-08 11:01:06,0.0,16.0,0.0,17.0
+444,spring-guides,spring-guides/tut-rest,SatYu26/PayRoll-API,0.0,2022-02-06 21:11:29,"A simple payroll service that manages the employees of a company created using Spring Boot, H2 in-memory, JPA and Spring MVC layer",0.0,Java,0.0,0.0,0.0,1.0,2022-02-06 22:38:46,0.0,4.0,0.0,0.0
+445,googlearchive,googlearchive/android-Camera2Video,morristech/android-9358-app,0.0,2018-05-14 22:20:26,技师app,0.0,Java,0.0,0.0,0.0,0.0,2020-01-17 10:57:59,0.0,1352.0,0.0,612.0
+446,googlearchive,googlearchive/android-Camera2Video,dh06IRL/AgilCam-Android,0.0,2015-02-20 04:36:24,"App using the 5.0 screen recording API. DashCam-esk solution, using the camera, location services, and maps.",2.0,Java,1.0,0.0,7.0,4.0,2020-11-10 11:59:51,7.0,1.0,0.0,2090.0
+447,googlearchive,googlearchive/android-Camera2Video,kmturley/cordova-plugin-media-custom,0.0,2015-08-10 21:09:10,Custom Media Capture plugin overlays,10.0,Java,0.0,2.0,21.0,2.0,2020-04-14 18:06:47,21.0,23.0,0.0,1708.0
+448,googlearchive,googlearchive/android-Camera2Video,abhinav-adtechs/GDG-IWD-ServerSide,0.0,2016-03-07 07:05:20,Serverside-client of Piano app for IWD,0.0,Java,0.0,0.0,0.0,2.0,2016-03-07 07:15:06,0.0,2.0,0.0,0.0
+449,googlearchive,googlearchive/android-Camera2Video,abhinav-adtechs/PractoHackApp,0.0,2017-12-17 09:36:56,,0.0,Java,0.0,0.0,0.0,2.0,2017-12-17 09:37:50,0.0,2.0,0.0,0.0
+450,googlearchive,googlearchive/android-Camera2Video,abhinav-adtechs/RxMapFuncs,0.0,2016-06-05 07:31:37,,0.0,Java,0.0,0.0,0.0,2.0,2016-06-05 07:31:46,0.0,5.0,0.0,0.0
+451,googlearchive,googlearchive/android-Camera2Video,abhinav-adtechs/server-side-extended,0.0,2016-03-08 18:09:47,Extended,0.0,Java,0.0,0.0,0.0,2.0,2016-03-08 18:12:19,0.0,21.0,0.0,0.0
+452,googlearchive,googlearchive/android-Camera2Video,YoungLeeForeverBoy/nina,0.0,2016-02-17 07:18:35,bla bla bla...,0.0,Java,0.0,0.0,1.0,1.0,2016-02-17 07:20:05,1.0,130.0,0.0,0.0
+453,googlearchive,googlearchive/android-Camera2Video,abertschi/memory-lane,0.0,2016-09-16 22:25:26,Share life stories with videos 🎬,0.0,Java,0.0,0.0,1.0,5.0,2020-07-17 14:56:29,1.0,76.0,0.0,1399.0
+454,googlearchive,googlearchive/android-Camera2Video,xiaye13579/VideoRecorder,0.0,2016-10-12 08:54:00,A custom view that can record video,0.0,Java,0.0,0.0,1.0,0.0,2016-10-13 01:32:43,1.0,16.0,0.0,0.0
+455,googlearchive,googlearchive/android-Camera2Video,rahul-lohra/Selfie-App,0.0,2016-11-04 00:42:05,"A Selfie App, users can take photos & videos and can upload them",0.0,Java,0.0,0.0,0.0,2.0,2016-11-04 00:50:09,0.0,17.0,0.0,0.0
+456,googlearchive,googlearchive/android-Camera2Video,lizhifeng-sky/RecordVideo,0.0,2017-02-15 09:58:25,视频录制 以前在github上找的项目 稍微改了下 可以直接使用 demo是以module的形式引入比较方便,11.0,Java,3.0,0.0,43.0,1.0,2021-06-29 09:38:31,43.0,3.0,0.0,1594.0
+457,googlearchive,googlearchive/android-Camera2Video,lizhifeng-sky/VideoEdit,0.0,2017-03-23 10:33:28,mediamuxer视频录制 剪切 合成 ，音频 剪切 更换视频背景音乐,27.0,Java,3.0,0.0,99.0,4.0,2022-02-10 16:28:27,99.0,8.0,0.0,1785.0
+458,googlearchive,googlearchive/android-Camera2Video,MartinRGB/android_camera_experiment,0.0,2017-01-19 02:59:45,"Camera Experiment:Face Detection,Take Pictures,Capture Video.",3.0,Java,0.0,1.0,2.0,0.0,2017-03-22 10:43:18,2.0,8.0,0.0,62.0
+459,googlearchive,googlearchive/android-Camera2Video,hzbcdut/FlashLight,0.0,2017-01-13 08:21:00,,0.0,Java,0.0,0.0,0.0,0.0,2017-01-13 08:21:29,0.0,9.0,0.0,0.0
+460,googlearchive,googlearchive/android-Camera2Video,jitarun/material-camera-master,0.0,2018-03-05 06:14:32,init commit,3.0,Java,2.0,0.0,1.0,2.0,2018-08-20 09:33:22,1.0,12.0,0.0,168.0
+461,googlearchive,googlearchive/android-Camera2Video,AhmedNader65/Pro-autocue-Android-Teleprompter,0.0,2017-08-14 19:18:09,,2.0,Java,0.0,0.0,0.0,0.0,2017-08-14 19:47:48,0.0,3.0,0.0,0.0
+462,googlearchive,googlearchive/android-Camera2Video,JoeAndroid/ShortVideo,0.0,2018-03-06 04:38:50,,1.0,Java,0.0,0.0,0.0,2.0,2018-03-20 10:23:21,0.0,13.0,0.0,14.0
+463,googlearchive,googlearchive/android-Camera2Video,huyn/opencv,0.0,2017-02-07 10:30:57,opencv practice,0.0,Java,0.0,0.0,0.0,2.0,2017-02-07 10:56:23,0.0,12.0,0.0,0.0
+464,googlearchive,googlearchive/android-Camera2Video,action-hong/VideoAudioStudy,0.0,2018-06-08 09:28:23,video-audio-study,1.0,Java,0.0,0.0,1.0,1.0,2019-03-16 07:37:46,1.0,7.0,0.0,280.0
+465,googlearchive,googlearchive/android-Camera2Video,WangLavida/MediaDemo,0.0,2018-08-13 09:29:39,Android录制视频,0.0,Java,0.0,0.0,0.0,1.0,2018-08-13 09:33:19,0.0,2.0,0.0,0.0
+466,googlearchive,googlearchive/android-Camera2Video,zhaweijin/camera,0.0,2018-11-07 09:52:46,,0.0,Java,0.0,0.0,0.0,1.0,2018-11-07 09:53:12,0.0,27.0,0.0,0.0
+467,googlearchive,googlearchive/android-Camera2Video,LEEHOR/fanoftruck,0.0,2018-11-19 07:17:08,卡车之友2.0,1.0,Java,0.0,0.0,0.0,1.0,2019-04-16 09:24:36,0.0,45.0,0.0,148.0
+468,googlearchive,googlearchive/android-Camera2Video,LEEHOR/Three,0.0,2018-10-24 09:05:15,思锐第三方调查系统,0.0,Java,0.0,0.0,0.0,1.0,2018-10-25 07:15:26,0.0,2.0,0.0,0.0
+469,googlearchive,googlearchive/android-Camera2Video,thinkermsandi/uno-capture,0.0,2019-12-17 05:10:02,Android camera for the privacy minded,0.0,Java,0.0,0.0,0.0,1.0,2020-01-31 12:39:42,0.0,2.0,0.0,45.0
+470,googlearchive,googlearchive/android-Camera2Video,caiminjie/DualStreamDemo,0.0,2019-04-10 08:04:00,,0.0,Java,0.0,0.0,2.0,3.0,2019-09-17 09:01:08,2.0,7.0,0.0,160.0
+471,googlearchive,googlearchive/android-Camera2Video,yuqianglianshou/RecordVideoDemo,0.0,2019-05-23 08:18:22,小视频的拍摄预览，界面和功能靠拢微信。,0.0,Java,0.0,0.0,1.0,2.0,2021-01-26 02:04:48,1.0,2.0,0.0,613.0
+472,googlearchive,googlearchive/android-Camera2Video,LillteZheng/Camera,0.0,2019-05-26 23:37:53,,0.0,Java,0.0,0.0,0.0,1.0,2019-05-29 12:00:33,0.0,3.0,0.0,2.0
+473,googlearchive,googlearchive/android-Camera2Video,parsa-ra/camera2-sync-imu,0.0,2019-08-07 15:41:52,Capturing Video with IMU Information for Image post processing enhancements.,0.0,Java,0.0,0.0,1.0,1.0,2020-01-04 09:28:35,1.0,4.0,0.0,149.0
+474,googlearchive,googlearchive/android-Camera2Video,nansir/BaseCamera2,0.0,2018-07-28 01:12:23,Camera2基本照相,0.0,Java,0.0,0.0,0.0,2.0,2018-08-01 10:16:29,0.0,1.0,0.0,4.0
+475,googlearchive,googlearchive/android-Camera2Video,nansir/SuperCamera,0.0,2018-07-24 12:22:23,,0.0,Java,0.0,0.0,0.0,2.0,2018-07-24 12:23:28,0.0,1.0,0.0,0.0
+476,googlearchive,googlearchive/android-Camera2Video,nansir/WisdomSite,0.0,2020-04-07 14:49:34,智慧工地,0.0,Java,0.0,0.0,0.0,2.0,2020-07-08 02:35:45,0.0,57.0,0.0,91.0
+477,googlearchive,googlearchive/androidtv-Leanback,dextorer/BuildingForAndroidTV,0.0,2014-10-19 12:28:51,"Code for the ""Building for Android TV"" series of articles.",57.0,Java,12.0,6.0,101.0,11.0,2022-03-21 07:25:16,101.0,21.0,0.0,2709.0
+478,googlearchive,googlearchive/androidtv-Leanback,hitherejoe/AndroidTvBoilerplate,0.0,2016-02-13 15:12:27,Android TV Boilerplate Project,32.0,Java,1.0,2.0,186.0,7.0,2022-03-28 08:31:39,186.0,16.0,0.0,2234.0
+479,googlearchive,googlearchive/androidtv-Leanback,hitherejoe/PictureInPicturePlayground,0.0,2016-03-17 22:07:47,A playground for the new Android N Picture-in-Picture mode,10.0,Java,1.0,0.0,24.0,5.0,2019-11-09 05:19:17,24.0,3.0,0.0,1331.0
+480,googlearchive,googlearchive/androidtv-Leanback,kibotu/common.android.utils,1.0,2015-07-16 15:35:13,Common Android Ui Utilities,5.0,Java,0.0,2.0,13.0,2.0,2019-09-16 16:34:53,13.0,132.0,0.0,1523.0
+481,googlearchive,googlearchive/androidtv-Leanback,songwenju/AndroidTVStudy,0.0,2017-05-22 09:48:48,,0.0,Java,0.0,0.0,1.0,1.0,2017-05-22 11:11:17,1.0,6.0,0.0,0.0
+482,googlearchive,googlearchive/android-JobScheduler,brandhill/AndroidExample,0.0,2014-10-31 06:20:10,,0.0,Java,0.0,0.0,0.0,0.0,2014-10-31 06:20:18,0.0,1.0,0.0,0.0
+483,googlearchive,googlearchive/android-JobScheduler,wangyun137/BitmapCache,0.0,2015-01-27 10:24:11,BitmapCacheFromAndroidSample,0.0,Java,0.0,0.0,0.0,2.0,2015-01-27 10:27:17,0.0,3.0,0.0,0.0
+484,googlearchive,googlearchive/android-JobScheduler,TonyTangAndroid/SlidingTabsBasic,0.0,2014-09-05 15:14:38,SlidingTabsBasic,0.0,Java,0.0,0.0,0.0,2.0,2014-09-05 15:15:59,0.0,1.0,0.0,0.0
+485,googlearchive,googlearchive/android-JobScheduler,Leaking/Android_Learning_Demo,0.0,2015-10-28 09:21:32,A set of simple demos about android development.,0.0,Java,0.0,0.0,0.0,2.0,2015-10-28 09:31:13,0.0,2.0,0.0,0.0
+486,googlearchive,googlearchive/android-JobScheduler,owenlwg/AndroidProgramGuide,0.0,2015-12-31 17:02:44,some samples,0.0,Java,0.0,0.0,0.0,2.0,2016-02-18 17:04:42,0.0,10.0,0.0,49.0
+487,googlearchive,googlearchive/android-JobScheduler,ChenQingZhen/BluetoothProj,0.0,2016-07-21 06:45:56,Android office bluetooth and BLE example,0.0,Java,0.0,0.0,0.0,1.0,2016-07-21 06:47:10,0.0,1.0,0.0,0.0
+488,googlearchive,googlearchive/android-JobScheduler,ha271923/BluetoothBLEChat,0.0,2018-08-22 09:41:29,init,0.0,Java,0.0,0.0,0.0,1.0,2018-08-22 09:48:56,0.0,2.0,0.0,0.0
+489,googlearchive,googlearchive/android-JobScheduler,ha271923/MyBasicAppComponents,0.0,2016-03-16 09:59:54,A template for basic developer to learn.,1.0,Java,8.0,2.0,1.0,2.0,2020-12-08 10:43:11,1.0,399.0,0.0,1728.0
+490,googlearchive,googlearchive/android-JobScheduler,ainiyiwan/GoogleNotificationStudy,0.0,2018-06-01 09:15:27,谷歌官方Notification教程及demo学习,0.0,Java,0.0,0.0,0.0,1.0,2018-06-04 01:30:18,0.0,7.0,0.0,2.0
+491,googlearchive,googlearchive/android-JobScheduler,NatureDay/DisplayingBitmaps,0.0,2016-06-20 08:36:47,,0.0,Java,0.0,0.0,0.0,1.0,2016-06-20 08:37:22,0.0,1.0,0.0,0.0
+492,googlearchive,googlearchive/android-JobScheduler,iamliujie1023/myDemo,0.0,2017-11-06 09:32:30,,0.0,Java,0.0,0.0,0.0,0.0,2019-05-10 08:24:22,0.0,48.0,0.0,549.0
+493,googlearchive,googlearchive/android-JobScheduler,Ericliu001/PlaySyncAdapter,0.0,2015-03-10 06:59:17,Simple SyncAdapter with StubAccount and StubProvider,0.0,Java,0.0,0.0,0.0,1.0,2015-03-10 07:18:48,0.0,3.0,0.0,0.0
+494,googlearchive,googlearchive/android-JobScheduler,narakai/ConstraintLayoutExamples,0.0,2021-06-15 08:12:39,,0.0,Java,0.0,0.0,0.0,1.0,2021-06-15 08:14:03,0.0,249.0,0.0,0.0
+495,googlearchive,googlearchive/android-FloatingActionButtonBasic,vicmns/InboxLikeFabs,0.0,2014-12-08 18:27:42,A library that simulates the Google Inbox FAB behavior,0.0,Java,0.0,0.0,0.0,2.0,2014-12-20 02:02:52,0.0,13.0,0.0,11.0
+496,googlearchive,googlearchive/android-FloatingActionButtonBasic,vicmns/MaterialShowcaseView,0.0,2015-02-23 15:43:24,,0.0,Java,0.0,0.0,0.0,2.0,2015-02-23 15:46:42,0.0,3.0,0.0,0.0
+497,googlearchive,googlearchive/android-ActionBarCompat-ShareActionProvider,zaenury/android-ActionBarCompat-ShareActionProvider,0.0,2018-10-20 13:59:37,This resource from googlesamples/android-ActionBarCompat-ShareActionProvider with my development using android 3.2.1,0.0,Java,0.0,0.0,0.0,1.0,2018-10-21 00:36:44,0.0,6.0,0.0,0.0
+498,googlearchive,googlearchive/android-BluetoothLeGatt,seanpenney/senior_project,0.0,2014-10-08 20:10:39,Bluetooth HW Control Environment,1.0,Java,0.0,11.0,0.0,3.0,2015-05-08 19:29:45,0.0,101.0,0.0,211.0
+499,googlearchive,googlearchive/android-BluetoothLeGatt,androidroadies/My-Examples-Demo-,0.0,2016-05-20 10:12:58,,0.0,Java,0.0,0.0,0.0,1.0,2016-05-20 10:44:06,0.0,4.0,0.0,0.0
+500,googlearchive,googlearchive/android-BluetoothLeGatt,evan2048/Phantom2Vplus_Voicecontrol_AAT,0.0,2015-09-04 17:15:47,Phantom2Vplus_Voicecontrol_AAT,0.0,Java,0.0,0.0,0.0,1.0,2018-12-06 15:32:26,0.0,2.0,0.0,1188.0
+501,googlearchive,googlearchive/android-BluetoothLeGatt,Fakher-Hakim/android-BluetoothLeGatt,0.0,2015-08-06 13:11:10,"Based on google samples project on github, this project add write and to get indication features using the Bluetooth LE specification.",6.0,Java,0.0,1.0,19.0,2.0,2021-11-23 08:58:44,19.0,13.0,0.0,2300.0
+502,googlearchive,googlearchive/android-BluetoothLeGatt,gujiaogu/BluetoothLeDemo,0.0,2016-07-07 09:42:47,,0.0,Java,0.0,0.0,0.0,1.0,2016-07-07 09:43:26,0.0,3.0,0.0,0.0
+503,googlearchive,googlearchive/android-BluetoothLeGatt,Jiaxin-li/BLEController,0.0,2015-09-13 15:52:56,android controlling robot (Roomba or equivalence ) via Bluetooth or Bluetooth low energy ,0.0,Java,0.0,0.0,3.0,1.0,2021-01-25 02:14:24,3.0,31.0,0.0,1960.0
+504,googlearchive,googlearchive/android-BluetoothLeGatt,rohit-jain/pallette-app,0.0,2016-05-05 21:04:45,,0.0,Java,0.0,0.0,1.0,3.0,2016-05-10 03:23:07,1.0,9.0,0.0,4.0
+505,googlearchive,googlearchive/android-BluetoothLeGatt,lidong1665/Android-ble,0.0,2016-02-26 02:13:43,Android蓝牙4.0操作demo,105.0,Java,4.0,4.0,241.0,17.0,2022-03-28 17:26:50,241.0,11.0,0.0,2222.0
+506,googlearchive,googlearchive/android-BluetoothLeGatt,huxiaoqiao/MyBLE_Gatt,0.0,2016-08-08 13:06:16,安卓蓝牙低功耗扫描Demo,0.0,Java,0.0,0.0,0.0,1.0,2016-08-08 13:06:43,0.0,2.0,0.0,0.0
+507,googlearchive,googlearchive/android-BluetoothLeGatt,zhsh2980/BlueToothHeadphone,0.0,2016-08-25 06:42:17,"蓝牙连接,数据的读取,其中的协议需要修改为自己的.",1.0,Java,0.0,0.0,1.0,2.0,2016-08-25 06:44:04,1.0,1.0,0.0,0.0
+508,googlearchive,googlearchive/android-BluetoothLeGatt,xielipeng/LearAndroid,0.0,2016-12-25 09:25:54,,0.0,Java,0.0,0.0,0.0,2.0,2021-02-24 08:39:09,0.0,1.0,0.0,1521.0
+509,googlearchive,googlearchive/android-BluetoothLeGatt,hjh2881/BandTest,0.0,2017-09-04 12:46:43,,3.0,Java,0.0,0.0,1.0,1.0,2018-05-23 13:44:53,1.0,20.0,0.0,261.0
+510,googlearchive,googlearchive/android-BluetoothLeGatt,hjh2881/BluetoothTest,0.0,2017-08-15 16:30:35,,6.0,Java,2.0,0.0,6.0,1.0,2021-08-30 01:09:36,6.0,18.0,0.0,1475.0
+511,googlearchive,googlearchive/android-BluetoothLeGatt,pranavlathigara/BTLEUart,0.0,2016-11-23 12:15:17,Bluetooth low energy UART for Android,0.0,Java,0.0,0.0,2.0,3.0,2021-10-22 04:00:44,2.0,8.0,0.0,1793.0
+512,googlearchive,googlearchive/android-BluetoothLeGatt,a404318964/IntelligentGateTest,0.0,2017-07-05 06:50:20,,0.0,Java,0.0,0.0,0.0,1.0,2017-07-05 06:50:49,0.0,1.0,0.0,0.0
+513,googlearchive,googlearchive/android-BluetoothLeGatt,kevinvane/android_ble_gatt,0.0,2017-04-22 14:09:28,Google的蓝牙示例,0.0,Java,0.0,0.0,0.0,1.0,2017-04-22 14:15:27,0.0,4.0,0.0,0.0
+514,googlearchive,googlearchive/android-BluetoothLeGatt,beiying/FitManager,0.0,2017-06-12 10:38:54,运动健康管理,1.0,Java,0.0,0.0,1.0,1.0,2019-06-23 08:29:19,1.0,3.0,0.0,740.0
+515,googlearchive,googlearchive/android-BluetoothLeGatt,clawpo/haoqingDemo201702,0.0,2017-05-27 03:49:52,,2.0,Java,0.0,0.0,0.0,1.0,2017-05-27 03:50:25,0.0,13.0,0.0,0.0
+516,googlearchive,googlearchive/android-BluetoothLeGatt,AlexZhuo/Zhaoxuan,0.0,2017-05-18 15:56:21,,0.0,Java,0.0,0.0,0.0,0.0,2017-05-18 15:57:13,0.0,15.0,0.0,0.0
+517,googlearchive,googlearchive/android-BluetoothLeGatt,chris118/android-ble,0.0,2017-07-29 16:19:41,,0.0,Java,0.0,0.0,0.0,1.0,2017-11-02 06:29:00,0.0,8.0,0.0,95.0
+518,googlearchive,googlearchive/android-BluetoothLeGatt,chris118/android-ibeacon,0.0,2016-12-05 01:01:27,,0.0,Java,0.0,0.0,0.0,1.0,2017-11-02 06:28:35,0.0,10.0,0.0,332.0
+519,googlearchive,googlearchive/android-BluetoothLeGatt,ljpww72729/at-blink,0.0,2017-08-14 11:22:29,点灯,0.0,Java,0.0,1.0,0.0,1.0,2019-07-22 02:57:42,0.0,11.0,0.0,706.0
+520,googlearchive,googlearchive/android-BluetoothLeGatt,wangchang163/BleDemo,0.0,2017-08-29 02:35:04,蓝牙的权限申请，扫描，连接,0.0,Java,0.0,0.0,1.0,1.0,2017-09-11 02:47:29,1.0,5.0,0.0,13.0
+521,googlearchive,googlearchive/android-BluetoothLeGatt,Arudinne/Wrench-Mask-App,0.0,2017-09-09 20:28:17,App to control the NRF52 version of the Wrench Mask,0.0,Java,0.0,1.0,0.0,0.0,2017-09-09 21:06:57,0.0,18.0,0.0,0.0
+522,googlearchive,googlearchive/android-BluetoothLeGatt,NCookies/nRF_communication,0.0,2017-11-07 03:40:06,,0.0,Java,0.0,0.0,1.0,2.0,2017-11-09 02:37:09,1.0,3.0,0.0,1.0
+523,googlearchive,googlearchive/android-BluetoothLeGatt,FENG-MASTER/Temperaturer,0.0,2019-01-04 10:18:48,,0.0,Java,0.0,0.0,0.0,1.0,2019-02-18 09:24:48,0.0,8.0,0.0,44.0
+524,googlearchive,googlearchive/android-BluetoothLeGatt,wekingtan1991/BleDemo_6.0,0.0,2018-03-26 01:57:08,,0.0,Java,0.0,0.0,0.0,0.0,2018-03-26 03:03:27,0.0,2.0,0.0,0.0
+525,googlearchive,googlearchive/android-BluetoothLeGatt,gin-cc/HeartRate,0.0,2018-04-13 07:16:18,,0.0,Java,0.0,0.0,1.0,1.0,2019-05-29 09:28:00,1.0,8.0,0.0,411.0
+526,googlearchive,googlearchive/android-BluetoothLeGatt,BetterManLyl/MyApplication2,0.0,2017-12-15 05:55:24,测试上传jar包给别人依赖使用,0.0,Java,0.0,0.0,0.0,1.0,2017-12-15 05:55:51,0.0,10.0,0.0,0.0
+527,googlearchive,googlearchive/android-BluetoothLeGatt,nishu0f0/WirelessCameraConnector-Android,0.0,2019-04-11 14:55:04,,0.0,Java,0.0,0.0,0.0,2.0,2019-04-11 15:00:20,0.0,3.0,0.0,0.0
+528,googlearchive,googlearchive/android-BluetoothLeGatt,FireworkRaindrop/FireHelper,0.0,2015-09-08 08:27:45,Android知识百科全书，包括优秀的博客文章，设计模式，流行框架，UI ，常用外设，加解密，媒体，kotlin等等方面的整理,2.0,Java,0.0,1.0,11.0,3.0,2022-03-01 13:58:04,11.0,128.0,0.0,2366.0
+529,googlearchive,googlearchive/android-BluetoothLeGatt,zBlueBird/DarkBlue,0.0,2018-11-12 07:41:37,,0.0,Java,0.0,0.0,0.0,0.0,2018-11-18 06:33:56,0.0,8.0,0.0,5.0
+530,googlearchive,googlearchive/android-BluetoothLeGatt,zBlueBird/weather,0.0,2019-06-03 11:17:33,,0.0,Java,0.0,0.0,0.0,0.0,2019-06-03 11:26:43,0.0,1.0,0.0,0.0
+531,googlearchive,googlearchive/android-BluetoothLeGatt,HYVincent/BluetoothDemo,0.0,2017-09-21 07:36:09,,0.0,Java,0.0,0.0,0.0,1.0,2017-09-21 07:37:24,0.0,2.0,0.0,0.0
+532,googlearchive,googlearchive/android-BluetoothLeGatt,HYVincent/GoogleBleApi,0.0,2018-04-11 06:20:06,,0.0,Java,0.0,0.0,0.0,1.0,2018-04-11 06:21:53,0.0,2.0,0.0,0.0
+533,googlearchive,googlearchive/android-BluetoothLeGatt,Yasamanro/TheBreakingHand,0.0,2018-12-12 19:19:18,,0.0,Java,0.0,0.0,0.0,1.0,2019-01-06 05:18:13,0.0,22.0,0.0,24.0
+534,googlearchive,googlearchive/android-BluetoothLeGatt,yxuan1996/BlunoBasic5,0.0,2019-04-02 06:57:09,,0.0,Java,0.0,0.0,0.0,1.0,2019-04-18 18:23:55,0.0,4.0,0.0,16.0
+535,googlearchive,googlearchive/android-BluetoothLeGatt,chinajames/BluetoothSmart,0.0,2017-09-22 12:33:44,,0.0,Java,0.0,0.0,0.0,1.0,2017-09-22 12:34:31,0.0,4.0,0.0,0.0
+536,googlearchive,googlearchive/android-BluetoothLeGatt,ZhaoShuyin/ZsyAndroid,0.0,2019-05-21 00:48:30,自行学习Demo,0.0,Java,0.0,0.0,2.0,1.0,2021-04-20 03:23:56,2.0,15.0,0.0,700.0
+537,googlearchive,googlearchive/android-BluetoothLeGatt,durgeshtrivedi/BluetoothLE,0.0,2019-08-28 08:23:04,Bluetooth Low Energy Peripheral and Central app,0.0,Java,0.0,0.0,0.0,1.0,2019-08-28 09:16:08,0.0,6.0,0.0,0.0
+538,googlearchive,googlearchive/android-BluetoothLeGatt,CCCCCoco/Android-RoadRollerUpper,0.0,2019-11-08 12:42:43,,0.0,Java,0.0,0.0,0.0,1.0,2019-11-26 17:36:17,0.0,23.0,0.0,18.0
+539,googlearchive,googlearchive/android-BluetoothLeGatt,l1d000/AndroidBox,0.0,2018-04-13 03:34:04,,0.0,Java,0.0,0.0,0.0,2.0,2018-04-27 09:00:39,0.0,14.0,0.0,14.0
+540,googlearchive,googlearchive/android-BluetoothLeGatt,l1d000/CurrentBLEGatt,0.0,2018-03-28 08:34:44,,0.0,Java,0.0,0.0,0.0,2.0,2018-04-13 03:39:54,0.0,9.0,0.0,15.0
+541,googlearchive,googlearchive/android-CustomChoiceList,Leekyuhwa/android-CustomChoiceList-master,0.0,2015-05-29 09:52:37,,0.0,Java,0.0,0.0,1.0,1.0,2015-07-06 09:32:53,1.0,3.0,0.0,37.0
+542,googlearchive,googlearchive/android-CustomChoiceList,leerduo/ImmersiveMode,0.0,2015-07-01 13:03:39,All details see http://chenfuduo.me,0.0,Java,0.0,0.0,0.0,2.0,2015-07-01 13:07:38,0.0,2.0,0.0,0.0
+543,googlearchive,googlearchive/android-CustomChoiceList,leerduo/MyDragLayout,0.0,2015-07-14 12:35:44,MyDragLayout,4.0,Java,0.0,0.0,15.0,3.0,2019-05-29 05:18:35,15.0,3.0,0.0,1414.0
+544,googlearchive,googlearchive/android-CustomChoiceList,leerduo/OfficialSwipeRefreshLayout,0.0,2015-06-26 14:15:36,OfficialSwipeRefreshLayout,0.0,Java,0.0,0.0,0.0,2.0,2015-06-26 14:24:35,0.0,2.0,0.0,0.0
+545,googlearchive,googlearchive/android-CustomChoiceList,leerduo/RecyclerViewDemo,0.0,2015-10-15 17:00:25,,0.0,Java,0.0,0.0,0.0,2.0,2015-10-15 17:01:44,0.0,1.0,0.0,0.0
+546,googlearchive,googlearchive/android-CustomChoiceList,leerduo/thinking,0.0,2015-06-18 15:36:32,,4.0,Java,0.0,0.0,1.0,2.0,2019-03-18 02:56:00,1.0,33.0,0.0,1368.0
+547,googlearchive,googlearchive/android-CustomChoiceList,therajanmaurya/Networking-Tool,0.0,2015-09-20 16:32:47,Android Networking-Tool,1.0,Java,0.0,0.0,2.0,0.0,2017-12-24 00:12:05,2.0,18.0,0.0,825.0
+548,googlearchive,googlearchive/android-HorizontalPaging,morristech/GapTap,0.0,2013-10-16 13:41:45,"My ""GapTap"" app for HackedIO",0.0,Java,0.0,0.0,0.0,0.0,2015-02-27 12:44:51,0.0,4.0,0.0,498.0
+549,googlearchive,googlearchive/android-NetworkConnect,vmanja16/Ticker,0.0,2017-11-21 08:28:57,Small Android Application to check price of a given ticker symbol.,0.0,Java,0.0,0.0,0.0,1.0,2018-12-02 21:09:11,0.0,7.0,0.0,376.0
+550,googlearchive,googlearchive/android-NetworkConnect,Anplus/COMP4342,0.0,2018-03-01 13:38:12,,0.0,Java,0.0,0.0,0.0,2.0,2018-03-22 06:47:46,0.0,10.0,0.0,20.0
+551,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,aaaliua/News-Material-Design,0.0,2014-11-03 11:47:01,,0.0,Java,0.0,0.0,0.0,2.0,2015-01-08 04:13:44,0.0,24.0,0.0,65.0
+552,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,aaaliua/project_open,0.0,2014-12-22 01:30:44,,0.0,Java,0.0,0.0,3.0,2.0,2016-12-18 05:45:25,3.0,3.0,0.0,727.0
+553,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,chentao0707/SimplifyReader,0.0,2015-08-17 08:22:53,一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！,1655.0,Java,41.0,58.0,4576.0,255.0,2022-03-28 17:28:58,4576.0,46.0,0.0,2415.0
+554,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,shts/KeyakiFeed,0.0,2015-11-30 14:54:59,keyakizaka46 blog reader,1.0,Java,6.0,17.0,2.0,2.0,2021-01-03 18:59:31,2.0,149.0,0.0,1861.0
+555,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,shts/NogiFeed,0.0,2014-08-10 14:58:57,nogizaka46 blog rss reader,9.0,Java,7.0,10.0,7.0,2.0,2020-11-01 13:29:57,7.0,259.0,0.0,2274.0
+556,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,ksy5662/abs_vpi,0.0,2012-08-31 02:11:37,actionbarsherlock + viewpagerindicator,3.0,Java,0.0,0.0,1.0,2.0,2013-10-04 22:44:16,1.0,1.0,0.0,399.0
+557,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,pandabo1985/OpenSource_Study,0.0,2014-04-05 04:23:04,,0.0,Java,0.0,0.0,1.0,1.0,2014-07-02 01:56:47,1.0,14.0,0.0,87.0
+558,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,eclipsegst/we-tweet,0.0,2016-08-15 02:51:37,,0.0,Java,1.0,0.0,0.0,2.0,2019-01-19 01:54:59,0.0,6.0,0.0,886.0
+559,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,fuqiang915/xkjdemos,0.0,2014-10-17 01:59:37,,0.0,Java,0.0,0.0,0.0,1.0,2016-06-08 13:05:14,0.0,5.0,0.0,600.0
+560,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,android-cjj/EasyView,0.0,2015-05-08 01:21:52,A simple view like cardView,4.0,Java,0.0,0.0,11.0,3.0,2019-06-05 11:57:55,11.0,4.0,0.0,1489.0
+561,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,kingslou/ItsNew,0.0,2015-03-23 01:57:18,jsoup学习,0.0,Java,0.0,0.0,0.0,1.0,2015-03-23 09:11:00,0.0,7.0,0.0,0.0
+562,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,jozn/iGap-Android,0.0,2017-02-20 21:04:04,Source code of iGap Messenger for Android ,0.0,Java,0.0,0.0,1.0,2.0,2021-07-02 21:33:42,1.0,2.0,0.0,1593.0
+563,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,HolenZhou/PullRecyclerView,0.0,2016-12-26 07:48:40,简单实用的Android下拉刷新和上拉加载控件PullRecyclerView,3.0,Java,1.0,0.0,29.0,3.0,2022-02-22 15:11:59,29.0,17.0,0.0,1884.0
+564,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,GinRyan/MySnippetRepo,0.0,2012-11-16 10:37:25,零零碎碎的代码碎片,28.0,Java,0.0,0.0,33.0,7.0,2018-09-25 06:42:18,33.0,46.0,0.0,2138.0
+565,googlearchive,googlearchive/android-SwipeRefreshMultipleViews,Sogrey/SogreyLib,0.0,2018-08-01 11:02:57,自用框架（正在完善中....）,0.0,Java,0.0,0.0,0.0,2.0,2018-10-17 09:21:22,0.0,9.0,0.0,76.0
+566,googlearchive,googlearchive/android-BluetoothChat,fanntone/BluetoothChat,0.0,2015-01-27 09:24:38,Form android studio,1.0,Java,0.0,0.0,0.0,0.0,2015-01-27 09:24:55,0.0,1.0,0.0,0.0
+567,googlearchive,googlearchive/android-BluetoothChat,BruceHurrican/studydemo,0.0,2015-09-11 17:52:39,"自己用的学习笔记,personal study demo",0.0,Java,0.0,0.0,0.0,1.0,2015-09-13 03:34:02,0.0,90.0,0.0,1.0
+568,googlearchive,googlearchive/android-BluetoothChat,noirmist/Bluetooth-Sensor-Transmitter,0.0,2016-07-16 22:44:28,,0.0,Java,0.0,0.0,0.0,1.0,2016-07-16 23:10:10,0.0,8.0,0.0,0.0
+569,googlearchive,googlearchive/android-BluetoothChat,xinyer/blechat-lib,0.0,2017-12-15 08:21:01,,2.0,Java,0.0,1.0,0.0,2.0,2017-12-15 08:22:57,0.0,7.0,0.0,0.0
+570,googlearchive,googlearchive/android-BluetoothChat,prashant31191/Android-SqlLite,0.0,2017-12-15 05:19:40,,0.0,Java,0.0,0.0,1.0,1.0,2018-07-06 14:46:50,1.0,19.0,0.0,203.0
+571,googlearchive,googlearchive/android-BluetoothChat,AndroidWuXiang/BluetoothChat,0.0,2016-10-27 13:07:05,Communication between Bluetooth,0.0,Java,0.0,0.0,0.0,1.0,2016-10-27 13:07:13,0.0,3.0,0.0,0.0
+572,googlearchive,googlearchive/android-BluetoothChat,zhiaixinyang/BlogStudy,0.0,2017-12-12 00:14:33,,0.0,Java,0.0,0.0,0.0,1.0,2017-12-12 00:15:00,0.0,24.0,0.0,0.0
+573,googlearchive,googlearchive/android-BluetoothChat,treason258/TreLibrary,0.0,2016-08-01 08:31:08,项目集：根据需求写的一些小DEMO，以及基于网上开源项目的二次开发,0.0,Java,8.0,2.0,0.0,1.0,2021-10-15 07:30:19,0.0,611.0,0.0,1900.0
+574,googlearchive,googlearchive/android-BluetoothChat,nitesh2104/DataDashboard,0.0,2017-01-05 03:10:16,Android Dashboard to Display the graphs generated using the sample data obtained by self rotating solar panels,0.0,Java,0.0,0.0,1.0,1.0,2019-02-03 22:25:07,1.0,38.0,0.0,759.0
+575,googlearchive,googlearchive/android-BluetoothChat,rookielord/TestProject,0.0,2015-08-26 06:41:09,,0.0,Java,0.0,0.0,0.0,1.0,2015-08-26 06:42:33,0.0,21.0,0.0,0.0
+576,googlearchive,googlearchive/android-BluetoothChat,akashjpro/TestBluetooth,0.0,2017-08-27 23:20:22,TestBluetooth,0.0,Java,0.0,0.0,0.0,0.0,2017-08-27 23:20:47,0.0,4.0,0.0,0.0
+577,googlearchive,googlearchive/android-BluetoothChat,CristianoLi/BluetoothTest,0.0,2018-02-01 03:47:50,蓝牙通讯，WiFi连接,1.0,Java,0.0,0.0,3.0,1.0,2021-04-09 13:40:25,3.0,5.0,0.0,1163.0
+578,googlearchive,googlearchive/android-BluetoothChat,dk000000000/Veeb,0.0,2018-01-26 02:37:50,,0.0,Java,0.0,22.0,0.0,2.0,2019-10-24 17:23:32,0.0,63.0,0.0,636.0
+579,googlearchive,googlearchive/android-BluetoothChat,ZHBoy/bluetooth,0.0,2018-04-02 09:42:42,蓝牙点对点聊天功能，蓝牙搜索、连接、通信,0.0,Java,0.0,0.0,3.0,2.0,2019-11-15 09:36:43,3.0,1.0,0.0,591.0
+580,googlearchive,googlearchive/android-BluetoothChat,djoly42/android-chat-bluetooth,0.0,2018-04-01 22:52:54,android-bluetooth-connection-example,0.0,Java,0.0,0.0,0.0,1.0,2020-01-16 13:36:49,0.0,3.0,0.0,654.0
+581,googlearchive,googlearchive/android-BluetoothChat,djoly42/car-android-app-panel,0.0,2018-04-01 23:00:27,projet parrot panel side,1.0,Java,0.0,0.0,0.0,3.0,2020-01-16 13:36:49,0.0,12.0,0.0,654.0
+582,googlearchive,googlearchive/android-BluetoothChat,djoly42/road-sign-detection,0.0,2018-04-06 07:49:07,android app,2.0,Java,0.0,0.0,6.0,5.0,2021-05-26 09:06:03,6.0,27.0,0.0,1146.0
+583,googlearchive,googlearchive/android-BluetoothChat,konatsup/AndroidRPG,0.0,2018-04-21 10:20:32,,0.0,Java,0.0,0.0,0.0,0.0,2018-07-03 13:38:54,0.0,30.0,0.0,73.0
+584,googlearchive,googlearchive/android-BluetoothChat,liuzhao1006/Bluetoothss,0.0,2020-08-03 15:14:05,,0.0,Java,0.0,0.0,0.0,1.0,2020-08-03 15:14:44,0.0,1.0,0.0,0.0
+585,googlearchive,googlearchive/android-BluetoothChat,cereuz/android-BluetoothChat,0.0,2018-06-11 06:45:52,used  Google  Demo,0.0,Java,0.0,0.0,0.0,1.0,2018-06-11 07:02:01,0.0,1.0,0.0,0.0
+586,googlearchive,googlearchive/android-BluetoothChat,Traceless2016/BluetoothCarDemo,0.0,2018-04-26 00:26:18,这是一个蓝牙小车的控制界面，未来将不仅仅控制蓝牙小车，它将拥有更多的功能！！,0.0,Java,0.0,0.0,1.0,0.0,2018-05-24 06:07:12,1.0,2.0,0.0,28.0
+587,googlearchive,googlearchive/android-BluetoothChat,hendrawd/drag-fast-scroller-test,0.0,2017-06-19 08:38:28,,0.0,Java,0.0,0.0,0.0,1.0,2017-06-19 08:42:26,0.0,3.0,0.0,0.0
+588,googlearchive,googlearchive/android-BluetoothChat,bloomlj/wildrobot,0.0,2013-07-18 11:35:50,wildrobot,0.0,Java,0.0,0.0,2.0,1.0,2021-09-27 08:51:15,2.0,5.0,0.0,2992.0
+589,googlearchive,googlearchive/android-BluetoothChat,taynanbonaldo/WrappedBluetoothMessage,0.0,2018-10-05 16:16:52,Android-BluetoothChat sample wrapped to a library for purpose to simplify message exchange between devices over bluetooth. ,1.0,Java,0.0,0.0,0.0,1.0,2019-03-25 19:36:45,0.0,25.0,0.0,171.0
+590,googlearchive,googlearchive/android-BluetoothChat,MrXiong/BluetoothChat,0.0,2019-07-16 11:58:11,Android 蓝牙聊天，官网demo保存一波，权限申请暂忽略，正式项目6.0+的需要加权限申请,2.0,Java,0.0,0.0,0.0,1.0,2021-03-04 15:51:53,0.0,4.0,0.0,597.0
+591,googlearchive,googlearchive/android-BluetoothChat,MrXiong/ISocket,0.0,2019-08-05 10:52:16,https://blog.csdn.net/wenzhi20102321/article/details/52620323 (简易单人多人聊天),0.0,Java,0.0,0.0,0.0,2.0,2019-08-12 04:31:57,0.0,3.0,0.0,6.0
+592,googlearchive,googlearchive/android-BluetoothChat,xsthunder/dog-watcher-dog,0.0,2018-12-18 02:28:27,,0.0,Java,0.0,0.0,0.0,1.0,2019-01-06 13:36:17,0.0,33.0,0.0,19.0
+593,googlearchive,googlearchive/android-BluetoothChat,xsthunder/dog-watcher-owner,0.0,2018-12-18 02:30:08,,0.0,Java,0.0,0.0,0.0,1.0,2018-12-26 05:34:14,0.0,28.0,0.0,8.0
+594,googlearchive,googlearchive/android-BluetoothChat,manniru/IGRWalletPrinter,0.0,2020-11-20 11:19:14,IGR Wallet Blutooth Printer,0.0,Java,0.0,0.0,1.0,1.0,2022-02-01 17:57:42,1.0,2.0,0.0,438.0
+595,googlearchive,googlearchive/android-BluetoothChat,samfoucart/BluetoothConnectionDemo,0.0,2019-04-07 00:58:34,Demo of Bluetooth Connectivity while app doesn't listen,0.0,Java,0.0,0.0,0.0,0.0,2019-04-09 05:41:34,0.0,2.0,0.0,2.0
+596,googlearchive,googlearchive/android-BluetoothChat,samfoucart/oueecs_SpectralDataViewer,0.0,2019-04-07 00:50:49,This application is used to collect data from the service running on a raspberry pi connected to a USB2000 spectrometer.,1.0,Java,0.0,0.0,1.0,1.0,2020-11-27 04:38:58,1.0,47.0,0.0,600.0
+597,googlearchive,googlearchive/android-BluetoothChat,zhu-dev/ClassicBluetooth,0.0,2019-05-14 05:28:40,ClassicBluetooth Demo,0.0,Java,0.0,0.0,0.0,1.0,2019-05-15 09:13:01,0.0,1.0,0.0,1.0
+598,googlearchive,googlearchive/android-BluetoothChat,vlzware/AKAD_BEDEN,0.0,2018-09-13 04:47:35,Assignments und andere Arbeiten zum Studium,0.0,Java,0.0,0.0,0.0,1.0,2021-11-15 08:02:26,0.0,33.0,0.0,1159.0
+599,googlearchive,googlearchive/android-BluetoothChat,weimingtom/ohwada,0.0,2015-11-19 19:45:08,Automatically exported from code.google.com/p/ohwada,0.0,Java,0.0,0.0,0.0,0.0,2015-11-19 19:48:37,0.0,125.0,0.0,0.0
+600,googlearchive,googlearchive/android-BluetoothChat,why2/bluetooth,0.0,2019-09-11 09:01:11,google bluetooth chat,0.0,Java,0.0,0.0,0.0,2.0,2019-09-11 09:05:16,0.0,18.0,0.0,0.0
+601,googlearchive,googlearchive/android-MessagingService,prashant31191/tcpip-android,0.0,2017-06-05 11:09:50,,0.0,Java,0.0,0.0,0.0,1.0,2017-06-05 12:18:26,0.0,20.0,0.0,0.0
+602,googlearchive,googlearchive/android-MessagingService,andrewpedia/android-MessagingService,0.0,2021-12-06 06:26:38,,0.0,Java,0.0,0.0,0.0,1.0,2021-12-06 06:30:07,0.0,31.0,0.0,0.0
+603,googlearchive,googlearchive/android-nearby,pjwelcome/GDGBeacons,0.0,2017-01-10 21:44:29,Demo of how to use the Nearby API Android,3.0,Java,0.0,0.0,6.0,1.0,2019-11-22 14:48:39,6.0,7.0,0.0,1045.0
+604,googlearchive,googlearchive/android-nearby,twhetzel/android-nearby,0.0,2016-02-10 18:49:25,Sample code from https://github.com/googlesamples/android-nearby to test the Nearby API.,0.0,Java,0.0,0.0,0.0,1.0,2016-02-10 19:02:10,0.0,2.0,0.0,0.0
+605,googlearchive,googlearchive/android-nearby,adithya321/Nearby-Playground,0.0,2017-02-01 21:27:50,,0.0,Java,0.0,0.0,0.0,1.0,2017-02-01 23:33:23,0.0,5.0,0.0,0.0
+606,googlearchive,googlearchive/android-nearby,daviek19/connections,0.0,2017-11-30 19:43:29,,0.0,Java,0.0,0.0,0.0,0.0,2017-11-30 19:47:32,0.0,2.0,0.0,0.0
+607,googlearchive,googlearchive/android-nearby,m3ftah/NearbyTest,0.0,2018-02-13 10:38:31,Testing Android Nearby P2P connections,0.0,Java,0.0,0.0,1.0,2.0,2021-07-04 21:42:19,1.0,18.0,0.0,1237.0
+608,googlearchive,googlearchive/android-nearby,zossli/nearby-sender,0.0,2017-12-03 17:09:25,,0.0,Java,0.0,2.0,0.0,1.0,2018-01-15 10:56:33,0.0,32.0,0.0,42.0
+609,googlearchive,googlearchive/android-nearby,ConnerV42/wifi-direct-android-communication,0.0,2019-10-07 03:21:55,Off the grid communication and file sharing Android mobile application written in Java that uses bluetooth and Wi-Fi Direct technology to create a mesh network,3.0,Java,1.0,0.0,4.0,4.0,2022-02-26 13:30:45,4.0,228.0,0.0,873.0
+610,googlearchive,googlearchive/android-nearby,andresgarbio/Smokio,0.0,2020-01-19 19:19:30,,0.0,Java,0.0,0.0,0.0,1.0,2020-01-26 12:20:24,0.0,4.0,0.0,6.0
+611,googlearchive,googlearchive/android-nearby,andresgarbio/Smokio-user,0.0,2020-01-26 11:31:23,USer version for the Smokio App,0.0,Java,0.0,0.0,0.0,2.0,2020-01-30 06:02:00,0.0,30.0,0.0,3.0
+612,googlearchive,googlearchive/android-BeamLargeFiles,JoshuaWongCHN/DragAndDropDemo,0.0,2019-02-24 11:28:30,,0.0,Java,0.0,0.0,0.0,2.0,2019-02-24 12:33:02,0.0,3.0,0.0,0.0
+613,googlearchive,googlearchive/android-BluetoothAdvertisements,rogerlsmith/BluetoothAdvertisements,0.0,2017-04-22 02:41:09,Google Sample,0.0,Java,0.0,0.0,0.0,1.0,2017-04-22 02:55:59,0.0,3.0,0.0,0.0
+614,googlearchive,googlearchive/android-BluetoothAdvertisements,itanbp/android-ble-peripheral-central,0.0,2018-01-28 12:10:23,Android Bluetooth Low Energy (BLE)  communication between server/peripheral to client/central sample,5.0,Java,0.0,0.0,7.0,2.0,2021-12-29 04:42:40,7.0,17.0,0.0,1430.0
+615,googlearchive,googlearchive/android-FingerprintDialog,wangxiongtao/Dawn,0.0,2017-08-02 05:25:09,,0.0,Java,0.0,0.0,0.0,0.0,2018-09-16 09:31:10,0.0,12.0,0.0,410.0
+616,googlearchive,googlearchive/android-FingerprintDialog,kylecheng3146/Whot,0.0,2017-09-23 13:18:21,"Base on the MVP pattern , RxJava+RxAndroid+Retrofit+UNIT TEST + UI TEST + CI .",0.0,Java,0.0,1.0,3.0,2.0,2021-12-22 07:25:12,3.0,73.0,0.0,1550.0
+617,googlearchive,googlearchive/android-FingerprintDialog,Sogrey/TSD,0.0,2017-03-20 06:30:10,:dog: Toast Snackbar Dialog Log,0.0,Java,0.0,0.0,0.0,2.0,2019-04-29 03:27:05,0.0,17.0,0.0,769.0
+618,googlearchive,googlearchive/android-FingerprintDialog,Ritesh-Kumar-4946/cairodock,0.0,2017-12-22 04:50:27,API,0.0,Java,0.0,0.0,0.0,2.0,2017-12-22 04:59:06,0.0,2.0,0.0,0.0
+619,googlearchive,googlearchive/android-FingerprintDialog,yangfeng1994/Android-FingerprintVerify,0.0,2018-12-19 09:13:41,🔥全网最简单方便的Android手机指纹验证与密码锁验证项目，使用极其简单的链式调用方法来获取指纹验证的实例，本库持续更新，将来准备引入更多的生物识别功能呢。,4.0,Java,2.0,3.0,42.0,0.0,2022-01-06 06:54:49,42.0,31.0,0.0,1113.0
+620,googlearchive,googlearchive/android-FingerprintDialog,AdamDomagalsky/keePassFingerPrint,0.0,2018-12-03 20:37:09,,0.0,Java,0.0,0.0,0.0,0.0,2018-12-03 20:57:01,0.0,2.0,0.0,0.0
+621,googlearchive,googlearchive/android-RuntimePermissions,YTXQOX/QRCode,0.0,2016-11-10 03:03:08,QRCode lib & demo,0.0,Java,0.0,0.0,1.0,1.0,2019-08-20 07:16:08,1.0,35.0,0.0,1013.0
+622,googlearchive,googlearchive/android-RuntimePermissions,liqy/QRCodeApp,0.0,2017-08-12 03:36:00,二维码扫描,0.0,Java,0.0,0.0,0.0,1.0,2017-08-12 03:36:27,0.0,2.0,0.0,0.0
+623,googlearchive,googlearchive/android-RuntimePermissions,firefly1126/android_permission_aspectjx,0.0,2016-05-18 06:19:23,A AOP library that process Android M permissions with aspectjx.,63.0,Java,6.0,1.0,347.0,14.0,2022-03-01 06:32:44,347.0,6.0,0.0,2113.0
+624,googlearchive,googlearchive/android-RuntimePermissions,yixiaolunhui/AndroidScanQRcode,0.0,2016-11-02 09:34:27,android扫描二维码,1.0,Java,0.0,0.0,15.0,1.0,2018-10-29 17:11:20,15.0,5.0,0.0,726.0
+625,googlearchive,googlearchive/android-RuntimePermissions,GinRyan/DakraZxing,0.0,2016-05-25 02:26:15,二维码扫描,0.0,Java,0.0,0.0,0.0,2.0,2018-05-19 15:25:31,0.0,10.0,0.0,724.0
+626,googlearchive,googlearchive/android-RuntimePermissions,hustjs/PermissionRequestDemo,0.0,2016-09-04 11:28:44,Android 6.0 Requesting Permissions Demo,0.0,Java,0.0,0.0,0.0,2.0,2016-09-04 11:34:32,0.0,9.0,0.0,0.0
+627,googlearchive,googlearchive/android-RuntimePermissions,wzqjava/WzqTest,0.0,2018-11-22 03:46:57,"android 常用技术积累,里面有几十个小demo,都是面试需要掌握的技术点",0.0,Java,0.0,0.0,1.0,1.0,2021-06-11 08:10:22,1.0,36.0,0.0,932.0
+628,googlearchive,googlearchive/android-RuntimePermissions,HotBloodMan/First,0.0,2017-09-18 09:45:55,,0.0,Java,0.0,0.0,0.0,1.0,2017-09-18 09:47:26,0.0,3.0,0.0,0.0
+629,googlearchive,googlearchive/android-RuntimePermissions,Coder-DanielHan/AndroidTrainingSample,0.0,2018-01-15 03:18:27,,0.0,Java,0.0,0.0,0.0,2.0,2018-01-15 03:19:24,0.0,2.0,0.0,0.0
+630,googlearchive,googlearchive/android-RuntimePermissions,shuijilove/ZXingCodeDemo,0.0,2017-05-08 05:33:31,基于zxing的二维码扫描，速度快，界面美观，可以自定义,8.0,Java,0.0,0.0,37.0,3.0,2021-11-28 15:15:58,37.0,5.0,0.0,1665.0
+631,googlearchive,googlearchive/android-RuntimePermissions,wangrling/approjects,0.0,2018-12-01 11:34:27,App projects,0.0,Java,0.0,0.0,1.0,1.0,2019-04-22 08:36:38,1.0,39.0,0.0,141.0
+632,googlearchive,googlearchive/android-ActiveNotifications,hzh-romens/Health,0.0,2017-06-15 02:59:49,,0.0,Java,0.0,0.0,0.0,1.0,2017-06-15 03:27:43,0.0,739.0,0.0,0.0
+633,googlearchive,googlearchive/android-DirectShare,Piashsarker/DirectShareForMarshmallow,0.0,2016-12-24 21:25:49,Driect Share Option For Marshmallow Device. Minimum Api Level 21,0.0,Java,0.0,0.0,0.0,2.0,2016-12-24 21:30:14,0.0,1.0,0.0,0.0
+634,googlearchive,googlearchive/android-DirectShare,mohanrajsambath/android-DirectShare-1,0.0,2018-12-14 07:25:37,,0.0,Java,0.0,0.0,0.0,1.0,2019-02-06 05:38:00,0.0,12.0,0.0,53.0
+635,googlearchive,googlearchive/android-MidiSynth,philburk/android-midisuite,0.0,2015-10-13 22:51:38,Android MIDI test programs and examples.,47.0,Java,12.0,60.0,122.0,11.0,2022-03-20 19:52:29,122.0,95.0,0.0,2349.0
+636,googlearchive,googlearchive/android-MidiSynth,kshoji/Android-MIDI-API-backports,0.0,2015-05-29 03:17:01,Android M's MIDI API backporting for older Android,1.0,Java,1.0,0.0,3.0,4.0,2019-07-12 15:34:34,3.0,4.0,0.0,1505.0
+637,googlearchive,googlearchive/android-AsymmetricFingerprintDialog,caojunJackson/LockLibs,0.0,2017-04-12 08:19:48,this is a lock library,0.0,Java,0.0,0.0,1.0,1.0,2017-04-12 08:20:25,1.0,1.0,0.0,0.0
+638,googlearchive,googlearchive/android-AsymmetricFingerprintDialog,goghtsui/GankTea,0.0,2017-01-06 09:51:07,GankTea,0.0,Java,0.0,0.0,0.0,1.0,2017-01-06 10:12:14,0.0,12.0,0.0,0.0
+639,googlearchive,googlearchive/android-MultiWindowPlayground,androidmalin/DisplayingBitmaps,0.0,2016-04-30 08:42:28,A mirror of google training displaying-bitmaps sample,0.0,Java,0.0,0.0,3.0,0.0,2016-05-03 00:44:17,3.0,2.0,0.0,2.0
+640,googlearchive,googlearchive/android-MultiWindowPlayground,Loic83/multiWindow-Api24,0.0,2016-09-29 12:34:58,,0.0,Java,0.0,0.0,0.0,2.0,2016-09-29 12:35:12,0.0,4.0,0.0,0.0
+641,googlearchive,googlearchive/android-MultiWindowPlayground,xiaoyangperfect/DisplayingBitmaps,0.0,2017-01-24 08:47:01,,0.0,Java,0.0,0.0,0.0,1.0,2017-01-24 08:50:35,0.0,1.0,0.0,0.0
+642,googlearchive,googlearchive/android-AccelerometerPlay,garrettwong/Android-BallSim,0.0,2017-07-16 17:49:34,Android Ball Sim and Cup,0.0,Java,0.0,0.0,0.0,1.0,2017-07-16 17:51:31,0.0,2.0,0.0,0.0
+643,googlearchive,googlearchive/android-AccelerometerPlay,garrettwong/Android_PenguinFeeder,0.0,2017-06-10 22:18:02,Android Accelerometer based game.  Feed the moving penguin on screen with the penguin food through sensors on the accelerometer.,0.0,Java,0.0,0.0,0.0,1.0,2017-06-12 10:12:14,0.0,3.0,0.0,1.0
+644,googlearchive,googlearchive/android-AccelerometerPlay,myrao/SensorDemo,0.0,2017-08-07 16:43:23,,0.0,Java,0.0,0.0,0.0,1.0,2017-08-07 16:45:23,0.0,3.0,0.0,0.0
+645,googlearchive,googlearchive/android-AppShortcuts,JasonZhu19910601/MyAppShortcuts,0.0,2019-01-17 07:08:42,google 官方 App shortcuts 示例跟练,0.0,Java,0.0,0.0,0.0,2.0,2019-01-17 07:09:31,0.0,1.0,0.0,0.0
+646,googlearchive,googlearchive/android-ShareActionProvider,bellatrix007/Document-Organizer,0.0,2019-02-16 00:40:39,A platform to store and organize your documents efficiently.,1.0,Java,0.0,4.0,0.0,0.0,2020-08-01 08:26:04,0.0,86.0,0.0,532.0
+647,googlearchive,googlearchive/android-fit,simonkamronn/FitnessAPI-Examples,0.0,2015-10-13 14:50:57,A few examples of using Google API Client to request access/subscribe to Google Fitness API,0.0,Java,0.0,0.0,1.0,1.0,2016-03-16 13:39:56,1.0,10.0,0.0,154.0
+648,googlearchive,googlearchive/android-fit,yangjae/android-ui,0.0,2014-06-29 13:41:41,Android L Preview Sample,1.0,Java,0.0,0.0,1.0,2.0,2019-08-13 15:44:51,1.0,7.0,0.0,1871.0
+649,googlearchive,googlearchive/android-fit,scottyab/androidkeystore,0.0,2013-08-29 13:56:35,This started out as the sample project from Android sdk modified folder structure to for eclipse.   ,13.0,Java,0.0,0.0,52.0,1.0,2021-11-15 09:50:06,52.0,2.0,0.0,2999.0
+650,googlearchive,googlearchive/android-fit,deercoder/GoogleFitDemo,0.0,2016-07-01 15:13:44,Integrated QA of YYGA with the GoogleFit support,0.0,Java,0.0,0.0,0.0,1.0,2016-08-17 01:58:30,0.0,4.0,0.0,46.0
+651,googlearchive,googlearchive/android-fit,jeffrey-garcia/wearable-fitness,0.0,2016-08-09 01:56:10,Mobile Application to use your health and ﬁtness information,1.0,Java,0.0,3.0,1.0,2.0,2018-09-20 11:35:30,1.0,124.0,0.0,772.0
+652,googlearchive,googlearchive/android-fit,SnackKing/FitnessTracker,0.0,2018-02-11 23:00:52,Class project for CSE 5236,0.0,Java,0.0,2.0,0.0,1.0,2018-06-12 23:25:34,0.0,113.0,0.0,121.0
+653,googlearchive,googlearchive/android-fit,Seo-GwangHyeon/InvisibleMirror,0.0,2018-07-14 04:46:25,우울증을 미리 진단하고 예방하기 위한 어플리케이션,0.0,Java,0.0,0.0,0.0,1.0,2019-10-23 01:48:34,0.0,17.0,0.0,465.0
+654,googlearchive,googlearchive/android-MediaRecorder,yinghuihong/MediaRecorder,0.0,2015-09-18 17:47:00,,0.0,Java,0.0,0.0,0.0,1.0,2015-09-18 17:48:36,0.0,2.0,0.0,0.0
+655,googlearchive,googlearchive/android-MediaRecorder,PopTudor/SweetCamera,0.0,2017-02-25 18:00:07,Sweet API for working with android camera,0.0,Java,1.0,0.0,0.0,2.0,2017-02-25 18:03:25,0.0,20.0,0.0,0.0
+656,googlearchive,googlearchive/android-MediaRecorder,Deepblue1996/DaDaRecord,0.0,2021-01-11 02:17:42,Android行车记录仪,0.0,Java,0.0,0.0,3.0,1.0,2022-03-22 23:54:38,3.0,1.0,0.0,435.0
+657,googlearchive,googlearchive/android-MediaRecorder,mikelhpdatke/AndroidRecorder,0.0,2018-06-02 13:28:13,60fps video recording,0.0,Java,0.0,0.0,1.0,1.0,2021-05-07 17:49:59,1.0,1.0,0.0,1070.0
+658,googlearchive,googlearchive/android-ads,sahujaunpuri/ad-mobmediation,0.0,2018-08-19 09:37:28,,0.0,Java,0.0,0.0,0.0,0.0,2018-08-19 09:37:55,0.0,309.0,0.0,0.0
+659,googlearchive,googlearchive/android-ads,sahujaunpuri/admob,0.0,2018-06-03 17:24:27,,0.0,Java,0.0,0.0,2.0,0.0,2019-04-10 08:36:08,2.0,83.0,0.0,310.0
+660,googlearchive,googlearchive/android-ads,sahujaunpuri/android-ad-mediation,0.0,2018-06-03 17:26:46,,0.0,Java,0.0,0.0,0.0,0.0,2018-06-03 17:27:02,0.0,205.0,0.0,0.0
+661,googlearchive,googlearchive/android-ads,gochi300/AndroidRecyclerViewBannerAdsDemo,0.0,2020-03-18 17:48:28,Admob Banner Ads in Android recycler view feed,0.0,Java,0.0,0.0,0.0,1.0,2020-03-18 17:48:51,0.0,1.0,0.0,0.0
+662,googlearchive,googlearchive/android-ads,gochi300/AndroidRecyclerViewNativeAdsDemo,0.0,2020-03-23 07:24:09,Admob Native Ads in Android recyclerview feed,0.0,Java,0.0,0.0,0.0,1.0,2020-03-23 07:24:28,0.0,1.0,0.0,0.0
+663,googlearchive,googlearchive/android-ads,narakai/ImpressLetters,0.0,2019-04-24 10:07:07,,0.0,Java,0.0,0.0,0.0,1.0,2019-04-26 01:00:52,0.0,1.0,0.0,1.0
+664,googlearchive,googlearchive/android-PictureInPicture,prashant31191/FirebaseAll,0.0,2017-11-03 06:39:47,FirebaseAll,1.0,Java,0.0,0.0,0.0,1.0,2017-11-03 06:46:58,0.0,32.0,0.0,0.0
+665,googlearchive,googlearchive/android-PictureInPicture,prashant31191/NewSample-2017,0.0,2017-11-24 07:19:28,UpdatedSamples,0.0,Java,0.0,0.0,0.0,2.0,2017-11-27 13:44:22,0.0,1.0,0.0,3.0
+666,googlearchive,googlearchive/android-PictureInPicture,ckwcc/PictureInPicture,0.0,2018-01-18 08:18:54,this is a PictureInPicture demo,4.0,Java,0.0,0.0,3.0,1.0,2020-06-24 00:31:28,3.0,3.0,0.0,887.0
+667,googlearchive,googlearchive/android-PictureInPicture,zhangwenhaojf40/GoogleSample,0.0,2018-12-12 02:37:38,,0.0,Java,0.0,0.0,0.0,0.0,2018-12-24 10:28:08,0.0,21.0,0.0,12.0
+668,googlearchive,googlearchive/android-EmojiCompat,KobeBryant824/MaterialDesignWidget,0.0,2017-04-07 10:25:10,http://wiki.jikexueyuan.com/project/material-design/,0.0,Java,0.0,0.0,0.0,1.0,2018-01-24 10:33:04,0.0,20.0,0.0,292.0
+669,googlearchive,googlearchive/android-EmojiCompat,zetingzhu/AppFrame3,0.0,2021-01-21 05:48:09,提交,0.0,Java,0.0,0.0,0.0,1.0,2021-12-30 02:11:44,0.0,9.0,0.0,342.0
+670,googlearchive,googlearchive/android-EmojiCompat,lsjwzh/DownloadableFontsProvider,0.0,2018-02-07 02:48:19,,1.0,Java,0.0,0.0,2.0,2.0,2020-12-04 09:06:48,2.0,4.0,0.0,1031.0
+671,googlearchive,googlearchive/android-EmojiCompat,clwater/EmojiKeyboard,0.0,2018-05-02 01:54:14,,1.0,Java,1.0,0.0,6.0,2.0,2021-06-11 02:31:13,6.0,18.0,0.0,1136.0
+672,googlearchive,googlearchive/android-ElevationDrag,tslxt/Time-Card,0.0,2016-09-01 17:17:35,,0.0,Java,0.0,0.0,0.0,2.0,2016-09-01 17:18:08,0.0,21.0,0.0,0.0
+673,googlearchive,googlearchive/android-CardEmulation,marti4ka/glowing-umbrella,0.0,2016-05-30 16:23:47,Android playground for NFC emulation,0.0,Java,0.0,3.0,1.0,1.0,2018-04-25 07:40:53,1.0,13.0,0.0,694.0
+674,googlearchive,googlearchive/android-CardEmulation,alcarl/nfcproxy,0.0,2018-01-01 09:14:40,用两个安卓手机的nfc功能截取iso14443交互数据 fork by https://github.com/nfcproxy/NFCProxy ,16.0,Java,0.0,0.0,30.0,3.0,2022-02-25 01:57:22,30.0,8.0,0.0,1515.0
+675,googlearchive,googlearchive/android-CardEmulation,dmitrykolesnikovich/android-samples,0.0,2014-07-29 11:21:43,,0.0,Java,0.0,0.0,0.0,1.0,2015-09-24 17:52:05,0.0,5.0,0.0,422.0
+676,googlearchive,googlearchive/android-SwipeRefreshLayoutBasic,qishi604/SupportDesignDemo,0.0,2015-06-18 09:00:26,Android support design demo,0.0,Java,0.0,0.0,0.0,1.0,2015-06-18 09:01:20,0.0,6.0,0.0,0.0
+677,googlearchive,googlearchive/android-SwipeRefreshLayoutBasic,cnlinrong/fast-dev-platform-android,0.0,2016-03-14 01:28:37,快速开发平台-Android,1.0,Java,0.0,0.0,1.0,1.0,2016-03-14 07:32:50,1.0,35.0,0.0,0.0
+678,googlearchive,googlearchive/android-credentials,tasomaniac/IntegrationPreference,0.0,2015-10-14 18:47:48,Preference subclass that goes into your PreferenceFragment. ,4.0,Java,0.0,2.0,13.0,3.0,2020-10-08 18:28:47,13.0,28.0,0.0,1820.0
+679,googlearchive,googlearchive/android-credentials,niravshah/takeout-ninja,0.0,2015-11-01 22:42:30,,0.0,Java,0.0,0.0,0.0,0.0,2015-11-01 22:49:19,0.0,4.0,0.0,0.0
+680,googlearchive,googlearchive/android-credentials,plusCubed/matlog,0.0,2015-07-08 05:01:00,Material Logcat reader based on CatLog,56.0,Java,18.0,41.0,241.0,23.0,2022-03-26 18:51:08,241.0,212.0,0.0,2453.0
+681,googlearchive,googlearchive/android-credentials,pranavlathigara/Android-3,0.0,2018-10-16 04:21:24,This tutorials has been prepared for the beginners to help them understand in basic Android programming.,7.0,Java,0.0,0.0,0.0,2.0,2021-10-16 18:59:41,0.0,103.0,0.0,1096.0
+682,googlearchive,googlearchive/android-credentials,morristech/Android-OCR,0.0,2017-07-12 06:33:37,Track Billing for Android,0.0,Java,0.0,0.0,0.0,0.0,2020-12-28 13:29:24,0.0,12.0,0.0,1265.0
+683,googlearchive,googlearchive/android-credentials,morristech/Time-partner,0.0,2018-05-16 20:23:52,Do NOT recommend.,0.0,Java,0.0,0.0,0.0,0.0,2018-10-11 04:47:41,0.0,7.0,0.0,147.0
+684,googlearchive,googlearchive/android-credentials,thucld/Choukai-Tasuku,0.0,2018-07-07 18:46:41,,0.0,Java,0.0,0.0,0.0,1.0,2018-07-09 13:34:38,0.0,1.0,0.0,1.0
+685,googlearchive,googlearchive/android-credentials,LastSocialDroid2/MapTest,0.0,2017-04-16 00:28:55,,0.0,Java,0.0,0.0,0.0,1.0,2017-04-16 00:31:07,0.0,1.0,0.0,0.0

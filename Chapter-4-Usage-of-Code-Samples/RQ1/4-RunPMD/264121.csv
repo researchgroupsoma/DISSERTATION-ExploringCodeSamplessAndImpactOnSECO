@@ -1,0 +1,2 @@
+framework,sample,watcher,watcher_repo,lines,tokens,occurrences,paths
+spring-guides,spring-guides/tut-rest,NawafSwe,NawafSwe/spring-boot,52,110,2,"34,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\.\watchers\NawafSwe\spring-boot\src\main\java\payroll\EmployeeController.java,28,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\..\3-DownloadSamples\code-samples\spring-guides\tut-rest\evolution\src\main\java\payroll\EmployeeController.java"

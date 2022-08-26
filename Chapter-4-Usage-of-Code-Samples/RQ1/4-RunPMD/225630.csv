@@ -1,0 +1,2 @@
+framework,sample,watcher,watcher_repo,lines,tokens,occurrences,paths
+googlearchive,googlearchive/identity-toolkit-android,ameijer,ameijer/NostalgiaApp,50,305,2,"31,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\.\watchers\ameijer\NostalgiaApp\app\src\main\java\com\nostalgia\controller\login\HttpUtils.java,31,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\..\3-DownloadSamples\code-samples\googlearchive\identity-toolkit-android\tutorial\src\com\google\identitytoolkit\demo\HttpUtils.java"

@@ -1,0 +1,2 @@
+framework,sample,watcher,watcher_repo,lines,tokens,occurrences,paths
+spring-guides,spring-guides/gs-batch-processing,pearlisme,pearlisme/SpringBatch,35,101,2,"3,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\.\watchers\pearlisme\SpringBatch\src\main\java\com\spring\batch\Person.java,3,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\..\3-DownloadSamples\code-samples\spring-guides\gs-batch-processing\complete\src\main\java\com\example\batchprocessing\Person.java"

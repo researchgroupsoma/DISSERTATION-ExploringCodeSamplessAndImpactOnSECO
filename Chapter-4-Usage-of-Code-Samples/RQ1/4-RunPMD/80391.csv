@@ -1,0 +1,2 @@
+framework,sample,watcher,watcher_repo,lines,tokens,occurrences,paths
+googlesamples,googlesamples/android-testdpc,xdtianyu,xdtianyu/android_2.3.5,21,126,2,"560,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\.\watchers\xdtianyu\android_2.3.5\frameworks\base\core\java\android\content\ContentResolver.java,285,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\..\3-DownloadSamples\code-samples\googlesamples\android-testdpc\app\src\main\java\com\afwsamples\testdpc\UserIconContentProvider.java"

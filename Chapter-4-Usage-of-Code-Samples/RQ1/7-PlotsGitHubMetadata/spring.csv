@@ -1,0 +1,49 @@
+framework,sample,full_name,archived,created_at,description,forks,language,open_issues,closed_issues,stars,subscribers,updated_at,watchers,commits,downloads,development_time
+Spring,spring-guides/gs-uploading-files,chertpong/example-for-boss,0.0,2017-05-13 17:33:45,many-to-many-with-attribute,0.0,Java,0.0,0.0,0.0,1.0,2017-05-13 17:34:11,0.0,2.0,0.0,0.0
+Spring,spring-guides/gs-uploading-files,chertpong/spring-central-service,0.0,2017-03-12 16:01:55,Spring central service (template),0.0,Java,0.0,0.0,0.0,2.0,2017-04-17 13:57:21,0.0,5.0,0.0,35.0
+Spring,spring-guides/gs-uploading-files,TonyNYL/hero,0.0,2017-05-17 05:31:25,王者荣耀英雄,0.0,Java,0.0,0.0,0.0,1.0,2017-07-19 03:02:22,0.0,4.0,0.0,62.0
+Spring,spring-guides/gs-uploading-files,TopekoX/spring-boot-file-upload,0.0,2017-09-21 01:40:02,Upload File with Spring Boot,0.0,Java,0.0,0.0,1.0,1.0,2022-03-19 13:53:27,1.0,8.0,0.0,1640.0
+Spring,spring-guides/gs-uploading-files,zbw322092/static-file-server,0.0,2018-11-05 06:55:00,static file server in Java Spring Boot (Not for production use),1.0,Java,0.0,0.0,0.0,1.0,2018-11-05 06:55:44,0.0,1.0,0.0,0.0
+Spring,spring-guides/gs-uploading-files,lagab/springboot-boilerplate,0.0,2018-11-16 15:24:14,Boilerplate for springboot Application,1.0,Java,1.0,0.0,0.0,2.0,2019-08-01 15:03:45,0.0,10.0,0.0,257.0
+Spring,spring-guides/gs-uploading-files,marstalk/hw,0.0,2019-02-13 13:56:41,,0.0,Java,0.0,0.0,0.0,0.0,2019-03-03 12:24:16,0.0,21.0,0.0,17.0
+Spring,spring-guides/gs-uploading-files,davigotxi/spring-files-uploader,0.0,2020-06-12 03:58:18,Test project to upload files using spring. Based on https://spring.io/guides/gs/uploading-files/,0.0,Java,0.0,0.0,0.0,1.0,2021-04-17 11:19:18,0.0,9.0,0.0,309.0
+Spring,spring-guides/gs-uploading-files,Harry29-exe/Car_Forum,0.0,2020-09-05 13:13:05,,0.0,Java,0.0,0.0,0.0,1.0,2020-09-05 13:14:35,0.0,13.0,0.0,0.0
+Spring,spring-guides/gs-uploading-files,hwanseok-dev/hwanseok-dev-cookbook-old,0.0,2021-05-12 08:09:39,,0.0,Java,0.0,0.0,0.0,1.0,2021-10-06 14:15:26,0.0,22.0,0.0,147.0
+Spring,spring-guides/gs-uploading-files,ksh24865/spring-study,0.0,2021-04-08 17:59:19,,0.0,Java,0.0,0.0,0.0,1.0,2021-07-18 11:05:35,0.0,59.0,0.0,100.0
+Spring,spring-guides/gs-uploading-files,phuduy1999/rookie-spring-boot-ecommerce,0.0,2021-10-15 09:44:54,,0.0,Java,0.0,0.0,0.0,1.0,2021-11-16 06:18:08,0.0,9.0,0.0,31.0
+Spring,spring-guides/gs-accessing-data-neo4j,chendaye/Neo4j,0.0,2020-05-30 16:24:55,Neo4j & Java,0.0,Java,0.0,0.0,0.0,1.0,2020-06-10 13:36:14,0.0,4.0,0.0,10.0
+Spring,spring-guides/gs-batch-processing,pearlisme/SpringBatch,0.0,2018-02-28 11:12:07,,0.0,Java,0.0,0.0,0.0,2.0,2018-06-15 18:51:31,0.0,6.0,0.0,107.0
+Spring,spring-guides/gs-batch-processing,yetsun/batch-processing,0.0,2020-04-07 00:44:00,Spring Batch test,0.0,Java,0.0,0.0,0.0,0.0,2020-04-07 17:53:38,0.0,2.0,0.0,0.0
+Spring,spring-guides/gs-batch-processing,florentbo/spring-boot-batch-jpa-bug,0.0,2020-06-24 12:42:37,,0.0,Java,0.0,0.0,0.0,1.0,2020-06-24 20:16:23,0.0,2.0,0.0,0.0
+Spring,spring-guides/gs-batch-processing,medkhabt/TpsArchitectureLogicielle,0.0,2020-12-01 11:47:49,"les tps du module Architecture logicielle , 3e annee cycle d'ingenieur option informatique",0.0,Java,0.0,0.0,2.0,1.0,2021-01-07 11:02:58,2.0,12.0,0.0,36.0
+Spring,spring-guides/gs-accessing-data-jpa,paulvi/com.example.spring.findbyexample,0.0,2016-06-03 08:11:35,spring-data-jpa-query-by-example http://stackoverflow.com/questions/27626825/spring-data-jpa-query-by-example,1.0,Java,0.0,1.0,3.0,2.0,2018-09-25 16:55:50,3.0,7.0,0.0,844.0
+Spring,spring-guides/gs-accessing-data-jpa,paulvi/com.example.springboot.mavenmoduleformodel,0.0,2016-05-19 02:42:55,"test that Spring Boot / Spring can use Entities, Repositories defined in other modules, packages",0.0,Java,0.0,0.0,0.0,2.0,2016-05-19 02:44:51,0.0,1.0,0.0,0.0
+Spring,spring-guides/gs-accessing-data-jpa,paulvi/SpringDataPostgre,0.0,2016-04-11 03:09:11,"Spring Data (Boot), PostgreSQL, gradle example",0.0,Java,0.0,0.0,0.0,1.0,2016-04-11 03:10:21,0.0,2.0,0.0,0.0
+Spring,spring-guides/gs-serving-web-content,paleou/training,0.0,2021-09-30 09:56:01,,0.0,Java,0.0,0.0,0.0,1.0,2021-09-30 09:58:21,0.0,193.0,0.0,0.0
+Spring,spring-guides/gs-producing-web-service,edwint88/PlaySoap,0.0,2017-05-14 14:02:52,Create a Soap Service and play around,0.0,Java,0.0,0.0,0.0,2.0,2017-05-14 14:05:39,0.0,4.0,0.0,0.0
+Spring,spring-guides/gs-producing-web-service,shahbazaamir/learn,0.0,2018-01-02 10:38:26,,2.0,Java,27.0,21.0,1.0,1.0,2020-04-12 13:54:16,1.0,222.0,0.0,831.0
+Spring,spring-guides/gs-producing-web-service,nachocastineira/WebServicesSOAP,0.0,2019-06-14 14:18:33,Producir y consumir un WebServices de tipo SOAP - Java  ,0.0,Java,0.0,0.0,1.0,0.0,2019-06-21 12:22:23,1.0,1.0,0.0,6.0
+Spring,spring-guides/gs-producing-web-service,guilhermerodrigues680/soap-spring-boot,0.0,2021-01-15 11:23:11,,0.0,Java,0.0,0.0,0.0,2.0,2021-01-17 17:06:59,0.0,7.0,0.0,2.0
+Spring,spring-guides/gs-producing-web-service,major1xu/spring-boot-soap-web-service,0.0,2021-02-17 00:00:54,,0.0,Java,0.0,0.0,0.0,1.0,2021-02-17 00:02:44,0.0,151.0,0.0,0.0
+Spring,spring-guides/tut-spring-boot-oauth2,tuhin47/spring-outh2,0.0,2021-03-20 15:09:02,,0.0,Java,0.0,0.0,0.0,2.0,2021-03-20 15:40:55,0.0,106.0,0.0,0.0
+Spring,spring-guides/gs-rest-service,BaReinhard/java-math-api,0.0,2017-10-22 20:44:43,A duplicate of the NODEJS Math API created in Java using Spring,0.0,Java,0.0,0.0,0.0,1.0,2017-10-24 04:26:51,0.0,6.0,0.0,1.0
+Spring,spring-guides/gs-rest-service,beatricefar/restapi,0.0,2018-05-08 13:51:06,,0.0,Java,0.0,0.0,0.0,0.0,2018-05-08 13:51:50,0.0,1.0,0.0,0.0
+Spring,spring-guides/gs-rest-service,letiantian/learn-spring,0.0,2018-07-15 01:21:25,,4.0,Java,0.0,0.0,5.0,1.0,2021-09-03 05:15:20,5.0,64.0,0.0,1146.0
+Spring,spring-guides/gs-rest-service,krishna81m/gs-rest-service,0.0,2020-04-14 00:44:10,"Spring Boot Distributed Tracer, Http/JDBC Profiler, Method Stack introspector",0.0,Java,1.0,0.0,0.0,1.0,2020-06-23 07:53:32,0.0,365.0,0.0,70.0
+Spring,spring-guides/gs-rest-service,blackghostt/cerberoaccounts,0.0,2020-07-03 06:36:00,shi carnal,0.0,Java,0.0,0.0,0.0,1.0,2020-07-03 08:30:30,0.0,4.0,0.0,0.0
+Spring,spring-guides/gs-accessing-data-mongodb,paulvi/com.example.spring.mongodb,0.0,2016-06-20 11:52:09,Minimal Spring Boot + MongoDB example (+ spring-data-mock),0.0,Java,0.0,0.0,0.0,1.0,2016-06-20 11:54:18,0.0,2.0,0.0,0.0
+Spring,spring-guides/gs-accessing-data-mongodb,nate-getch/Enterprise-Arch-Labs,0.0,2017-10-31 06:28:25,Enterprise Architecture course Lab exercises at MUM.,0.0,Java,0.0,0.0,0.0,1.0,2017-11-09 03:20:56,0.0,27.0,0.0,8.0
+Spring,spring-guides/gs-accessing-data-mongodb,yqbjtu/mongodbTutorial,0.0,2018-03-06 08:15:53,native Mongo connect and SpringBoot mongo example,2.0,Java,0.0,1.0,1.0,2.0,2022-01-10 10:08:58,1.0,15.0,0.0,1406.0
+Spring,spring-guides/gs-accessing-data-mongodb,hkj123/edwinghu,0.0,2019-07-31 06:44:24,springboot springcloud 2.0 全套,1.0,Java,6.0,2.0,0.0,2.0,2020-03-04 03:19:44,0.0,44.0,0.0,216.0
+Spring,spring-guides/gs-accessing-data-mongodb,codejcd/spring-boot-mongodb-mongorepository-demo,0.0,2022-01-19 18:29:11,spring-boot-mongodb-mongorepository-demo,0.0,Java,0.0,0.0,0.0,2.0,2022-01-22 05:50:58,0.0,10.0,0.0,2.0
+Spring,spring-guides/gs-async-method,tuonghv/Java_springboot,0.0,2020-12-22 00:50:45,,0.0,Java,0.0,0.0,0.0,1.0,2021-03-25 01:31:21,0.0,18.0,0.0,93.0
+Spring,spring-guides/gs-crud-with-vaadin,gunerhanale/springboot-portfolio,0.0,2021-02-08 22:47:34,I will implement spring boot features in this repo.,0.0,Java,0.0,0.0,0.0,1.0,2021-03-09 22:02:49,0.0,34.0,0.0,28.0
+Spring,spring-guides/tut-rest,afeiluo/web_spring_boot,0.0,2018-08-31 15:31:03,a wed app demo with spring boot,0.0,Java,0.0,0.0,0.0,2.0,2018-09-05 15:32:02,0.0,5.0,0.0,5.0
+Spring,spring-guides/tut-rest,RezaGholamzad/spring.io,0.0,2020-03-21 12:04:36,Examples of spring.io,0.0,Java,0.0,0.0,0.0,1.0,2020-10-08 10:39:40,0.0,29.0,0.0,200.0
+Spring,spring-guides/tut-rest,hankh0412/rest-jpa,0.0,2021-03-11 02:54:24,Test restful api and jpa ,0.0,Java,0.0,0.0,0.0,1.0,2021-03-13 11:19:26,0.0,5.0,0.0,2.0
+Spring,spring-guides/tut-rest,karolpawlak/springboot-REST-API,0.0,2020-03-11 13:51:40,REST API created with Spring boot for purposes of learning modern programming techniques.,0.0,Java,0.0,0.0,0.0,1.0,2022-03-04 11:40:12,0.0,5.0,0.0,722.0
+Spring,spring-guides/tut-rest,garzarobm/TTS8Weeks,0.0,2021-01-27 02:48:38,,0.0,Java,0.0,0.0,0.0,1.0,2021-12-30 23:17:45,0.0,24.0,0.0,337.0
+Spring,spring-guides/tut-rest,NawafSwe/Payroll,0.0,2021-07-20 17:51:05,,0.0,Java,0.0,0.0,0.0,1.0,2021-07-21 18:49:34,0.0,17.0,0.0,1.0
+Spring,spring-guides/tut-rest,NawafSwe/spring-boot,0.0,2021-01-01 13:18:28,first hands on spring to get experience with it. ,0.0,Java,0.0,0.0,0.0,1.0,2021-01-05 17:43:37,0.0,9.0,0.0,4.0
+Spring,spring-guides/tut-rest,escapin/spring-rest-service,0.0,2021-10-21 15:56:53,,0.0,Java,0.0,0.0,0.0,2.0,2021-11-08 11:01:06,0.0,16.0,0.0,17.0
+Spring,spring-guides/tut-rest,SatYu26/PayRoll-API,0.0,2022-02-06 21:11:29,"A simple payroll service that manages the employees of a company created using Spring Boot, H2 in-memory, JPA and Spring MVC layer",0.0,Java,0.0,0.0,0.0,1.0,2022-02-06 22:38:46,0.0,4.0,0.0,0.0

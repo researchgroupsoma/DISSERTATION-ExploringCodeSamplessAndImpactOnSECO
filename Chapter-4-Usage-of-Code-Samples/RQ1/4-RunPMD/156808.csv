@@ -1,0 +1,2 @@
+framework,sample,watcher,watcher_repo,lines,tokens,occurrences,paths
+aws-samples,aws-samples/aws-java-sample,SyCode7,SyCode7/AWS_Insights,58,125,2,"137,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\.\watchers\SyCode7\AWS_Insights\src\main\java\com\amazonaws\tests\S3Connection.java,156,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\..\3-DownloadSamples\code-samples\aws-samples\aws-java-sample\src\main\java\com\amazonaws\samples\S3Sample.java"

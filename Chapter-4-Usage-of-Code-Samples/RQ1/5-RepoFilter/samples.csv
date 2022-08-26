@@ -1,0 +1,234 @@
+framework,full_name
+Android,googlesamples/android-AutofillFramework 
+Android,googlesamples/android-play-location 
+Android,googlesamples/google-services 
+Android,googlesamples/easypermissions 
+Android,googlesamples/android-testing 
+Android,googlesamples/android-Camera2Basic 
+Android,googlesamples/android-credentials 
+Android,googlesamples/android-EmojiCompat 
+Android,googlesamples/android-instant-apps 
+Android,googlesamples/android-nearby 
+Android,googlesamples/android-AppUsageStatistics 
+Android,googlesamples/android-custom-lint-rules 
+Android,googlesamples/android-play-billing 
+Android,googlesamples/android-vision 
+Android,googlesamples/android-ads 
+Android,googlesamples/android-SpeedTracker 
+Android,googlesamples/android-BluetoothLeGatt 
+Android,googlesamples/android-Camera2Raw 
+Android,googlesamples/android-WifiRttScan 
+Android,googlesamples/android-ActionBarCompat-ShareActionProvider 
+Android,googlesamples/android-testdpc 
+Android,googlesamples/android-PictureInPicture 
+Android,googlesamples/android-ActivitySceneTransitionBasic 
+Android,googlesamples/android-Camera2Video 
+Android,googlesamples/android-Notifications 
+Android,googlesamples/android-BasicAccessibility 
+Android,googlesamples/android-XYZTouristAttractions 
+Android,googlesamples/android-WearVerifyRemoteApp 
+Android,googlesamples/android-WearSpeakerSample 
+Android,googlesamples/android-WearHighBandwidthNetworking 
+Android,googlesamples/android-WearDrawers 
+Android,googlesamples/android-WearComplicationProvidersTestSuite 
+Android,googlesamples/android-WearAccessibilityApp 
+Android,googlesamples/android-WatchFace 
+Android,googlesamples/android-RuntimePermissionsWear 
+Android,googlesamples/android-JumpingJack 
+Android,googlesamples/android-DataLayer 
+Android,googlesamples/android-AlwaysOn 
+Android,googlesamples/android-MediaEffects 
+Android,googlesamples/android-DirectBoot 
+Android,googlesamples/leanback-showcase 
+Android,googlesamples/android-MessagingService 
+Android,googlesamples/androidtv-sample-inputs 
+Android,googlesamples/leanback-homescreen-channels 
+Android,googlesamples/android-play-publisher-api 
+Android,googlesamples/androidtv-Leanback 
+Android,googlesamples/android-BluetoothChat 
+Android,googlesamples/android-MediaRecorder 
+Android,googlesamples/android-fit 
+Android,googlesamples/android-DisplayingBitmaps 
+Android,googlesamples/android-testing-templates 
+Android,googlesamples/android-ActivityInstrumentation 
+Android,googlesamples/chromeos-android-draganddrop-demo 
+Android,googlesamples/android-BasicRenderScript 
+Android,googlesamples/android-TensorFlowCloudMachineLearningEngineStylizer 
+Android,googlesamples/android-CustomChoiceList 
+Android,googlesamples/android-WatchViewStub 
+Android,googlesamples/android-Timer 
+Android,googlesamples/android-TextSwitcher 
+Android,googlesamples/android-TextLinkify 
+Android,googlesamples/android-SynchronizedNotifications 
+Android,googlesamples/android-SwipeRefreshMultipleViews 
+Android,googlesamples/android-SwipeRefreshListFragment 
+Android,googlesamples/android-SwipeRefreshLayoutBasic 
+Android,googlesamples/android-StorageProvider 
+Android,googlesamples/android-StorageClient 
+Android,googlesamples/android-SlidingTabsColors 
+Android,googlesamples/android-SlidingTabsBasic 
+Android,googlesamples/android-SkeletonWearableApp 
+Android,googlesamples/android-ShareActionProvider 
+Android,googlesamples/android-ScreenCapture 
+Android,googlesamples/android-ScopedDirectoryAccess 
+Android,googlesamples/android-RuntimePermissions 
+Android,googlesamples/android-RevealEffectBasic 
+Android,googlesamples/android-RepeatingAlarm 
+Android,googlesamples/android-RenderScriptIntrinsic 
+Android,googlesamples/android-RecyclerView 
+Android,googlesamples/android-RecipeAssistant 
+Android,googlesamples/android-Quiz 
+Android,googlesamples/android-PermissionRequest 
+Android,googlesamples/android-PdfRendererBasic 
+Android,googlesamples/android-NotificationChannels 
+Android,googlesamples/android-NfcProvisioning 
+Android,googlesamples/android-NetworkConnect 
+Android,googlesamples/android-NavigationDrawer 
+Android,googlesamples/android-MultiWindowPlayground 
+Android,googlesamples/android-MidiSynth 
+Android,googlesamples/android-MidiScope 
+Android,googlesamples/android-MediaRouter 
+Android,googlesamples/android-MediaBrowserService 
+Android,googlesamples/android-LNotifications 
+Android,googlesamples/android-JobScheduler 
+Android,googlesamples/android-Interpolator 
+Android,googlesamples/android-ImmersiveMode 
+Android,googlesamples/android-HorizontalPaging 
+Android,googlesamples/android-HdrViewfinder 
+Android,googlesamples/android-GridViewPager 
+Android,googlesamples/android-Geofencing 
+Android,googlesamples/android-FloatingActionButtonBasic 
+Android,googlesamples/android-Flashlight 
+Android,googlesamples/android-FingerprintDialog 
+Android,googlesamples/android-FindMyPhone 
+Android,googlesamples/android-ElizaChat 
+Android,googlesamples/android-ElevationDrag 
+Android,googlesamples/android-ElevationBasic 
+Android,googlesamples/android-DrawableTinting 
+Android,googlesamples/android-DragAndDropAcrossApps 
+Android,googlesamples/android-DownloadableFonts 
+Android,googlesamples/android-DoneBar 
+Android,googlesamples/android-DocumentCentricRelinquishIdentity 
+Android,googlesamples/android-DocumentCentricApps 
+Android,googlesamples/android-DirectShare 
+Android,googlesamples/android-DirectorySelection 
+Android,googlesamples/android-DeviceOwner 
+Android,googlesamples/android-DelayedConfirmation 
+Android,googlesamples/android-CustomTransition 
+Android,googlesamples/android-CustomNotifications 
+Android,googlesamples/android-ContentProviderPaging 
+Android,googlesamples/android-ConfirmCredential 
+Android,googlesamples/android-CommitContentSampleIME 
+Android,googlesamples/android-CommitContentSampleApp 
+Android,googlesamples/android-ClippingBasic 
+Android,googlesamples/android-CardView 
+Android,googlesamples/android-CardReader 
+Android,googlesamples/android-CardEmulation 
+Android,googlesamples/android-BorderlessButtons 
+Android,googlesamples/android-BluetoothAdvertisements 
+Android,googlesamples/android-BeamLargeFiles 
+Android,googlesamples/android-BatchStepSensor 
+Android,googlesamples/android-BasicTransition 
+Android,googlesamples/android-BasicSyncAdapter 
+Android,googlesamples/android-BasicNotifications 
+Android,googlesamples/android-BasicNetworking 
+Android,googlesamples/android-BasicMultitouch 
+Android,googlesamples/android-BasicMediaRouter 
+Android,googlesamples/android-BasicMediaDecoder 
+Android,googlesamples/android-BasicManagedProfile 
+Android,googlesamples/android-BasicImmersiveMode 
+Android,googlesamples/android-BasicGestureDetect 
+Android,googlesamples/android-BasicContactables 
+Android,googlesamples/android-BasicAndroidKeyStore 
+Android,googlesamples/android-AutoBackupForApps 
+Android,googlesamples/android-AsymmetricFingerprintDialog 
+Android,googlesamples/android-AppShortcuts 
+Android,googlesamples/android-AppRestrictionSchema 
+Android,googlesamples/android-AppRestrictions 
+Android,googlesamples/android-AppRestrictionEnforcer 
+Android,googlesamples/android-AdvancedImmersiveMode 
+Android,googlesamples/android-ActiveNotifications 
+Android,googlesamples/android-ActionBarCompat-Styled 
+Android,googlesamples/android-ActionBarCompat-ListPopupMenu 
+Android,googlesamples/android-ActionBarCompat-Basic 
+Android,googlesamples/android-key-attestation 
+Android,googlesamples/android-play-places 
+Android,googlesamples/android-AccelerometerPlay 
+Android,googlesamples/android-play-awareness 
+Android,googlesamples/leanback-assistant 
+Android,googlesamples/android-play-safetynet 
+Android,googlesamples/account-transfer-api 
+Android,googlesamples/android-SimpleMediaPlayer 
+Android,googlesamples/android-fido 
+Android,googlesamples/android-WearStandaloneGoogleSignIn 
+Android,googlesamples/android-WearOAuth 
+Android,googlesamples/android-unsplash 
+Android,googlesamples/android-codelab-watchface 
+Android,googlesamples/android-OurStreets 
+Android,googlesamples/android-WearCompanionLibrary 
+Android,googlesamples/android-gcmnetworkmanager 
+Android,googlesamples/identity-toolkit-android 
+Android,googlesamples/android-WclDemoSample 
+Android,googlesamples/attendee-checkin 
+Android,googlesamples/android-play-games-in-motion 
+Android,googlesamples/androidtv-daydream 
+Android,googlesamples/androidtv-VisualGameController 
+Android,googlesamples/androidtv-GameController 
+Android,googlesamples/android-google-accounts 
+Spring Boot,spring-guides/tut-rest 
+Spring Boot,spring-guides/gs-vault-config 
+Spring Boot,spring-guides/gs-spring-boot 
+Spring Boot,spring-guides/gs-rest-service 
+Spring Boot,spring-guides/gs-spring-boot-docker 
+Spring Boot,spring-guides/gs-scheduling-tasks 
+Spring Boot,spring-guides/gs-maven 
+Spring Boot,spring-guides/gs-crud-with-vaadin 
+Spring Boot,spring-guides/gs-uploading-files 
+Spring Boot,spring-guides/gs-testing-web 
+Spring Boot,spring-guides/gs-serving-web-content 
+Spring Boot,spring-guides/gs-service-registration-and-discovery 
+Spring Boot,spring-guides/gs-securing-web 
+Spring Boot,spring-guides/gs-rest-service-cors 
+Spring Boot,spring-guides/gs-relational-data-access 
+Spring Boot,spring-guides/gs-producing-web-service 
+Spring Boot,spring-guides/gs-multi-module 
+Spring Boot,spring-guides/gs-messaging-stomp-websocket 
+Spring Boot,spring-guides/gs-messaging-rabbitmq 
+Spring Boot,spring-guides/gs-messaging-jms 
+Spring Boot,spring-guides/gs-gradle 
+Spring Boot,spring-guides/gs-consuming-web-service 
+Spring Boot,spring-guides/gs-consuming-rest 
+Spring Boot,spring-guides/gs-client-side-load-balancing 
+Spring Boot,spring-guides/gs-centralized-configuration 
+Spring Boot,spring-guides/gs-authenticating-ldap 
+Spring Boot,spring-guides/gs-accessing-mongodb-data-rest 
+Spring Boot,spring-guides/gs-accessing-data-rest 
+Spring Boot,spring-guides/gs-accessing-data-mysql 
+Spring Boot,spring-guides/gs-accessing-data-jpa 
+Spring Boot,spring-guides/getting-started-guides 
+Spring Boot,spring-guides/gs-accessing-data-gemfire 
+Spring Boot,spring-guides/gs-validating-form-input 
+Spring Boot,spring-guides/gs-testing-restdocs 
+Spring Boot,spring-guides/gs-spring-boot-for-azure 
+Spring Boot,spring-guides/gs-rest-hateoas 
+Spring Boot,spring-guides/gs-reactive-rest-service 
+Spring Boot,spring-guides/gs-messaging-redis 
+Spring Boot,spring-guides/gs-messaging-gcp-pubsub 
+Spring Boot,spring-guides/gs-managing-transactions 
+Spring Boot,spring-guides/gs-integration 
+Spring Boot,spring-guides/gs-handling-form-submission 
+Spring Boot,spring-guides/gs-gateway 
+Spring Boot,spring-guides/gs-contract-rest 
+Spring Boot,spring-guides/gs-circuit-breaker 
+Spring Boot,spring-guides/gs-caching-gemfire 
+Spring Boot,spring-guides/gs-caching 
+Spring Boot,spring-guides/gs-batch-processing 
+Spring Boot,spring-guides/gs-async-method 
+Spring Boot,spring-guides/gs-actuator-service 
+Spring Boot,spring-guides/gs-accessing-vault 
+Spring Boot,spring-guides/gs-accessing-neo4j-data-rest 
+Spring Boot,spring-guides/gs-accessing-gemfire-data-rest 
+Spring Boot,spring-guides/gs-accessing-data-neo4j 
+Spring Boot,spring-guides/gs-accessing-data-mongodb 
+Spring Boot,spring-guides/tut-spring-boot-oauth2 
+Spring Boot,spring-guides/quoters 

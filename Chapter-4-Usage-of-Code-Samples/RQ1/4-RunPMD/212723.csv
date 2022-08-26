@@ -1,0 +1,2 @@
+framework,sample,watcher,watcher_repo,lines,tokens,occurrences,paths
+googlearchive,googlearchive/android-Camera2Basic,glumes,glumes/EzCameraKit,20,101,2,"37,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\.\watchers\glumes\EzCameraKit\app\src\main\java\com\glumes\sample\AutoFitSurfaceView.java,57,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\..\3-DownloadSamples\code-samples\googlearchive\android-Camera2Basic\Application\src\main\java\com\example\android\camera2basic\AutoFitTextureView.java"

@@ -1,0 +1,2 @@
+framework,sample,watcher,watcher_repo,lines,tokens,occurrences,paths
+googlearchive,googlearchive/android-Camera2Basic,miqt,miqt/camera2,12,102,2,"238,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\.\watchers\miqt\camera2\app\src\main\java\com\miser\ceamera2demo\Camera2Fragment.java,384,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\..\3-DownloadSamples\code-samples\googlearchive\android-Camera2Basic\Application\src\main\java\com\example\android\camera2basic\Camera2BasicFragment.java"

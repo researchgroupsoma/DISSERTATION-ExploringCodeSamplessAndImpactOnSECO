@@ -1,0 +1,2 @@
+framework,sample,watcher,watcher_repo,lines,tokens,occurrences,paths
+spring-guides,spring-guides/gs-producing-web-service,edwint88,edwint88/PlaySoap,24,117,2,"32,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\.\watchers\edwint88\PlaySoap\src\main\java\hello\CountryRepository.java,24,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\..\3-DownloadSamples\code-samples\spring-guides\gs-producing-web-service\complete\src\main\java\com\example\producingwebservice\CountryRepository.java"

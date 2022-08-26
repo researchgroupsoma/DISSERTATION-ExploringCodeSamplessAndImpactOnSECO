@@ -1,0 +1,2 @@
+framework,sample,watcher,watcher_repo,lines,tokens,occurrences,paths
+spring-guides,spring-guides/gs-accessing-data-jpa,paulvi,paulvi/SpringDataPostgre,23,126,2,"17,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\.\watchers\paulvi\SpringDataPostgre\src\main\java\hello\Application.java,16,C:\Users\mrgab\Documents\gabrielsmenezes\SampleUsage\SampleUsage2.5\3-UsingPMD\4-RunPMD\..\3-DownloadSamples\code-samples\spring-guides\gs-accessing-data-jpa\complete\src\main\java\com\example\accessingdatajpa\AccessingDataJpaApplication.java"
