@@ -1,0 +1,3 @@
+event_id,event_type,event_repository,code_sample_event,event_created_at,event_payload,event_action,language
+20118082239,WatchEvent,aws-samples/amazon-elasticache-redis-and-memcached-java-client-examples,1.0,2022-02-07T21:52:58Z,{'action': 'started'},started,Java
+20118080812,WatchEvent,aws-samples/amazon-elasticache-redis-and-memcached-java-client-examples,1.0,2022-02-07T21:52:52Z,{'action': 'started'},started,Java

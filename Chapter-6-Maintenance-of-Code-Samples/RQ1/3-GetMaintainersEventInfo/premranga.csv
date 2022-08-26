@@ -1,0 +1,2 @@
+event_id,event_type,event_repository,code_sample_event,event_created_at,event_payload,event_action,language
+21190088742,WatchEvent,aws-samples/amazon-chime-pstn-audio-with-amazon-lex,1.0,2022-04-08T16:23:39Z,{'action': 'started'},started,TypeScript
